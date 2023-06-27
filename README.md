@@ -1,11 +1,7 @@
-# Maps
-.ve-map 11.18,-27.77 2 right
-    - Q60
-    - Q90
-    - Q5465
+# Bedroom in Arles
 
-Click on the text below to trigger a `fly to` action.
-- ==New York=={40.7,-74,10}
-- ==Paris=={48.856944,2.351389,10}
-- ==Cape Town=={-33.925,18.425,10}
-- ==Overview=={11.18,-27.77,2}
+Van Gogh's own title for this composition was simply **The Bedroom** (French: _La Chambre à coucher_). There are three authentic versions described in his letters, easily distinguishable from one another by the ==pictures on the wall=={description="Sunflowers Giverney and The Castle"} to the right.[^1]
+
+
+
+**Bedroom in Arles** (French: _La Chambre à Arles_; Dutch: _Slaapkamer te Arles_) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter ==Vincent van Gogh=={description="A text only popover"}.
