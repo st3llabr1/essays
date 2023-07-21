@@ -21,7 +21,7 @@ Given the superiority of the new design, and Latimer's own ambitions, it would h
 
 Latimer's personal association with Bell just before Bell's spectacular success must have reinforced Latimer's determination to make his own future in technology.
 
-.ve-map  40.666, -73.870 8 left width=60%
+.ve-map 40.666, -73.870 8 left 9 width=60% caption="64 Holly Street, Queens, New York"
     
 It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. 
     
