@@ -34,7 +34,7 @@ As one might expect, Latimer's home contained loving mementos of his family life
 A smaller collection of drawings, dated between 1880 and 1885, is held by the Smithsonian's Department of Electricity and Modern Physics. In addition, materials related to Lewis Latimer can be found in the [William J. Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) at the Smithsonian archives; at the Henry Ford Library and Archives at Greenfield Village in Dearborn, Michigan; at the [Edison National Historic Site](https://npgallery.nps.gov/EDIS/SearchResults?allFields=lewis+latimer&allFieldsFormat=AllWords&view=grid&PageSize=24&Filters=none) in West Orange, New Jersey; and at the [Bridgeport Public Library](https://bportlibrary.org/hc/african-american-heritage/louis-latimer/) in Connecticut. From all these sources, it is possible to reconstruct at least an outline of the rich tapestry that was Latimer's life.
 After leaving Boston, Latimer arrived in Bridgeport, Connecticut [MAP] shortly after his thirty-first birthday. He immediately set about making himself useful in the technical community of this busy seaport. Although his stay in Bridgeport was brief, it proved to be a turning point in his career.
 
-.ve-map Q49174 right 9 width=50% 
+.ve-map Q49174 right 9 width=60% 
 
 It is said that fortune favors the prepared mind. While in Boston, Lewis Latimer had prepared himself for a technical career, and in Bridgeport a combination of circumstances led him into the young electrical utility industry as an employee of Hiram Stevens Maxim, then chief engineer at the U.S. Electric Lighting Company. In later years, he recalled his first meeting with Maxim, who later went on to international fame for inventing the fully automatic machine gun:
 
@@ -189,13 +189,13 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 [^16]: M. Latimer, diary, 8 March 1882, Norman Collection.
 [^17]: or the U.S. Electric Lighting Co., see Harold C. Passer, The Electrical Manufacturers, 1875-1900 (New York: Arno Press, 1972). In an affidavit dated April 4, 1893, Latimer stated "I commenced to work at 120 Broadway [the address after the company moved from Bridgeport] as draughtsman but later on alternated with Joseph E. Lockwood in making carbons, and finally took this part of the work entirely and continued to make carbons until November 1881 when I left the employ of this company," [emphasis added], Norman Collection. It would seem that Latimer’s work in London was under the official auspices of a company other than U.S. Electric Lighting: He may have expected to return to U.S. Electric Lighting afterwards.
 [^18]: Dated drawings, bearing signature or initials of Lewis Latimer, establish the range 5 November 1884 through 20 February 1885, National Museum of American History, Department of Electricity and Modern Physics, group number 1983.0458; item numbers .49 and .27.
-[^19]
-[^21]
-[^22]
-[^23]
-[^24]
-[^25]
-[^26]
+[^19]: Matthew Josephson, Edison: A Biography (New York: McGraw-Hill, 1959).
+[^21]: This biographical sketch is in the Norman Collection. Affidavit copies in the Norman and Greenfield Village and Edison National Site collections show that Latimer testified about Charles Perkins in 1889, with respect to Perkin’s employment at U.S. Electric Lighting [Greenfield Village Archives, box 38, folder 3] and again in 1893 about Perkins, Muller and Goebel [Greenfield Village Archives: box 38, folder 5; Edison National Site # B-6835].
+[^22]: William Edward Sawyer, Electric lighting by incandescence, and its application to interior illumination: A practical treatise (New York: D. Van Nostrand, 1881).
+[^23]: Passer, Electrical Manufacturers, 147.
+[^24]: The Columbia," Scientific American, 42 (22 May 1880), 326.
+[^25]: L. Latimer, Incandescent Electric Lighting (New York: D. Van Nostrand, 1890), 33.
+[^26]: Ibid., 74
 [^27]
 [^28]
 [^29]
