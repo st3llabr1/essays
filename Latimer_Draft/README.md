@@ -38,7 +38,7 @@ After leaving Boston, Latimer arrived in Bridgeport, Connecticut [MAP] shortly a
 
 It is said that fortune favors the prepared mind. While in Boston, Lewis Latimer had prepared himself for a technical career, and in Bridgeport a combination of circumstances led him into the young electrical utility industry as an employee of Hiram Stevens Maxim, then chief engineer at the U.S. Electric Lighting Company. In later years, he recalled his first meeting with Maxim, who later went on to international fame for inventing the fully automatic machine gun:
 
->*"In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent* Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation."*[^5]
+>*"In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation."*[^5]
 
 At about the time Latimer began work at U.S. Electric Lighting (March, 1880), he was elected to membership in Bridgeport's Scientific Society, an organization to which Maxim and other local notables also belonged. In a paper presented to the Society in May, Latimer argued that art and science were closely related; he continued to personify the relationship throughout his life, as his restless creativity found outlet in music, literature, and fine art, as well as in technical inventions.[^6]
 
@@ -124,13 +124,11 @@ While working for the Edison and General Electric companies, and thereafter, Lat
 
 In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/pioner2.jpg right width=70% caption="The Edison Pioneers, 1918" 
-
-.ve-media https://npgallery.nps.gov/EDIS/AssetDetail/4ba0aa2de01644569925179f75478827 left width=70% caption="Thomas Edison's 1973 birthday luncheon; Edison family members, the Edison Pioneers, including Lewis Latimer, in front of Building 5" 
-
-Laimter sits ==in the front right corner=={zoomto=599, 467, 125, 115}.
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/pioner2.jpg left width=70% caption="The Edison Pioneers, 1918" 
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that Latimer, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
+
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4ba0aa2de01644569925179f75478827/original.jpg right width=70% caption="Thomas Edison's 1973 birthday luncheon; Edison family members, the Edison Pioneers, including Lewis Latimer, in front of Building 5" 
 
 Situations in which Latimer proved that "a colored man" was capable of highly technical work are a recurrent thread in Latimer's recollections. From Crosby and Gould in Boston, to Maxim in Bridgeport, to the English "bosses" and Latimer's fellow employees in the Edison shops, supervisors as well as coworkers needed convincing. Latimer prevailed repeatedly, and the quality of his work and personality kept him employed through several corporate reorganizations. Later reminiscences by those who knew him professionally portray him as dignified, competent, and friendly. Surviving copies of warm correspondence with professional colleagues reinforce the image of a man moving easily within predominantly European American professional circles. When the professional sphere began to shade into the social, Latimer maintained the place he had earned, while never losing touch with his roots.
 
@@ -174,23 +172,23 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 
 ## Notes
 [^1]: Lewis H. Latimer, 1911 logbook, page "March 17." Recollections in Latimer’s own hand are in the collection of Dr. Winifred Latimer Norman, currently held at the Queens Borough Public Library, Queens, NY: They are written in yearbooks dated 1911 and 1912, with dates preprinted on the pages. Latimer first used these books as work logs, then later for drafts of poems and prose. Other biographical and autobiographical sketches—some signed or initialed by Latimer—are typewritten and may be found in the collections at the Queens Borough Public Library; the Edison National Historic Site, West Orange, NJ; and the Henry Ford Library and Archives at Greenfield Village, MI
-[^2]
-[^3]
-[^4]
-[^5]
-[^6]
-[^7]
-[^8]
-[^9]
-[^10]
-[^11]
-[^12]
-[^13]
-[^14]
-[^15]
-[^16]
-[^17]
-[^18]
+[^2]: C. W Brown and L. H. Latimer, "Water-Closets for Railroad Cars," U.S. Patent 147,363, issued 10 February. 1874.
+[^3]: Alexander Graham Bell Papers, box 4; correspondence between Melville Bell and Alexander Graham Bell, 1867-1878, passim; and box 300, subject file "the Telephone," including applications for the following U.S. Patents: 161,739, issued 6 April 1875, "Improvement in Transmitters and Receivers for Electric Telegraphs"; 174,465, issued 7 March 1876, "Improvement in Telegraphy" [basic telephone patent]; 178,399, issued 6 June 1876, "Improvement in Telephonic Telegraph-receivers"; 186,787, issued 30 January 1877, "Improvement in Electric Telegraphy" [improves transmitter for telephone]; 201,488, issued 14 March 1878, "Improvement in Speaking-Telephones"; 220,791, issued 21 October 1879, "Improvement for Telephone-circuits" [later assigned to Bell Telephone Co.]; 228,507, issued 8 June 1880, "Electric Telephone Transmitter"; 230,168, issued 16 March 1880, "Automatic Short-circuiter for Telephones"; 238,833, issued 15 March 1881, "Electric Call Bell"; 250,704, issued 13 December 1881, "Speaking-Telephone," [has earpiece in addition to usual mouthpiece]; Alexander Graham Bell Family Papers, Library of Congress, Washington, D.C.
+[^4]: L. Latimer, 1911 logbook, pages "November 18," "November 17," Norman Collection. In this case Latimer had turned the book upside down and backwards for the purpose of using blank space: Text therefore proceeds from pages with later dates to those with earlier ones.
+[^5]: L. Latimer, 1911 logbook, pages "November 17," "November 16," Norman Collection. [Again text proceeds from pages with later dates to those with earlier ones.]
+[^6]: The Record Book and Logbook of the Bridgeport Scientific Society, and its scrapbook of clippings from the Bridgeport Daily Standard, are in the collection of the Bridgeport Public Library. Maxim had been elected to membership 3 November 1879; Latimer on 13 March 1880. Latimer’s paper was delivered 18 May 1880.
+[^7]: Robert Friedel and Paul Israel, Edison’s Electric Light: Biography of an Invention, (New Brunswick, NJ: Rutgers University Press, 1987), 115-117, 243.
+[^8]: Greenfield Village Archives, box 38, folder 3.
+[^9]: William J. Hammer Collection, Archives Center of the Smithsonian Institution, National Museum of American History, Washington D.C. Register compiled by Robert S. Harding, 1986.
+[^10]: L. Latimer, 1911 logbook, "November 16," "November 15," "November 14," "November 13," Norman Collection.
+[^11]: Ibid.
+[^12]: Mary Latimer, diary, Friday, 8 January 1882, Norman Collection.
+[^13]: Hiram Maxim, My Life (New York: McBride, Nast & Co, 1915), 157 et. seq.
+[^14]:  M. Latimer, diary, 4 March 1882, Norman Collection.
+[^15]: William J. Hammer Collection, Smithsonian Institution.
+[^16]: M. Latimer, diary, 8 March 1882, Norman Collection.
+[^17]: or the U.S. Electric Lighting Co., see Harold C. Passer, The Electrical Manufacturers, 1875-1900 (New York: Arno Press, 1972). In an affidavit dated April 4, 1893, Latimer stated "I commenced to work at 120 Broadway [the address after the company moved from Bridgeport] as draughtsman but later on alternated with Joseph E. Lockwood in making carbons, and finally took this part of the work entirely and continued to make carbons until November 1881 when I left the employ of this company," [emphasis added], Norman Collection. It would seem that Latimer’s work in London was under the official auspices of a company other than U.S. Electric Lighting: He may have expected to return to U.S. Electric Lighting afterwards.
+[^18]: Dated drawings, bearing signature or initials of Lewis Latimer, establish the range 5 November 1884 through 20 February 1885, National Museum of American History, Department of Electricity and Modern Physics, group number 1983.0458; item numbers .49 and .27.
 [^19]
 [^21]
 [^22]
