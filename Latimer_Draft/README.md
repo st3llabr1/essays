@@ -20,7 +20,7 @@ Given the superiority of the new design, and Latimer's own ambitions, it would h
 Latimer's personal association with Bell just before Bell's spectacular success must have reinforced Latimer's determination to make his own future in technology.
 
 It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York [MAP/IMAGE]. 
-.ve-map 40.666347879519215, -73.87059368795109 width=50%
+.ve-map 40.666347879519215, -73.87059368795109 width=40%
     - 40.666347879519215, -73.87059368795109 "64 Holly Street, Queens, New York"
 These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. In these collections, material of a technical nature falls roughly into two large groups: one group originating in the period 1870-1890 (with a few later items), and the other group from the twentieth century, mostly after 1910. Since Latimer purchased the Holly Street house in 1903, items dated in the 1870s and 1880s probably were intentionally saved by Latimer himself or by his wife Mary. Among these early materials are a large group of drawings signed "L. H. Latimer, Inventor," a number of other drawings, about fifty technical and nontechnical books, and Mary's diary of the first four months of 1882, a time she and Latimer spent in London.
 
