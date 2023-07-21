@@ -21,8 +21,8 @@ Given the superiority of the new design, and Latimer's own ambitions, it would h
 
 Latimer's personal association with Bell just before Bell's spectacular success must have reinforced Latimer's determination to make his own future in technology.
 
-.ve-map 40.666347879519215, -73.87059368795109  9 left width=60%
-    - 40.666347879519215, -73.87059368795109 "64 Holly Street, Queens, New York"
+.ve-map 40.66699, -73.87076 10 left width=60%
+    - 40.66699, -73.87076 "64 Holly Street, Queens, New York"
     
 It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. 
     
@@ -34,6 +34,8 @@ As one might expect, Latimer's home contained loving mementos of his family life
 
 A smaller collection of drawings, dated between 1880 and 1885, is held by the Smithsonian's Department of Electricity and Modern Physics. In addition, materials related to Lewis Latimer can be found in the [William J. Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) at the Smithsonian archives; at the Henry Ford Library and Archives at Greenfield Village in Dearborn, Michigan; at the [Edison National Historic Site](https://npgallery.nps.gov/EDIS/SearchResults?allFields=lewis+latimer&allFieldsFormat=AllWords&view=grid&PageSize=24&Filters=none) in West Orange, New Jersey; and at the [Bridgeport Public Library](https://bportlibrary.org/hc/african-american-heritage/louis-latimer/) in Connecticut. From all these sources, it is possible to reconstruct at least an outline of the rich tapestry that was Latimer's life.
 After leaving Boston, Latimer arrived in Bridgeport, Connecticut [MAP] shortly after his thirty-first birthday. He immediately set about making himself useful in the technical community of this busy seaport. Although his stay in Bridgeport was brief, it proved to be a turning point in his career.
+
+.ve-map Q49174 right 9 width=50% 
 
 It is said that fortune favors the prepared mind. While in Boston, Lewis Latimer had prepared himself for a technical career, and in Bridgeport a combination of circumstances led him into the young electrical utility industry as an employee of Hiram Stevens Maxim, then chief engineer at the U.S. Electric Lighting Company. In later years, he recalled his first meeting with Maxim, who later went on to international fame for inventing the fully automatic machine gun:
 
