@@ -8,7 +8,7 @@ Lewis Latimer constructed both his personal life and his technical career as con
 
 In his early career in Boston, Latimer was surrounded by technological communities that subscribed to the American myth that any poor boy could make his fame and fortune through invention and innovation. Contemporary American experience reinforced the dream with the success of Samuel Morse's telegraph, Oliver Evans's automated flour mills, and the triumphs of various American manufacturers at the first "world's fair," the exhibition at London's Crystal Palace in 1851. The Union victory in the Civil War seemed to open the way for African Americans to participate fully in the American dream, and Latimer set his course accordingly.
 
-.ve-media https://edison.rutgers.edu/images/latimer/patents/147363.pdf left width=70% caption="Water-Closets for Railroad Cars, U.S. Patent 147,363"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/patents/147363.pdf left width=70% caption="Water-Closets for Railroad Cars, U.S. Patent 147,363"
 
 Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His first patent was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
 
@@ -49,11 +49,11 @@ Contrary to popular belief, invention generally proceeds with small steps rather
 
 Several officers of the U.S. Electric Lighting Company encouraged the employees to suggest improvements, although Maxim was reportedly hostile to the notion. Latimer took the opportunity wholeheartedly. He learned every aspect of electric light design and manufacturing and gave full play to his creative talent. Of the numerous inventions Latimer made during his employment with U.S. Electric, three were patented: a new support for arc lights,  an improvement to Maxim's method of manufacturing filaments for incandescent bulbs, and a new way to attach the carbonized filament to the platinum wires that brought electricity into the bulb from the base.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/patents/230309.pdf left width=70%
+.ve-media https://edison.rutgers.edu/images/latimer/patents/230309.pdf left width=70% caption="U.S. Patent 230,309"
 
-.ve-media default:https%3A//https://edison.rutgers.edu/images/latimer/patents/230309.pdf  right width=70%
+.ve-media https://edison.rutgers.edu/images/latimer/patents/230309.pdf  right width=70% caption="U.S. Patent 230,309"
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/patents/247097.pdf  left width=70%
+.ve-media https://edison.rutgers.edu/images/latimer/patents/247097.pdf  left width=70% caption="U.S. Patent 247,097"
 
 In addition, Latimer's unpatented inventions improved designs for virtually all the other equipment and steps involved in the lampmaking process: the oven that baked the filaments; the preparation of phosphoric anhydride (a chemical used for drying the inert gas that filled the bulb and prolonged the filament life); glassblowing equipment to produce bulbs; and a new socket and switch.
 
@@ -89,10 +89,12 @@ On several occasions Latimer testified regarding his observations while working 
 
 In 1890, he was selected to revise and thoroughly update a [book on incandescent lighting](https://archive.org/details/bub_gb_RlY4AAAAMAAJ/page/n43/mode/2up) previously published in 1881.[^21] During these nine years there had been radical advances. The previous author had been William Edward Sawyer, another of the many inventors who challenged Edison's priority in the field of incandescent lighting. Sawyer had done preliminary experimentation with Maxim for several years before the incorporation of the U.S. Electric Lighting Company in 1878, and he remained with the company for a short time before leaving to pursue his own incandescent light designs.[^22]
 
+.ve-media https://archive.org/details/sim_scientific-american_1880-05-22_42_21/page/326/mode/2up left caption=" The Columbia, Scientific American, 42 (22 May 1880), p. 33"
+
 On one copy of his own work Latimer inscribed, 
 >"This was the first book on Electric Lighting published in the United States." Latimer probably felt free to make this claim because of the great changes that had occurred in the field since Sawyer's edition. In 1881, incandescent lighting was limited to a few isolated plants serving no more than a single building. The most ambitious of these had been Edison's installation on the steamship Columbia, which sailed from New York on May 8, 1880, bound for San Francisco."[23]
 
-.ve-media https://archive.org/details/sim_scientific-american_1880-05-22_42_21/page/326/mode/2up left caption=" The Columbia, Scientific American, 42 (22 May 1880)"
+.ve-media https://archive.org/details/sim_scientific-american_1880-05-22_42_21/page/326/mode/2up right caption=" The Columbia, Scientific American, 42 (22 May 1880), p. 74"
 
 By 1890, central-station electric utilities serving whole towns or large areas of cities had become common. Although the court battles over the basic patents were not yet over, in the public mind the Edison system had come to seem utterly synonymous with "electric light." The field of incandescent lighting had been completely remade, and Edison's system was now the only one worth discussing.
 
@@ -123,6 +125,8 @@ In 1918, Latimer became a founding member of a rather exclusive social group: th
 
 .ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/pioner2.jpg right width=70% caption="The Edison Pioneers, 1918" 
 
+.ve-media https://npgallery.nps.gov/EDIS/AssetDetail/4ba0aa2de01644569925179f75478827 left width=70% caption="Thomas Edison's 1973 birthday luncheon; Edison family members, the Edison Pioneers, including Lewis Latimer, in front of Building 5" 
+
 Laimter sits ==in the front right corner=={zoomto=599, 467, 125, 115}.
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that Latimer, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
@@ -149,9 +153,11 @@ Latimer's humanity and philosophy, which governed his professional as well as pe
 
 >If our cause be made the common cause, and all our claims and demands be founded on justice and humanity, recognizing that we must wrong no man in winning ourrights, I have faith to believe that the Nation will respond to our plea for equality before the law, security under the law, and an opportunity, by and through maintenance of the law, to enjoy with our fellow citizens of all races and complexions the blessings guaranteed us under the Constitution. . . . [^35]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/family.jpg right width=70%
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/family.jpg left width=70%
 
 In his personal life, Latimer again worked within nineteenth-century American ideals. He maintained an advanced amateur's gentlemanly pursuit of music, art, and literature, and he promoted these cultural interests in his family. Latimer's literary efforts included poetry, prose, and plays. In 1900, The Willing Workers Circle presented his "Comedy," which raised over seventy-five dollars[^36]. Several [poems](https://invention.si.edu/innovative-lives-lewis-latimer-1848-1928-renaissance-man) and short prose pieces were published during his lifetime. He received some small fees for these, and the editor of one magazine went so far as to proclaim "Let me tell you, poetry is your 'forte.' Every one of your poetic effusions . . . Not only did they please me individually, but they have taken by storm every one that has read them." [^37]Latimer sent a poem to Edison, for possible inclusion in a planned Fourth of July commemorative phonograph recording. Edison accepted the poem, and Latimer continued to submit poetry to Edison's West Orange office.[^38] One of Edison's assistants later wrote:
+
+.ve-media https://edisondigital.rutgers.edu/iiif/D8847AAY right width=70%
 
 >Dear Latimer:
 >Your welcome letter came to hand a few days ago, and enclosing some Poetry.
