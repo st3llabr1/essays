@@ -8,6 +8,8 @@ Lewis Latimer constructed both his personal life and his technical career as con
 
 In his early career in Boston, Latimer was surrounded by technological communities that subscribed to the American myth that any poor boy could make his fame and fortune through invention and innovation. Contemporary American experience reinforced the dream with the success of Samuel Morse's telegraph, Oliver Evans's automated flour mills, and the triumphs of various American manufacturers at the first "world's fair," the exhibition at London's Crystal Palace in 1851. The Union victory in the Civil War seemed to open the way for African Americans to participate fully in the American dream, and Latimer set his course accordingly.
 
+.ve-media https://edison.rutgers.edu/images/latimer/patents/147363.pdf left width=70% caption="Water-Closets for Railroad Cars, U.S. Patent 147,363"
+
 Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His first patent was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
 
 
@@ -28,7 +30,7 @@ These are now held in the collections of the Queens Borough Public Library and o
 
 As one might expect, Latimer's home contained loving mementos of his family life and ample evidence of his lifelong activities in the arts, music, and literature. Also among Latimer's effects were letters from African American notables ==Richard Greener=={Q7329434}, ==Victoria Earle Mathews=={Q7926692}, Booker T. Washington, ==Samuel Scottron=={Q7412436}, William Ferris, Frederick Douglass, and Haiti's Bishop James Theodore Holly. There were also warm letters from Latimer's European American professional associates, including his former employer ==Hiram Maxim=={Q315601}, his last employers Edwin Hammer & Elmer Schwarz, and fellow members of the ==Edison Pioneers=={Q4363182} E A. Wardlaw and W. R Meadowcroft.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg left width=60% caption="Elevator Suspension System, 1881"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg left width=70% caption="Elevator Suspension System, 1881"
 
 A smaller collection of drawings, dated between 1880 and 1885, is held by the Smithsonian's Department of Electricity and Modern Physics. In addition, materials related to Lewis Latimer can be found in the [William J. Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) at the Smithsonian archives; at the Henry Ford Library and Archives at Greenfield Village in Dearborn, Michigan; at the [Edison National Historic Site](https://npgallery.nps.gov/EDIS/SearchResults?allFields=lewis+latimer&allFieldsFormat=AllWords&view=grid&PageSize=24&Filters=none) in West Orange, New Jersey; and at the [Bridgeport Public Library](https://bportlibrary.org/hc/african-american-heritage/louis-latimer/) in Connecticut. From all these sources, it is possible to reconstruct at least an outline of the rich tapestry that was Latimer's life.
 After leaving Boston, Latimer arrived in Bridgeport, Connecticut [MAP] shortly after his thirty-first birthday. He immediately set about making himself useful in the technical community of this busy seaport. Although his stay in Bridgeport was brief, it proved to be a turning point in his career.
@@ -41,21 +43,21 @@ At about the time Latimer began work at U.S. Electric Lighting (March, 1880), he
 
 The U.S. Electric Lighting Company was only one of Edison's competitors in the race to develop a successful incandescent light. Inventors on both sides of the Atlantic had been working toward this goal since at least 1838, many using elements that were later incorporated into the successful "Edison" light. Thomas Edison himself continued to improve his incandescent bulbs; his electric light patents alone fill three bound volumes. Unfortunately, only one person captures the attention of the public and is hailed as "the" inventor, no matter how much previous work he builds on, nor how much additional work must be done to make the "invention" sufficiently useful and economical for it to become widely acceptable.[^7]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/237198.jpg right width=60% caption="U.S. Patent 237,198"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/237198.jpg right width=70% caption="U.S. Patent 237,198"
 
 Contrary to popular belief, invention generally proceeds with small steps rather than flashes of dramatic insight. Some of these steps become part of later successful artifacts, many more do not. The Smithsonian's Hammer Collection includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today.
 
 Several officers of the U.S. Electric Lighting Company encouraged the employees to suggest improvements, although Maxim was reportedly hostile to the notion. Latimer took the opportunity wholeheartedly. He learned every aspect of electric light design and manufacturing and gave full play to his creative talent. Of the numerous inventions Latimer made during his employment with U.S. Electric, three were patented: a new support for arc lights,  an improvement to Maxim's method of manufacturing filaments for incandescent bulbs, and a new way to attach the carbonized filament to the platinum wires that brought electricity into the bulb from the base.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/patents/230309.pdf left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/patents/230309.pdf left width=70%
 
-.ve-media default:https%3A//https://edison.rutgers.edu/images/latimer/patents/230309.pdf  right width=60%
+.ve-media default:https%3A//https://edison.rutgers.edu/images/latimer/patents/230309.pdf  right width=70%
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/patents/247097.pdf  left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/patents/247097.pdf  left width=70%
 
 In addition, Latimer's unpatented inventions improved designs for virtually all the other equipment and steps involved in the lampmaking process: the oven that baked the filaments; the preparation of phosphoric anhydride (a chemical used for drying the inert gas that filled the bulb and prolonged the filament life); glassblowing equipment to produce bulbs; and a new socket and switch.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=60% caption="Phosphoric Anyhydride Apparatus, 1881"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=70% caption="Phosphoric Anyhydride Apparatus, 1881"
 
 It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and been paid for them. [^8] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
 
@@ -67,7 +69,7 @@ When the company moved to Brooklyn in 1880, Latimer moved with it and continued 
 
 He also recalled that his Montreal nights were occupied with learning French, and his days "were spent climbing telegraph poles and locating arc lamps on them with the assistance of my laborers who seemed much impressed with my effort to speak their native language."[^11] His last assignment for U.S. Electric Lighting was in London, to advise the English on setting up a lamp factory. He arrived New Year's Day of January 1882.[^12] By this time, his mentor Maxim was only minimally associated with the electric business. Although Maxim did meet at least once with Latimer in London, his time and interest were increasingly absorbed in developing the machine gun which brought him his greatest fame. [^13] Latimer returned to New York later in 1882, but Maxim stayed in London for many years.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=60% caption="Multiple Carbon Incandescent Lamp, 1881"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=70% caption="Multiple Carbon Incandescent Lamp, 1881"
 
 Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant), Lew and I went to Crystal Palace, staid until I was thoroughly tired out." [^14]They probably went to see the electrical exhibition on display there, featuring Edison's incandescent light system. Latimer may even have met William Hammer, the engineer in charge of many of Edison's electric light exhibits. Hammer later included a "Latimer lamp" in his incandescent bulb collection "History of an Art." He also included Latimer in his portrait collection "Eminent Men of Electrical Science." (Hiram Maxim's portrait is conspicuously absent from this collection.)[^15]
 
@@ -77,7 +79,7 @@ When Latimer returned to the United States late in 1882, the U.S. Electric Light
 
 Surviving evidence indicates that the period 1880-1885 was Latimer's most prolific in terms of invention, although he continued this creative activity for the remainder of his professional life. About 1885, Latimer found stable employment with the Edison Electric Light Company of New York (parent company of all the Edison electric utility companies) and related or successor firms. He achieved a respected professional position on the basis of his patent expertise, his encyclopedic knowledge of lamp design and manufacturing, his drafting skills, and his creative intelligence.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/eel.jpg right width=60% caption="Edison Electric LIght Company, 1886"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/eel.jpg right width=70% caption="Edison Electric LIght Company, 1886"
 
 From 1885 to about 1924, Latimer worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
 
@@ -89,6 +91,8 @@ In 1890, he was selected to revise and thoroughly update a book on incandescent 
 
 On one copy of his own work Latimer inscribed, 
 >"This was the first book on Electric Lighting published in the United States." Latimer probably felt free to make this claim because of the great changes that had occurred in the field since Sawyer's edition. In 1881, incandescent lighting was limited to a few isolated plants serving no more than a single building. The most ambitious of these had been Edison's installation on the steamship Columbia, which sailed from New York on May 8, 1880, bound for San Francisco."[23]
+
+.ve-media https://archive.org/details/sim_scientific-american_1880-05-22_42_21/page/326/mode/2up left caption=""The Columbia," Scientific American, 42 (22 May 1880)"
 
 By 1890, central-station electric utilities serving whole towns or large areas of cities had become common. Although the court battles over the basic patents were not yet over, in the public mind the Edison system had come to seem utterly synonymous with "electric light." The field of incandescent lighting had been completely remade, and Edison's system was now the only one worth discussing.
 
@@ -111,7 +115,7 @@ We know Latimer also felt a keen sense of obligation to his heritage, which he m
 
 Reinforcing these motives, the incandescent electric light held a powerful message for Latimer, as for many others. Here was an invention "no less welcome in the palace than in the humblest home." The lamp embodied the relationship of art and science, and its improvement promised benefits for all classes of society. The electric light was a cause well worth serving. All of Latimer's inventions, patented and unpatented, relate to improving the quality of life: Maxim's automatic machine gun must have been repulsive to him.
 
-.ve-media https://edison.rutgers.edu/images/latimer/patents/781890.pdf left width=60% caption="U.S. Patent 781,890"
+.ve-media https://edison.rutgers.edu/images/latimer/patents/781890.pdf left width=70% caption="U.S. Patent 781,890"
 
 While working for the Edison and General Electric companies, and thereafter, Latimer continued to invent at a much reduced rate (his last patent was granted in 1905). Of the drawings found in his Queens home, by far the greater number of those on which he claimed credit as "inventor" are dated prior to 1885, although the home was purchased much later. This is consistent with the speculation that Latimer prized his early work and his vision of himself as an inventor.
 
@@ -127,7 +131,7 @@ Situations in which Latimer proved that "a colored man" was capable of highly te
 
 In addition to the Edison Pioneers, Latimer treasured his membership in the ==Grand Army of the Republic=={Q4118606}, a symbol of his service in the Civil War. He became Adjutant of the George Huntsman post of the GAR in Flushing. Latimer was also a founding member of the Flushing Unitarian Church. While these were integrated, predominantly European American organizations, Latimer was also active on behalf of African Americans both locally and nationally.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/gar.jpg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/gar.jpg left width=70%
 
 Latimer was involved in several local philanthropies, contributing both time and money. He maintained close relationships with well-known African Americans, such as inventor and businessman Samuel Scottron. In 1902 after Scottron was removed from the Brooklyn School Board because of his race, Latimer was an active participant in the ensuing protest. He wrote and circulated a petition, which was then sent to Mayor Seth Low. After the fact, a disappointed Latimer noted the following on a copy: "Notwithstanding the three hundred signatures, no notice was taken of the above, other than a clerical acknowledgement of its receipt." [^30]
 
@@ -145,9 +149,9 @@ Latimer's humanity and philosophy, which governed his professional as well as pe
 
 >If our cause be made the common cause, and all our claims and demands be founded on justice and humanity, recognizing that we must wrong no man in winning ourrights, I have faith to believe that the Nation will respond to our plea for equality before the law, security under the law, and an opportunity, by and through maintenance of the law, to enjoy with our fellow citizens of all races and complexions the blessings guaranteed us under the Constitution. . . . [^35]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/family.jpg right width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/family.jpg right width=70%
 
-In his personal life, Latimer again worked within nineteenth-century American ideals. He maintained an advanced amateur's gentlemanly pursuit of music, art, and literature, and he promoted these cultural interests in his family. Latimer's literary efforts included poetry, prose, and plays. In 1900, The Willing Workers Circle presented his "Comedy," which raised over seventy-five dollars.[^36] Several [poems] (https://invention.si.edu/innovative-lives-lewis-latimer-1848-1928-renaissance-man) and short prose pieces were published during his lifetime. He received some small fees for these, and the editor of one magazine went so far as to proclaim "Let me tell you, poetry is your 'forte.' Every one of your poetic effusions . . . Not only did they please me individually, but they have taken by storm every one that has read them." [^37]Latimer sent a poem to Edison, for possible inclusion in a planned Fourth of July commemorative phonograph recording. Edison accepted the poem, and Latimer continued to submit poetry to Edison's West Orange office.[^38] One of Edison's assistants later wrote:
+In his personal life, Latimer again worked within nineteenth-century American ideals. He maintained an advanced amateur's gentlemanly pursuit of music, art, and literature, and he promoted these cultural interests in his family. Latimer's literary efforts included poetry, prose, and plays. In 1900, The Willing Workers Circle presented his "Comedy," which raised over seventy-five dollars[^36]. Several [poems](https://invention.si.edu/innovative-lives-lewis-latimer-1848-1928-renaissance-man) and short prose pieces were published during his lifetime. He received some small fees for these, and the editor of one magazine went so far as to proclaim "Let me tell you, poetry is your 'forte.' Every one of your poetic effusions . . . Not only did they please me individually, but they have taken by storm every one that has read them." [^37]Latimer sent a poem to Edison, for possible inclusion in a planned Fourth of July commemorative phonograph recording. Edison accepted the poem, and Latimer continued to submit poetry to Edison's West Orange office.[^38] One of Edison's assistants later wrote:
 
 >Dear Latimer:
 >Your welcome letter came to hand a few days ago, and enclosing some Poetry.
