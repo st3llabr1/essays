@@ -8,7 +8,7 @@ Lewis Latimer constructed both his personal life and his technical career as con
 
 In his early career in Boston, Latimer was surrounded by technological communities that subscribed to the American myth that any poor boy could make his fame and fortune through invention and innovation. Contemporary American experience reinforced the dream with the success of Samuel Morse's telegraph, Oliver Evans's automated flour mills, and the triumphs of various American manufacturers at the first "world's fair," the exhibition at London's Crystal Palace in 1851. The Union victory in the Civil War seemed to open the way for African Americans to participate fully in the American dream, and Latimer set his course accordingly.
 
-.ve-media default:https%3A//github.com/st3llabr1/media/blob/main/Latimer_147363_Page_1.jpg left width=70% caption="Water-Closets for Railroad Cars, U.S. Patent 147,363"
+.ve-media https://commons.wikimedia.org/wiki/File:Sunflower.jpg left width=70% caption="Water-Closets for Railroad Cars, U.S. Patent 147,363"
 
 Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His first patent was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
 
