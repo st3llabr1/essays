@@ -124,11 +124,11 @@ While working for the Edison and General Electric companies, and thereafter, Lat
 
 In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/pioner2.jpg left width=70% caption="The Edison Pioneers, 1918" 
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/pioner2.jpg right width=70% caption="The Edison Pioneers, 1918" 
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that Latimer, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4ba0aa2de01644569925179f75478827/original.jpg right width=70% caption="Thomas Edison's 1973 birthday luncheon; Edison family members, the Edison Pioneers, including Lewis Latimer, in front of Building 5" 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4ba0aa2de01644569925179f75478827/original.jpg left width=70% caption="Thomas Edison's 1973 birthday luncheon; Edison family members, the Edison Pioneers, including Lewis Latimer, in front of Building 5" 
 
 Situations in which Latimer proved that "a colored man" was capable of highly technical work are a recurrent thread in Latimer's recollections. From Crosby and Gould in Boston, to Maxim in Bridgeport, to the English "bosses" and Latimer's fellow employees in the Edison shops, supervisors as well as coworkers needed convincing. Latimer prevailed repeatedly, and the quality of his work and personality kept him employed through several corporate reorganizations. Later reminiscences by those who knew him professionally portray him as dignified, competent, and friendly. Surviving copies of warm correspondence with professional colleagues reinforce the image of a man moving easily within predominantly European American professional circles. When the professional sphere began to shade into the social, Latimer maintained the place he had earned, while never losing touch with his roots.
 
