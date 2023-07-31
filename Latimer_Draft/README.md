@@ -1,7 +1,8 @@
 # Inventing a Better Life: Latimer’s Technical Career
 
-## Author: Bayla Singer
+## Adapted from Bayla Singer, by The Thomas A. Edison Papers Team
 
+### Introduction and Early Career
 .ve-media wc:Lewis_latimer.jpg left width=80% caption="Lewis Latimer"
 
 ==Lewis Latimer=={Q732229} constructed both his personal life and his technical career as concrete examples of his philosophical approach to the place of blacks in American life after the Civil War. Although some African Americans proposed resegregating themselves, and others thought that freedmen's occupational advance should proceed by small steps (and take several generations), Latimer preferred to insist that blacks were full American citizens, and he conducted himself accordingly. Applying his own considerable talent to the opportunities that presented themselves, Latimer chose to position himself as an example to both races of what could be accomplished in a context of racial integration and unhesitating professional aspiration.
@@ -28,6 +29,8 @@ It is appropriate to digress at this point, in order to describe the surviving p
 These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. In these collections, material of a technical nature falls roughly into two large groups: one group originating in the period 1870-1890 (with a few later items), and the other group from the twentieth century, mostly after 1910. Since Latimer purchased the Holly Street house in 1903, items dated in the 1870s and 1880s probably were intentionally saved by Latimer himself or by his wife Mary. Among these early materials are a large group of drawings signed "L. H. Latimer, Inventor," a number of other drawings, about fifty technical and nontechnical books, and Mary's diary of the first four months of 1882, a time she and Latimer spent in London.
 
 As one might expect, Latimer's home contained loving mementos of his family life and ample evidence of his lifelong activities in the arts, music, and literature. Also among Latimer's effects were letters from African American notables ==Richard Greener=={Q7329434}, ==Victoria Earle Mathews=={Q7926692}, ==Booker T. Washington=={Q319871}, ==Samuel Scottron=={Q7412436}, ==William Ferris=={Q8010398}, ==Frederick Douglass=={Q215562}, and Haiti's Bishop ==James Theodore Holly=={Q6144121}. There were also warm letters from Latimer's European American professional associates, including his former employer ==Hiram Maxim=={Q315601}, his last employers Edwin Hammer & Elmer Schwarz, and fellow members of the ==Edison Pioneers=={Q4363182} E A. Wardlaw and W. R Meadowcroft.
+
+### Travelling from Bridgeport to London, Latimer's Patents
 
 After leaving Boston, Latimer arrived in Bridgeport, Connecticut shortly after his thirty-first birthday. He immediately set about making himself useful in the technical community of this busy seaport. Although his stay in Bridgeport was brief, it proved to be a turning point in his career.
 
@@ -63,7 +66,7 @@ This stepwise incremental nature of invention and development is part of the fou
 
 When the company moved to Brooklyn in 1880, Latimer moved with it and continued to diversify his achievements. In addition to his desk work and shop work, he went out into the field assisting in arc and incandescent installations of Maxim equipment in New York, Philadelphia, and Montreal. In his logbook, he later recalled:
 
->*I had qualified myself to take charge of producing the carbons for the lamps, when I was not drawing, and worked through the day helping to make the lamps and at night locateing them in stores and offices. Electrical measurements had not then been invented and all our work was by guess. Office bell wire was the only kind on the market, and our method of figureing was that it was a good guess that that size wire would carry a certain number of lamps without dangerous heating. A number of misterious fires about this time were probably the fruit of our ignorance. The Equitable, Building, Fish and Hatch, the Union Club, and a number of other places were supplied with lamps and the men to run them. These were strenuous times, and we made long hours each day. At the factory by seven in the morning, and after the days work somewhere running lamps until twelve o'clock or later at night."[^10]
+>*I had qualified myself to take charge of producing the carbons for the lamps, when I was not drawing, and worked through the day helping to make the lamps and at night locateing them in stores and offices. Electrical measurements had not then been invented and all our work was by guess. Office bell wire was the only kind on the market, and our method of figureing was that it was a good guess that that size wire would carry a certain number of lamps without dangerous heating. A number of misterious fires about this time were probably the fruit of our ignorance. The Equitable, Building, Fish and Hatch, the Union Club, and a number of other places were supplied with lamps and the men to run them. These were strenuous times, and we made long hours each day. At the factory by seven in the morning, and after the days work somewhere running lamps until twelve o'clock or later at night.*[^10]
 
 He also recalled that his Montreal nights were occupied with learning French, and his days "were spent climbing telegraph poles and locating arc lamps on them with the assistance of my laborers who seemed much impressed with my effort to speak their native language."[^11] His last assignment for U.S. Electric Lighting was in London, to advise the English on setting up a lamp factory. He arrived New Year's Day of January 1882.[^12] By this time, his mentor Maxim was only minimally associated with the electric business. Although Maxim did meet at least once with Latimer in London, his time and interest were increasingly absorbed in developing the machine gun which brought him his greatest fame. [^13] Latimer returned to New York later in 1882, but Maxim stayed in London for many years.
 
@@ -74,6 +77,8 @@ Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant
 The London diary also notes that "Lew is making a fine drawing of an invention of his, of some improvement in elevators and will see if he can get a patent on it. I hope it will be a success, he deserves to be successful for he works and studies all the time. . . ."[^16] Although the elevator improvement was never patented, Latimer continued to work on it. As late as 1898, Latimer was actively bringing his elevator work to the attention of the Westinghouse, General Electric, and Otis Elevator companies. None of these companies were inclined to pursue the matter. The elevator stands, however, as symbol and evidence of Latimer's continuing pursuit of the American dream of upward mobility via invention.
 
 .ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=70% caption="Elevator Suspension System, 1881"
+
+### Latimer's Prolific Period of Invention
 
 When Latimer returned to the United States late in 1882, the U.S. Electric Light Company had undergone several corporate changes. Maxim was no longer associated with the company, and Latimer found he had no place in the new organization.[^17] There is considerable conflicting evidence regarding the dates and firms of Latimer's employment for the next few years. The names of the Weston Company, Olmstead Electric Co., Imperial Electric Light Co., Mather Electric Co., and Acme Electric Light Co. all appear in various biographical and autobiographical accounts prepared more than a decade later. As mentioned above, drawings prepared by Latimer for C. G. Perkins at the Imperial Electric Light Co. during 1884 and 1885 are in the Smithsonian's collection. [^18]
 
@@ -87,7 +92,7 @@ On several occasions Latimer testified regarding his observations while working 
 
 >*the Edison Company . . . he made drawings for Court exhibits, had charge of the library, inspected infringing plants in various parts of the country, and testified as to facts in a number of cases, without materially encouraging the opposing counsel. He also did considerable searching for which his previous experience, and a moderate knowledge of French and German qualified him, rendering efficient service along these lines in the historical filament case and others of this period, involving basic patents. *[^20]
 
-In 1890, he was selected to revise and thoroughly update a [book on incandescent lighting](https://archive.org/details/bub_gb_RlY4AAAAMAAJ/page/n43/mode/2up) previously published in 1881.[^21] During these nine years there had been radical advances. The previous author had been William Edward Sawyer, another of the many inventors who challenged Edison's priority in the field of incandescent lighting. Sawyer had done preliminary experimentation with Maxim for several years before the incorporation of the U.S. Electric Lighting Company in 1878, and he remained with the company for a short time before leaving to pursue his own incandescent light designs.[^22]
+In 1890, he was selected to revise and thoroughly update a book on incandescent lighting previously published in 1881.[^21] During these nine years there had been radical advances. The previous author had been William Edward Sawyer, another of the many inventors who challenged Edison's priority in the field of incandescent lighting. Sawyer had done preliminary experimentation with Maxim for several years before the incorporation of the U.S. Electric Lighting Company in 1878, and he remained with the company for a short time before leaving to pursue his own incandescent light designs.[^22]
 
 .ve-media https://iiif.archivelab.org/iiif/sim_scientific-american_1880-05-22_42_21/manifest.json  left width=90% seq=8
 
@@ -113,7 +118,11 @@ Latimer may also have felt that he had a better chance at a successful career in
 
 >*To a man who had . . . chumy relations with Hiram Maxim and other great inventors the relations of English bosses and employees were to say the least peculiar. The prevailing motif seemed to be humility of the workman and the attitude that nothing that I can do can repay you for permitting me to earn an honest living. My assistant and myself were in hot water from the first moment to the end of my engagement, and as we were incapable of assuming a humility we could not feel, there was a continual effort to discount us . . . .*[27]
 
-We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, as runaway slaves, had been assisted by whites as well as blacks. Their case had [galvanized the Boston abolitionist community to its first major political activity](https://archive.org/details/jointspecialcomm00mass/page/n1/mode/2up). Latimer and his brothers had enlisted in the military and served in the Civil War. As with his professional career, Latimer may well have hoped and expected to see continued improvement in the social environment of his native country. We know that he devoted the rest of his life to working for that goal.
+### Latimer's Black Heritage
+
+We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, as runaway slaves, had been assisted by whites as well as blacks. Their case had galvanized the Boston abolitionist community to its first major political activity. Latimer and his brothers had enlisted in the military and served in the Civil War. As with his professional career, Latimer may well have hoped and expected to see continued improvement in the social environment of his native country. We know that he devoted the rest of his life to working for that goal.
+
+.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=80% seq=2 caption="The joing special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..."
 
 Reinforcing these motives, the incandescent electric light held a powerful message for Latimer, as for many others. Here was an invention "no less welcome in the palace than in the humblest home." The lamp embodied the relationship of art and science, and its improvement promised benefits for all classes of society. The electric light was a cause well worth serving. All of Latimer's inventions, patented and unpatented, relate to improving the quality of life: Maxim's automatic machine gun must have been repulsive to him.
 
@@ -123,11 +132,9 @@ While working for the Edison and General Electric companies, and thereafter, Lat
 
 In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/pioner2.jpg right width=70% caption="The Edison Pioneers, 1918" 
+.ve-media https://npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg right width=70% caption="The Edison Pioneers, 1918" 
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that Latimer, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
-
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/4ba0aa2de01644569925179f75478827/original.jpg left width=70% caption="Thomas Edison's 1973 birthday luncheon; Edison family members, the Edison Pioneers, including Lewis Latimer, in front of Building 5" 
 
 Situations in which Latimer proved that "a colored man" was capable of highly technical work are a recurrent thread in Latimer's recollections. From Crosby and Gould in Boston, to Maxim in Bridgeport, to the English "bosses" and Latimer's fellow employees in the Edison shops, supervisors as well as coworkers needed convincing. Latimer prevailed repeatedly, and the quality of his work and personality kept him employed through several corporate reorganizations. Later reminiscences by those who knew him professionally portray him as dignified, competent, and friendly. Surviving copies of warm correspondence with professional colleagues reinforce the image of a man moving easily within predominantly European American professional circles. When the professional sphere began to shade into the social, Latimer maintained the place he had earned, while never losing touch with his roots.
 
@@ -142,12 +149,14 @@ Latimer also was concerned with those less famous than Scottron. He generously s
 Latimer was well informed about national issues concerning African Americans and was respected by men who had far more formal education. William Ferris, author, public speaker, and Yale graduate, wrote to Latimer in 1913: 
 >*My book fell like a bolt from the blue. I have the Booker Washington crowd hors de combat. & in spite of their opposition & the indifference of Dr. DuBois & his friends, I have come across the footlights with the most comprehensive survey & study of the colored race, ever given to the world. And that fact is being testified to by the book reviews. And I thank you for your prompt recognition of my book. The Providence Journal had a splendid review of the book last week. I shall come down to New York City the latter part of that week & I hope that you will have a brief sketch of your career ready.* [^33]
 
-.ve-media wc:Richard_Theodore_Greener.jpg right width=70%
+.ve-media wc:Richard_Theodore_Greener.jpg right width=50%
 
 Latimer also maintained a close personal relationship with Richard Greener, the first African American to graduate from Harvard. Greener, a lawyer and political activist, wrote long letters filled with expressions of respect and affection as well as details of African American political affairs. In one informal letter, he reminisced about the exciting days in Boston before the Civil War, adding: 
 
 >*How I should like to see you all! . . . truly you might love a good man. . . . and a noble man, as you are; not exactly ready to be translated, not too good for earthly food, but for all in all, one of the most humanly human fellows I know.*
 [^34]
+
+### Conclusion
 
 Latimer's humanity and philosophy, which governed his professional as well as personal life, were expressed in his letter supporting the aims of the National Conference of Colored Men in 1895:
 
