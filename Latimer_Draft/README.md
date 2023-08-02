@@ -1,6 +1,6 @@
-# Inventing a Better Life: Latimer’s Technical Career
+.ve-header "Inventing a Better Life: Latimer's Technical Career"  default:https%3A//edison.rutgers.edu/images/latimer/tech/bulb2.jpg "A Digital Exhibit" pct:3,23,80,20, center sticky
 
-## Adapted from Bayla Singer, by The Thomas A. Edison Papers Team
+## Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
 
 ### Introduction and Early Career
 .ve-media wc:Lewis_latimer.jpg left width=80% caption="Lewis Latimer"
@@ -96,11 +96,10 @@ the Edison cause. One of the biographical sketches, apparently prepared as a let
 >*the Edison Company . . . he made drawings for Court exhibits, had charge of the library, inspected infringing plants in various parts of the country, and testified as to facts in a number of cases, without materially encouraging the opposing counsel. He also did considerable searching for which his previous experience, and a moderate knowledge of French and German qualified him, rendering efficient service along these lines in the historical filament case and others of this period, involving basic patents.*[^20]
 
 In 1890, he was selected to revise and thoroughly update a book on incandescent lighting previously published in 1881.[^21] During these nine years there had been radical advances. The previous author had been William Edward Sawyer, another of the many inventors who challenged Edison's priority in the field of incandescent lighting. Sawyer had done preliminary experimentation with Maxim for several years before the incorporation of the U.S. Electric Lighting Company in 1878, and he remained with the company for a short time before leaving to pursue his own incandescent light designs.[^22]
-
-.ve-media https://iiif.archivelab.org/iiif/sim_scientific-american_1880-05-22_42_21/manifest.json  left width=90% seq=8
+.ve-media https://iiif.archivelab.org/iiif/sim_scientific-american_1880-05-22_42_21/manifest.json  left seq=8 region=pct:20,20,50,50 caption="Steamship Columbia"
 
 On one copy of his own work Latimer inscribed, 
->*This was the first book on Electric Lighting published in the United States." Latimer probably felt free to make this claim because of the great changes that had occurred in the field since Sawyer's edition. In 1881, incandescent lighting was limited to a few isolated plants serving no more than a single building. The most ambitious of these had been Edison's installation on the steamship ==Columbia=={164,1,392,252}, which sailed from New York on May 8, 1880, bound for San Francisco.*[23]
+>*This was the first book on Electric Lighting published in the United States." Latimer probably felt free to make this claim because of the great changes that had occurred in the field since Sawyer's edition. In 1881, incandescent lighting was limited to a few isolated plants serving no more than a single building. The most ambitious of these had been Edison's installation on the steamship ==Columbia=={346,329,426,537}, which sailed from New York on May 8, 1880, bound for San Francisco.*[23]
 
 By 1890, central-station electric utilities serving whole towns or large areas of cities had become common. Although the court battles over the basic patents were not yet over, in the public mind the Edison system had come to seem utterly synonymous with "electric light." The field of incandescent lighting had been completely remade, and Edison's system was now the only one worth discussing.
 
