@@ -135,14 +135,14 @@ Reinforcing these motives, the incandescent electric light held a powerful messa
 
 While working for the Edison and General Electric companies, and thereafter, Latimer continued to invent at a much reduced rate (his last patent was granted in 1905). Of the drawings found in his Queens home, by far the greater number of those on which he claimed credit as "inventor" are dated prior to 1885, although the home was purchased much later. This is consistent with the speculation that Latimer prized his early work and his vision of himself as an inventor.
 
-In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
-
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT781890 left width=70% caption="U.S. Patent 781,890"
+
+In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that Latimer, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
 
-.ve-media https://npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg right width=70% caption="The Edison Pioneers, 1918" 
-
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg right width=70% caption="The Edison Pioneers, 1918" 
+   
 Situations in which Latimer proved that "a colored man" was capable of highly technical work are a recurrent thread in Latimer's recollections. From Crosby and Gould in Boston, to Maxim in Bridgeport, to the English "bosses" and Latimer's fellow employees in the Edison shops, supervisors as well as coworkers needed convincing. Latimer prevailed repeatedly, and the quality of his work and personality kept him employed through several corporate reorganizations. Later reminiscences by those who knew him professionally portray him as dignified, competent, and friendly. Surviving copies of warm correspondence with professional colleagues reinforce the image of a man moving easily within predominantly European American professional circles. When the professional sphere began to shade into the social, Latimer maintained the place he had earned, while never losing touch with his roots.
 
 In addition to the Edison Pioneers, Latimer treasured his membership in the ==Grand Army of the Republic=={Q4118606}, a symbol of his service in the Civil War. He became Adjutant of the George Huntsman post of the GAR in Flushing. Latimer was also a founding member of the Flushing Unitarian Church. While these were integrated, predominantly European American organizations, Latimer was also active on behalf of African Americans both locally and nationally.
@@ -169,7 +169,7 @@ Latimer's humanity and philosophy, which governed his professional as well as pe
 
 >*If our cause be made the common cause, and all our claims and demands be founded on justice and humanity, recognizing that we must wrong no man in winning ourrights, I have faith to believe that the Nation will respond to our plea for equality before the law, security under the law, and an opportunity, by and through maintenance of the law, to enjoy with our fellow citizens of all races and complexions the blessings guaranteed us under the Constitution. . . .* [^35]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/family.jpg left width=70%
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/family.jpg left width=70% caption="Lewis Latimer, left, seated, with family" 
 
 In his personal life, Latimer again worked within nineteenth-century American ideals. He maintained an advanced amateur's gentlemanly pursuit of music, art, and literature, and he promoted these cultural interests in his family. Latimer's literary efforts included poetry, prose, and plays. In 1900, The Willing Workers Circle presented his "Comedy," which raised over seventy-five dollars[^36]. Several [poems](https://invention.si.edu/innovative-lives-lewis-latimer-1848-1928-renaissance-man) and short prose pieces were published during his lifetime. He received some small fees for these, and the editor of one magazine went so far as to proclaim "Let me tell you, poetry is your 'forte.' Every one of your poetic effusions . . . Not only did they please me individually, but they have taken by storm every one that has read them." [^37]Latimer sent a poem to Edison, for possible inclusion in a planned Fourth of July commemorative phonograph recording. Edison accepted the poem, and Latimer continued to submit poetry to Edison's West Orange office.[^38] One of Edison's assistants later wrote:
 
@@ -186,6 +186,9 @@ Poetry was not an unusual activity for "technical" men: On the occasion of Lewis
 >*It speaks well for both of you that each has put up with the other for so long a time; this statement is directed especially to Mr. Latimer, whose idiosyncrasies we know so well. But we find that during the forty years of his connection with electrical matters he does not appear to have made any but friends of those with whom he has been associated. . . .*[^40]
 
 Throughout his life, Latimer pursued his objectives with quiet dignity. The testimony of his career, his colleagues, and his family affirms his high level of success. Perhaps the truest words appeared in the [editorial obituary](https://credo.library.umass.edu/view/pageturn/mums312-b178-i618/#page/1/mode/1u) of the Amsterdam News on December 19, 1928: “His work in science was an achievement and his personal life was a work of art.”
+
+### Read Latimer's Obituary
+
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-001.png left width=50% caption="Latimer Obituary p.1"
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-002.png  right width=50% caption="Latimer Obituary p.2"
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
