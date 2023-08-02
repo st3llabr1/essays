@@ -40,13 +40,13 @@ It is said that fortune favors the prepared mind. While in Boston, Lewis Latimer
 
 >*In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation.*[^5]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/bulb2.jpg left width=70% caption="Incandescent Electric Lamp, 1880"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/bulb2.jpg left width=50% caption="Incandescent Electric Lamp, 1880"
 
 At about the time Latimer began work at U.S. Electric Lighting (March, 1880), he was elected to membership in Bridgeport's Scientific Society, an organization to which Maxim and other local notables also belonged. In a paper presented to the Society in May, Latimer argued that art and science were closely related; he continued to personify the relationship throughout his life, as his restless creativity found outlet in music, literature, and fine art, as well as in technical inventions.[^6]
 
 The U.S. Electric Lighting Company was only one of Edison's competitors in the race to develop a successful incandescent light. Inventors on both sides of the Atlantic had been working toward this goal since at least 1838, many using elements that were later incorporated into the successful "Edison" light. Thomas Edison himself continued to improve his incandescent bulbs; his electric light patents alone fill three bound volumes. Unfortunately, only one person captures the attention of the public and is hailed as "the" inventor, no matter how much previous work he builds on, nor how much additional work must be done to make the "invention" sufficiently useful and economical for it to become widely acceptable.[^7]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/237198.jpg right width=70% caption="U.S. Patent 237,198"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/237198.jpg right width=50% caption="U.S. Patent 237,198"
 
 Contrary to popular belief, invention generally proceeds with small steps rather than flashes of dramatic insight. Some of these steps become part of later successful artifacts, many more do not. The [Smithsonian's Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today.
 
@@ -68,7 +68,7 @@ When the company moved to Brooklyn in 1880, Latimer moved with it and continued 
 
 >*I had qualified myself to take charge of producing the carbons for the lamps, when I was not drawing, and worked through the day helping to make the lamps and at night locateing them in stores and offices. Electrical measurements had not then been invented and all our work was by guess. Office bell wire was the only kind on the market, and our method of figureing was that it was a good guess that that size wire would carry a certain number of lamps without dangerous heating. A number of misterious fires about this time were probably the fruit of our ignorance. The Equitable, Building, Fish and Hatch, the Union Club, and a number of other places were supplied with lamps and the men to run them. These were strenuous times, and we made long hours each day. At the factory by seven in the morning, and after the days work somewhere running lamps until twelve o'clock or later at night.*[^10]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=70% caption="Phosphoric Anyhydride Apparatus, 1881"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
 
 He also recalled that his Montreal nights were occupied with learning French, and his days "were spent climbing telegraph poles and locating arc lamps on them with the assistance of my laborers who seemed much impressed with my effort to speak their native language."[^11] His last assignment for U.S. Electric Lighting was in London, to advise the English on setting up a lamp factory. He arrived New Year's Day of January 1882.[^12] By this time, his mentor Maxim was only minimally associated with the electric business. Although Maxim did meet at least once with Latimer in London, his time and interest were increasingly absorbed in developing the machine gun which brought him his greatest fame. [^13] Latimer returned to New York later in 1882, but Maxim stayed in London for many years.
 
@@ -78,20 +78,20 @@ The London diary also notes that "Lew is making a fine drawing of an invention o
 
 ### Latimer's Prolific Period of Invention
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=70% caption="Multiple Carbon Incandescent Lamp, 1881"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=50% caption="Multiple Carbon Incandescent Lamp, 1881"
 
 When Latimer returned to the United States late in 1882, the U.S. Electric Light Company had undergone several corporate changes. Maxim was no longer associated with the company, and Latimer found he had no place in the new organization.[^17] There is considerable conflicting evidence regarding the dates and firms of Latimer's employment for the next few years. The names of the Weston Company, Olmstead Electric Co., Imperial Electric Light Co., Mather Electric Co., and Acme Electric Light Co. all appear in various biographical and autobiographical accounts prepared more than a decade later. As mentioned above, drawings prepared by Latimer for C. G. Perkins at the Imperial Electric Light Co. during 1884 and 1885 are in the Smithsonian's collection. [^18]
 
 Surviving evidence indicates that the period 1880-1885 was Latimer's most prolific in terms of invention, although he continued this creative activity for the remainder of his professional life. About 1885, Latimer found stable employment with the Edison Electric Light Company of New York (parent company of all the Edison electric utility companies) and related or successor firms. He achieved a respected professional position on the basis of his patent expertise, his encyclopedic knowledge of lamp design and manufacturing, his drafting skills, and his creative intelligence.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=70% caption="Elevator Suspension System, 1881"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=50% caption="Elevator Suspension System, 1881"
 
 From 1885 to about 1924, Latimer worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
 
 On several occasions Latimer testified regarding his observations while working for Edison's competitors. Since Latimer had worked with or been employed by most of the men who challenged Edison's patents, his testimony as to what was going on in their shops was valuable to 
 the Edison cause. One of the biographical sketches, apparently prepared as a letter of reference, states that while in the Legal Department of 
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/eel.jpg left width=70% caption="Edison Electric Light Company, 1886"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/eel.jpg left width=50% caption="Edison Electric Light Company, 1886"
 
 >*the Edison Company . . . he made drawings for Court exhibits, had charge of the library, inspected infringing plants in various parts of the country, and testified as to facts in a number of cases, without materially encouraging the opposing counsel. He also did considerable searching for which his previous experience, and a moderate knowledge of French and German qualified him, rendering efficient service along these lines in the historical filament case and others of this period, involving basic patents.*[^20]
 
@@ -122,9 +122,14 @@ Latimer may also have felt that he had a better chance at a successful career in
 
 ### Latimer's Black Heritage
 
-We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, as runaway slaves, had been assisted by whites as well as blacks. Their case had galvanized the Boston abolitionist community to its first major political activity. Latimer and his brothers had enlisted in the military and served in the Civil War. As with his professional career, Latimer may well have hoped and expected to see continued improvement in the social environment of his native country. We know that he devoted the rest of his life to working for that goal.
+We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, as runaway slaves, had been assisted by whites as well as blacks. Their case had galvanized the [Boston abolitionist community to its first major political activity](https://edison.rutgers.edu/resources/latimer/the-george-latimer-case). 
 
-.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=80% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..."
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/George/runaway.jpg left width=80% caption=
+"Newspaper Advertisements, October 15, 1842"
+
+Latimer and his brothers had enlisted in the military and served in the Civil War. As with his professional career, Latimer may well have hoped and expected to see continued improvement in the social environment of his native country. We know that he devoted the rest of his life to working for that goal.
+
+.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..."
 
 Reinforcing these motives, the incandescent electric light held a powerful message for Latimer, as for many others. Here was an invention "no less welcome in the palace than in the humblest home." The lamp embodied the relationship of art and science, and its improvement promised benefits for all classes of society. The electric light was a cause well worth serving. All of Latimer's inventions, patented and unpatented, relate to improving the quality of life: Maxim's automatic machine gun must have been repulsive to him.
 
