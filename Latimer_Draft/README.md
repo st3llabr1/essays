@@ -46,7 +46,7 @@ At about the time Latimer began work at U.S. Electric Lighting (March, 1880), he
 
 The U.S. Electric Lighting Company was only one of Edison's competitors in the race to develop a successful incandescent light. Inventors on both sides of the Atlantic had been working toward this goal since at least 1838, many using elements that were later incorporated into the successful "Edison" light. Thomas Edison himself continued to improve his incandescent bulbs; his electric light patents alone fill three bound volumes. Unfortunately, only one person captures the attention of the public and is hailed as "the" inventor, no matter how much previous work he builds on, nor how much additional work must be done to make the "invention" sufficiently useful and economical for it to become widely acceptable.[^7]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/237198.jpg right width=50% caption="U.S. Patent 237,198"
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT237198 right width=50% caption="U.S. Patent 237,198"
 
 Contrary to popular belief, invention generally proceeds with small steps rather than flashes of dramatic insight. Some of these steps become part of later successful artifacts, many more do not. The [Smithsonian's Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today.
 
