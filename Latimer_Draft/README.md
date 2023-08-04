@@ -122,7 +122,7 @@ Latimer may also have felt that he had a better chance at a successful career in
 
 ### Latimer's Black Heritage
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/George/runaway.jpg left width=80% caption="Newspaper Advertisements, October 15, 1842"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/George/runaway.jpg left width=70% caption="Newspaper Advertisements, October 15, 1842"
 We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, as runaway slaves, had been assisted by whites as well as blacks. Their case had galvanized the [Boston abolitionist community to its first major political activity](https://edison.rutgers.edu/resources/latimer/the-george-latimer-case). 
 
 Latimer and his brothers had enlisted in the military and served in the Civil War. As with his professional career, Latimer may well have hoped and expected to see continued improvement in the social environment of his native country. We know that he devoted the rest of his life to working for that goal.
