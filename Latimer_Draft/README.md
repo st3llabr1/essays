@@ -122,9 +122,8 @@ Latimer may also have felt that he had a better chance at a successful career in
 
 ### Latimer's Black Heritage
 
-We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, as runaway slaves, had been assisted by whites as well as blacks. Their case had galvanized the [Boston abolitionist community to its first major political activity](https://edison.rutgers.edu/resources/latimer/the-george-latimer-case). 
-
 .ve-media default:https%3A//edison.rutgers.edu/images/latimer/George/runaway.jpg left width=80% caption="Newspaper Advertisements, October 15, 1842"
+We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, as runaway slaves, had been assisted by whites as well as blacks. Their case had galvanized the [Boston abolitionist community to its first major political activity](https://edison.rutgers.edu/resources/latimer/the-george-latimer-case). 
 
 Latimer and his brothers had enlisted in the military and served in the Civil War. As with his professional career, Latimer may well have hoped and expected to see continued improvement in the social environment of his native country. We know that he devoted the rest of his life to working for that goal.
 
@@ -132,16 +131,16 @@ Latimer and his brothers had enlisted in the military and served in the Civil Wa
 
 Reinforcing these motives, the incandescent electric light held a powerful message for Latimer, as for many others. Here was an invention "no less welcome in the palace than in the humblest home." The lamp embodied the relationship of art and science, and its improvement promised benefits for all classes of society. The electric light was a cause well worth serving. All of Latimer's inventions, patented and unpatented, relate to improving the quality of life: Maxim's automatic machine gun must have been repulsive to him.
 
-While working for the Edison and General Electric companies, and thereafter, Latimer continued to invent at a much reduced rate (his last patent was granted in 1905). Of the drawings found in his Queens home, by far the greater number of those on which he claimed credit as "inventor" are dated prior to 1885, although the home was purchased much later. This is consistent with the speculation that Latimer prized his early work and his vision of himself as an inventor.
-
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT781890 left width=70% caption="U.S. Patent 781,890"
+
+While working for the Edison and General Electric companies, and thereafter, Latimer continued to invent at a much reduced rate (his last patent was granted in 1905). Of the drawings found in his Queens home, by far the greater number of those on which he claimed credit as "inventor" are dated prior to 1885, although the home was purchased much later. This is consistent with the speculation that Latimer prized his early work and his vision of himself as an inventor.
 
 In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
 
-At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that Latimer, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
-
 .ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg right width=70% caption="The Edison Pioneers, 1918" 
-   
+
+At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that ==Latimer=={1846,1529,426,537}, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
+
 Situations in which Latimer proved that "a colored man" was capable of highly technical work are a recurrent thread in Latimer's recollections. From Crosby and Gould in Boston, to Maxim in Bridgeport, to the English "bosses" and Latimer's fellow employees in the Edison shops, supervisors as well as coworkers needed convincing. Latimer prevailed repeatedly, and the quality of his work and personality kept him employed through several corporate reorganizations. Later reminiscences by those who knew him professionally portray him as dignified, competent, and friendly. Surviving copies of warm correspondence with professional colleagues reinforce the image of a man moving easily within predominantly European American professional circles. When the professional sphere began to shade into the social, Latimer maintained the place he had earned, while never losing touch with his roots.
 
 In addition to the Edison Pioneers, Latimer treasured his membership in the ==Grand Army of the Republic=={Q4118606}, a symbol of his service in the Civil War. He became Adjutant of the George Huntsman post of the GAR in Flushing. Latimer was also a founding member of the Flushing Unitarian Church. While these were integrated, predominantly European American organizations, Latimer was also active on behalf of African Americans both locally and nationally.
