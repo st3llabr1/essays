@@ -1,4 +1,4 @@
-.ve-header "Inventing a Better Life: Latimer's Technical Career"  default:https%3A//edison.rutgers.edu/images/latimer/tech/bulb2.jpg "A Digital Exhibit" pct:10,23,80,20, center sticky
+.ve-header "Inventing a Better Life: Latimer's Technical Career" default:https%3A//edison.rutgers.edu/images/latimer/tech/bulb2.jpg  "A Digital Exhibit" center sticky
 
 ## Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
 
@@ -14,8 +14,6 @@ Latimer began, as he recalled, with "a taste for drawing"[^1]  and became profic
 
 >*neither agreeable to use nor wholly safe, the draft through the hopper being always excessive, while the annoyance from dust, cinders, and other matters thrown up from the track is so great as to forbid or discourage the use of the apparatus except under extreme circumstances.*
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 left width=70% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
-
 Given the superiority of the new design, and Latimer's own ambitions, it would have been exceedingly strange if Latimer and his colleague had indeed made no effort to market their new device. However, there is no record of any such attempt, and Latimer does not mention it in his autobiographical reminiscences. In Latimer's later years, he recalled that he had made "the drawings for the application for a patent upon the telephone" for ==Alexander Graham Bell=={Q34286}. It is not clear exactly which patent Latimer might be referring to, since Bell received several patents based on applications made in the years 1875-1880, when Latimer might have been of assistance. Bell referred to all of these as "telephone patents."[^3] Latimer's detailed descriptions of the geographic proximity of his office to the place where Bell was teaching, and of meeting with Bell add credibility to his claim, although no supporting evidence has been found in either the Bell family papers or the patent applications themselves. Latimer's 1911 logbook reads as follows: 
 
 >*. . . at the time of which I write Alexander Graham Bell was teaching . . . in the College of liberal arts . . . and I was obliged to stay at the office until after nine p.m. when he was free from his night classes, to get my instructions from him, as to how I was to make the drawings for the application for a patent upon the telephone.* [^4]
@@ -30,7 +28,7 @@ These are now held in the collections of the Queens Borough Public Library and o
 
 As one might expect, Latimer's home contained loving mementos of his family life and ample evidence of his lifelong activities in the arts, music, and literature. Also among Latimer's effects were letters from African American notables ==Richard Greener=={Q7329434}, ==Victoria Earle Mathews=={Q7926692}, ==Booker T. Washington=={Q319871}, ==Samuel Scottron=={Q7412436}, ==William Ferris=={Q8010398}, ==Frederick Douglass=={Q215562}, and Haiti's Bishop ==James Theodore Holly=={Q6144121}. There were also warm letters from Latimer's European American professional associates, including his former employer ==Hiram Maxim=={Q315601}, his last employers Edwin Hammer & Elmer Schwarz, and fellow members of the ==Edison Pioneers=={Q4363182} E A. Wardlaw and W. R Meadowcroft.
 
-### Travelling from Bridgeport to London, Latimer's Patents
+### Early Career 
 
 After leaving Boston, Latimer arrived in Bridgeport, Connecticut shortly after his thirty-first birthday. He immediately set about making himself useful in the technical community of this busy seaport. Although his stay in Bridgeport was brief, it proved to be a turning point in his career.
 
@@ -52,13 +50,7 @@ Contrary to popular belief, invention generally proceeds with small steps rather
 
 Several officers of the U.S. Electric Lighting Company encouraged the employees to suggest improvements, although Maxim was reportedly hostile to the notion. Latimer took the opportunity wholeheartedly. He learned every aspect of electric light design and manufacturing and gave full play to his creative talent. Of the numerous inventions Latimer made during his employment with U.S. Electric, three were patented: a new support for arc lights,  an improvement to Maxim's method of manufacturing filaments for incandescent bulbs, and a new way to attach the carbonized filament to the platinum wires that brought electricity into the bulb from the base.
 
-.ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 left width=70% caption="Latimer's Electric Lamp"
-.ve-media  https://edisondigital.rutgers.edu/iiif/PAT255212 right width=70% caption="Tregoning and Latimer's Globe Supporter for Electric Lamps"
-
-
 In addition, Latimer's unpatented inventions improved designs for virtually all the other equipment and steps involved in the lampmaking process: the oven that baked the filaments; the preparation of phosphoric anhydride (a chemical used for drying the inert gas that filled the bulb and prolonged the filament life); glassblowing equipment to produce bulbs; and a new socket and switch.
-
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT247097 left width=70% caption="Nichols and Latimer's Electric Lamp"
 
 It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and been paid for them. [^8] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
 
@@ -96,7 +88,7 @@ the Edison cause. One of the biographical sketches, apparently prepared as a let
 >*the Edison Company . . . he made drawings for Court exhibits, had charge of the library, inspected infringing plants in various parts of the country, and testified as to facts in a number of cases, without materially encouraging the opposing counsel. He also did considerable searching for which his previous experience, and a moderate knowledge of French and German qualified him, rendering efficient service along these lines in the historical filament case and others of this period, involving basic patents.*[^20]
 
 In 1890, he was selected to revise and thoroughly update a book on incandescent lighting previously published in 1881.[^21] During these nine years there had been radical advances. The previous author had been William Edward Sawyer, another of the many inventors who challenged Edison's priority in the field of incandescent lighting. Sawyer had done preliminary experimentation with Maxim for several years before the incorporation of the U.S. Electric Lighting Company in 1878, and he remained with the company for a short time before leaving to pursue his own incandescent light designs.[^22]
-.ve-media https://iiif.archivelab.org/iiif/sim_scientific-american_1880-05-22_42_21/manifest.json  left width=80% seq=8 region=pct:20,40,70,70 caption="Steamship Columbia"
+.ve-media https://iiif.archivelab.org/iiif/sim_scientific-american_1880-05-22_42_21/manifest.json  right width=80% seq=8 region=pct:20,40,70,70 caption="Steamship Columbia"
 
 On one copy of his own work Latimer inscribed, 
 >*This was the first book on Electric Lighting published in the United States." Latimer probably felt free to make this claim because of the great changes that had occurred in the field since Sawyer's edition. In 1881, incandescent lighting was limited to a few isolated plants serving no more than a single building. The most ambitious of these had been Edison's installation on the steamship Columbia, which sailed from New York on May 8, 1880, bound for San Francisco.*[23]
@@ -107,7 +99,7 @@ Latimer's book combined lucid technical description with a touch of poetry. In d
 
 >*If the electric current can be forced through a substance that is a poor conductor, it will create a degree of heat in that substance, which will be greater or less according to the quantity of electricity forced through it. Upon this principle of the heating effect of the electrical current, is based the operation of the incandescent lamp . . . Where copper and platinum wires readily conduct the current, the carbon filament offers a great deal of resistance to its passage, and for this reason becomes very hot, in fact is raised to white heat or incandescence, which gives its name to the lamp.* [^24]
 
-.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json right width=80% seq=45 caption="Incandescent Electric Lighting"
+.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json left width=80% seq=45 caption="Incandescent Electric Lighting"
 
 And in describing the quality of the lamp, 
 >*Like the light of the sun, it beautifies all things on which it shines, and is no less welcome in the palace than in the humblest home.*[^25]
@@ -127,17 +119,15 @@ We know Latimer also felt a keen sense of obligation to his heritage, which he m
 
 Latimer and his brothers had enlisted in the military and served in the Civil War. As with his professional career, Latimer may well have hoped and expected to see continued improvement in the social environment of his native country. We know that he devoted the rest of his life to working for that goal.
 
-.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..."
-
 Reinforcing these motives, the incandescent electric light held a powerful message for Latimer, as for many others. Here was an invention "no less welcome in the palace than in the humblest home." The lamp embodied the relationship of art and science, and its improvement promised benefits for all classes of society. The electric light was a cause well worth serving. All of Latimer's inventions, patented and unpatented, relate to improving the quality of life: Maxim's automatic machine gun must have been repulsive to him.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT781890 left width=70% caption="Latimer's Book Supporter"
+.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..."
 
 While working for the Edison and General Electric companies, and thereafter, Latimer continued to invent at a much reduced rate (his last patent was granted in 1905). Of the drawings found in his Queens home, by far the greater number of those on which he claimed credit as "inventor" are dated prior to 1885, although the home was purchased much later. This is consistent with the speculation that Latimer prized his early work and his vision of himself as an inventor.
 
 In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg right width=70% caption="The Edison Pioneers, 1918" 
+.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg left width=70% caption="The Edison Pioneers, 1918" 
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that ==Latimer=={1846,1529,426,537}, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
 
@@ -145,7 +135,7 @@ Situations in which Latimer proved that "a colored man" was capable of highly te
 
 In addition to the Edison Pioneers, Latimer treasured his membership in the ==Grand Army of the Republic=={Q4118606}, a symbol of his service in the Civil War. He became Adjutant of the George Huntsman post of the GAR in Flushing. Latimer was also a founding member of the Flushing Unitarian Church. While these were integrated, predominantly European American organizations, Latimer was also active on behalf of African Americans both locally and nationally.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/gar.jpg left width=70% caption="Latimer and the Grand Army of the Republic"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/gar.jpg right width=70% caption="Latimer and the Grand Army of the Republic"
 
 Latimer was involved in several local philanthropies, contributing both time and money. He maintained close relationships with well-known African Americans, such as inventor and businessman Samuel Scottron. In 1902 after Scottron was removed from the Brooklyn School Board because of his race, Latimer was an active participant in the ensuing protest. He wrote and circulated a petition, which was then sent to Mayor Seth Low. After the fact, a disappointed Latimer noted the following on a copy: "Notwithstanding the three hundred signatures, no notice was taken of the above, other than a clerical acknowledgement of its receipt." [^30]
 
@@ -154,7 +144,7 @@ Latimer also was concerned with those less famous than Scottron. He generously s
 Latimer was well informed about national issues concerning African Americans and was respected by men who had far more formal education. William Ferris, author, public speaker, and Yale graduate, wrote to Latimer in 1913: 
 >*My book fell like a bolt from the blue. I have the Booker Washington crowd hors de combat. & in spite of their opposition & the indifference of Dr. DuBois & his friends, I have come across the footlights with the most comprehensive survey & study of the colored race, ever given to the world. And that fact is being testified to by the book reviews. And I thank you for your prompt recognition of my book. The Providence Journal had a splendid review of the book last week. I shall come down to New York City the latter part of that week & I hope that you will have a brief sketch of your career ready.* [^33]
 
-.ve-media wc:Richard_Theodore_Greener.jpg right width=50%
+.ve-media wc:Richard_Theodore_Greener.jpg left==placeholder=={.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..." width=50%
 
 Latimer also maintained a close personal relationship with Richard Greener, the first African American to graduate from Harvard. Greener, a lawyer and political activist, wrote long letters filled with expressions of respect and affection as well as details of African American political affairs. In one informal letter, he reminisced about the exciting days in Boston before the Civil War, adding: 
 
@@ -190,6 +180,14 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-001.png left width=50% caption="Latimer Obituary p.1"
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-002.png  right width=50% caption="Latimer Obituary p.2"
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
+
+### Explore Latimer's Patents
+
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 left width=70% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
+.ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 right width=70% caption="Latimer's Electric Lamp"
+.ve-media  https://edisondigital.rutgers.edu/iiif/PAT255212 left width=70% caption="Tregoning and Latimer's Globe Supporter for Electric Lamps"
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT247097 right width=70% caption="Nichols and Latimer's Electric Lamp"
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT781890 left width=70% caption="Latimer's Book Supporter"
 
 ## Notes
 [^1]: Lewis H. Latimer, 1911 logbook, page "March 17." Recollections in Latimer’s own hand are in the collection of Dr. Winifred Latimer Norman, currently held at the Queens Borough Public Library, Queens, NY: They are written in yearbooks dated 1911 and 1912, with dates preprinted on the pages. Latimer first used these books as work logs, then later for drafts of poems and prose. Other biographical and autobiographical sketches—some signed or initialed by Latimer—are typewritten and may be found in the collections at the Queens Borough Public Library; the Edison National Historic Site, West Orange, NJ; and the Henry Ford Library and Archives at Greenfield Village, MI
