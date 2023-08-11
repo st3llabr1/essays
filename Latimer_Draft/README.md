@@ -144,7 +144,9 @@ Latimer also was concerned with those less famous than Scottron. He generously s
 Latimer was well informed about national issues concerning African Americans and was respected by men who had far more formal education. William Ferris, author, public speaker, and Yale graduate, wrote to Latimer in 1913: 
 >*My book fell like a bolt from the blue. I have the Booker Washington crowd hors de combat. & in spite of their opposition & the indifference of Dr. DuBois & his friends, I have come across the footlights with the most comprehensive survey & study of the colored race, ever given to the world. And that fact is being testified to by the book reviews. And I thank you for your prompt recognition of my book. The Providence Journal had a splendid review of the book last week. I shall come down to New York City the latter part of that week & I hope that you will have a brief sketch of your career ready.* [^33]
 
-.ve-media wc:Richard_Theodore_Greener.jpg left==placeholder=={.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..." width=50%
+.ve-media wc:Richard_Theodore_Greener.jpg left width=50%
+
+.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..." width=50%
 
 Latimer also maintained a close personal relationship with Richard Greener, the first African American to graduate from Harvard. Greener, a lawyer and political activist, wrote long letters filled with expressions of respect and affection as well as details of African American political affairs. In one informal letter, he reminisced about the exciting days in Boston before the Civil War, adding: 
 
