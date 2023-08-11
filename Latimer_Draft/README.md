@@ -14,7 +14,7 @@ Latimer began, as he recalled, with "a taste for drawing"[^1]  and became profic
 
 >*neither agreeable to use nor wholly safe, the draft through the hopper being always excessive, while the annoyance from dust, cinders, and other matters thrown up from the track is so great as to forbid or discourage the use of the apparatus except under extreme circumstances.*
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 left width=70% caption="Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 left width=70% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
 
 Given the superiority of the new design, and Latimer's own ambitions, it would have been exceedingly strange if Latimer and his colleague had indeed made no effort to market their new device. However, there is no record of any such attempt, and Latimer does not mention it in his autobiographical reminiscences. In Latimer's later years, he recalled that he had made "the drawings for the application for a patent upon the telephone" for ==Alexander Graham Bell=={Q34286}. It is not clear exactly which patent Latimer might be referring to, since Bell received several patents based on applications made in the years 1875-1880, when Latimer might have been of assistance. Bell referred to all of these as "telephone patents."[^3] Latimer's detailed descriptions of the geographic proximity of his office to the place where Bell was teaching, and of meeting with Bell add credibility to his claim, although no supporting evidence has been found in either the Bell family papers or the patent applications themselves. Latimer's 1911 logbook reads as follows: 
 
@@ -22,9 +22,9 @@ Given the superiority of the new design, and Latimer's own ambitions, it would h
 
 Latimer's personal association with Bell just before Bell's spectacular success must have reinforced Latimer's determination to make his own future in technology.
 
-.ve-map Q18419 10 marker left width=60%
+.ve-map Q6536637 16 marker left width=60%
     
-It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at ==64 Holly Street=={flyto=40.666917218061464, -73.87070355253485, 7}, in Queens, New York. 
+It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
     
 These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. In these collections, material of a technical nature falls roughly into two large groups: one group originating in the period 1870-1890 (with a few later items), and the other group from the twentieth century, mostly after 1910. Since Latimer purchased the Holly Street house in 1903, items dated in the 1870s and 1880s probably were intentionally saved by Latimer himself or by his wife Mary. Among these early materials are a large group of drawings signed "L. H. Latimer, Inventor," a number of other drawings, about fifty technical and nontechnical books, and Mary's diary of the first four months of 1882, a time she and Latimer spent in London.
 
@@ -46,19 +46,19 @@ At about the time Latimer began work at U.S. Electric Lighting (March, 1880), he
 
 The U.S. Electric Lighting Company was only one of Edison's competitors in the race to develop a successful incandescent light. Inventors on both sides of the Atlantic had been working toward this goal since at least 1838, many using elements that were later incorporated into the successful "Edison" light. Thomas Edison himself continued to improve his incandescent bulbs; his electric light patents alone fill three bound volumes. Unfortunately, only one person captures the attention of the public and is hailed as "the" inventor, no matter how much previous work he builds on, nor how much additional work must be done to make the "invention" sufficiently useful and economical for it to become widely acceptable.[^7]
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT237198 right width=50% caption="U.S. Patent 237,198"
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT237198 right width=50% caption="Maxim's Electric Lamp"
 
 Contrary to popular belief, invention generally proceeds with small steps rather than flashes of dramatic insight. Some of these steps become part of later successful artifacts, many more do not. The [Smithsonian's Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today.
 
 Several officers of the U.S. Electric Lighting Company encouraged the employees to suggest improvements, although Maxim was reportedly hostile to the notion. Latimer took the opportunity wholeheartedly. He learned every aspect of electric light design and manufacturing and gave full play to his creative talent. Of the numerous inventions Latimer made during his employment with U.S. Electric, three were patented: a new support for arc lights,  an improvement to Maxim's method of manufacturing filaments for incandescent bulbs, and a new way to attach the carbonized filament to the platinum wires that brought electricity into the bulb from the base.
 
-.ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 left width=70% caption="U.S. Patent 252,386"
-.ve-media  https://edisondigital.rutgers.edu/iiif/PAT255212 right width=70% caption="U.S. Patent 255,212"
+.ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 left width=70% caption="Latimer's Electric Lamp"
+.ve-media  https://edisondigital.rutgers.edu/iiif/PAT255212 right width=70% caption="Tregoning and Latimer's Globe Supporter for Electric Lamps"
 
 
 In addition, Latimer's unpatented inventions improved designs for virtually all the other equipment and steps involved in the lampmaking process: the oven that baked the filaments; the preparation of phosphoric anhydride (a chemical used for drying the inert gas that filled the bulb and prolonged the filament life); glassblowing equipment to produce bulbs; and a new socket and switch.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT247097 left width=70% caption="U.S. Patent 247,097"
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT247097 left width=70% caption="Nichols and Latimer's Electric Lamp"
 
 It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and been paid for them. [^8] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
 
@@ -131,7 +131,7 @@ Latimer and his brothers had enlisted in the military and served in the Civil Wa
 
 Reinforcing these motives, the incandescent electric light held a powerful message for Latimer, as for many others. Here was an invention "no less welcome in the palace than in the humblest home." The lamp embodied the relationship of art and science, and its improvement promised benefits for all classes of society. The electric light was a cause well worth serving. All of Latimer's inventions, patented and unpatented, relate to improving the quality of life: Maxim's automatic machine gun must have been repulsive to him.
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT781890 left width=70% caption="U.S. Patent 781,890"
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT781890 left width=70% caption="Latimer's Book Supporter"
 
 While working for the Edison and General Electric companies, and thereafter, Latimer continued to invent at a much reduced rate (his last patent was granted in 1905). Of the drawings found in his Queens home, by far the greater number of those on which he claimed credit as "inventor" are dated prior to 1885, although the home was purchased much later. This is consistent with the speculation that Latimer prized his early work and his vision of himself as an inventor.
 
