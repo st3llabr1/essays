@@ -1,4 +1,5 @@
-.ve-header "Inventing a Better Life: Latimer's Technical Career" default:https%3A//edison.rutgers.edu/images/latimer/tech/bulb2.jpg  "A Digital Exhibit" center sticky
+.ve-header "Inventing a Better Life: Latimer's Technical Career" wc:Lewis_latimer.jpg  "A Digital Exhibit" center sticky
+
 
 ## Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
 
@@ -9,7 +10,7 @@
 
 In his early career in Boston, Latimer was surrounded by technological communities that subscribed to the American myth that any poor boy could make his fame and fortune through invention and innovation. Contemporary American experience reinforced the dream with the success of Samuel Morse's telegraph, Oliver Evans's automated flour mills, and the triumphs of various American manufacturers at the first "world's fair," the exhibition at London's Crystal Palace in 1851. The Union victory in the Civil War seemed to open the way for African Americans to participate fully in the American dream, and Latimer set his course accordingly.
 
-Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His first patent was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
+Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His [first patent](#my-header) was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
 
 
 >*neither agreeable to use nor wholly safe, the draft through the hopper being always excessive, while the annoyance from dust, cinders, and other matters thrown up from the track is so great as to forbid or discourage the use of the apparatus except under extreme circumstances.*
@@ -23,6 +24,8 @@ Latimer's personal association with Bell just before Bell's spectacular success 
 .ve-map Q6536637 16 marker left width=60%
     
 It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
+
+.ve-media gh:edisonpapers/media/Latimer/Latimer_House.jpg width=60% right
     
 These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. In these collections, material of a technical nature falls roughly into two large groups: one group originating in the period 1870-1890 (with a few later items), and the other group from the twentieth century, mostly after 1910. Since Latimer purchased the Holly Street house in 1903, items dated in the 1870s and 1880s probably were intentionally saved by Latimer himself or by his wife Mary. Among these early materials are a large group of drawings signed "L. H. Latimer, Inventor," a number of other drawings, about fifty technical and nontechnical books, and Mary's diary of the first four months of 1882, a time she and Latimer spent in London.
 
@@ -66,6 +69,8 @@ He also recalled that his Montreal nights were occupied with learning French, an
 
 Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant), Lew and I went to Crystal Palace, staid until I was thoroughly tired out." [^14]They probably went to see the electrical exhibition on display there, featuring Edison's incandescent light system. Latimer may even have met William Hammer, the engineer in charge of many of Edison's electric light exhibits. Hammer later included a "Latimer lamp" in his incandescent bulb collection "History of an Art." He also included Latimer in his portrait collection "Eminent Men of Electrical Science." (Hiram Maxim's portrait is conspicuously absent from this collection.)[^15]
 
+.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/mary.jpg left width=60% caption="Mary Latimer"
+
 The London diary also notes that "Lew is making a fine drawing of an invention of his, of some improvement in elevators and will see if he can get a patent on it. I hope it will be a success, he deserves to be successful for he works and studies all the time. . . ."[^16] Although the elevator improvement was never patented, Latimer continued to work on it. As late as 1898, Latimer was actively bringing his elevator work to the attention of the Westinghouse, General Electric, and Otis Elevator companies. None of these companies were inclined to pursue the matter. The elevator stands, however, as symbol and evidence of Latimer's continuing pursuit of the American dream of upward mobility via invention.
 
 ### Latimer's Prolific Period of Invention
@@ -79,6 +84,8 @@ Surviving evidence indicates that the period 1880-1885 was Latimer's most prolif
 .ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=50% caption="Elevator Suspension System, 1881"
 
 From 1885 to about 1924, Latimer worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
+
+.ve-media gh:edisonpapers/media/Latimer/Latimer_Legal_Team.jpg left width=60%
 
 On several occasions Latimer testified regarding his observations while working for Edison's competitors. Since Latimer had worked with or been employed by most of the men who challenged Edison's patents, his testimony as to what was going on in their shops was valuable to 
 the Edison cause. One of the biographical sketches, apparently prepared as a letter of reference, states that while in the Legal Department of 
@@ -146,7 +153,7 @@ Latimer was well informed about national issues concerning African Americans and
 
 .ve-media wc:Richard_Theodore_Greener.jpg left width=50%
 
-.ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..." width=50%
+
 
 Latimer also maintained a close personal relationship with Richard Greener, the first African American to graduate from Harvard. Greener, a lawyer and political activist, wrote long letters filled with expressions of respect and affection as well as details of African American political affairs. In one informal letter, he reminisced about the exciting days in Boston before the Civil War, adding: 
 
@@ -183,7 +190,7 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-002.png  right width=50% caption="Latimer Obituary p.2"
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
 
-### Explore Latimer's Patents
+### <a name="my-header"</a> Explore Latimer's Patents
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 left width=70% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 right width=70% caption="Latimer's Electric Lamp"
