@@ -1,4 +1,4 @@
-.ve-header "Inventing a Better Life: Latimer's Technical Career" wc:Lewis_latimer.jpg  "A Digital Exhibit" center sticky
+.ve-header "Inventing a Better Life: Latimer's Technical Career" default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Digital Exhibit" pct:20,53,80,40 center sticky
 
 
 ## Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
@@ -8,7 +8,7 @@
 
 ==Lewis Latimer=={Q732229} constructed both his personal life and his technical career as concrete examples of his philosophical approach to the place of blacks in American life after the Civil War. Although some African Americans proposed resegregating themselves, and others thought that freedmen's occupational advance should proceed by small steps (and take several generations), Latimer preferred to insist that blacks were full American citizens, and he conducted himself accordingly. Applying his own considerable talent to the opportunities that presented themselves, Latimer chose to position himself as an example to both races of what could be accomplished in a context of racial integration and unhesitating professional aspiration.
 
-.ve-iframe https://uploads.knightlab.com/storymapjs/8a7665dc2c0334ada9fa7a73f511e4a0/test-storymap/index.html 
+
 
 In his early career in Boston, Latimer was surrounded by technological communities that subscribed to the American myth that any poor boy could make his fame and fortune through invention and innovation. Contemporary American experience reinforced the dream with the success of Samuel Morse's telegraph, Oliver Evans's automated flour mills, and the triumphs of various American manufacturers at the first "world's fair," the exhibition at London's Crystal Palace in 1851. The Union victory in the Civil War seemed to open the way for African Americans to participate fully in the American dream, and Latimer set his course accordingly.
 
@@ -23,11 +23,11 @@ Given the superiority of the new design, and Latimer's own ambitions, it would h
 
 Latimer's personal association with Bell just before Bell's spectacular success must have reinforced Latimer's determination to make his own future in technology.
 
-.ve-map Q6536637 16 marker left width=60%
+.ve-map Q6536637 16 marker left width=90% 
     
-It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
+.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_House.jpg width=65% right caption="Latimer House" {.clear}
 
-.ve-media gh:edisonpapers/media/Latimer/Latimer_House.jpg width=60% right
+It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
     
 These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. In these collections, material of a technical nature falls roughly into two large groups: one group originating in the period 1870-1890 (with a few later items), and the other group from the twentieth century, mostly after 1910. Since Latimer purchased the Holly Street house in 1903, items dated in the 1870s and 1880s probably were intentionally saved by Latimer himself or by his wife Mary. Among these early materials are a large group of drawings signed "L. H. Latimer, Inventor," a number of other drawings, about fifty technical and nontechnical books, and Mary's diary of the first four months of 1882, a time she and Latimer spent in London.
 
@@ -61,54 +61,54 @@ It is not known, and may never be clear, just how much of Latimer's abundant inv
 
 This stepwise incremental nature of invention and development is part of the foundation for patent suits and priority claims. The fundamental question is, At what stage in this process has the invention (in this case, "the lamp") passed a point at which it has become enough of a new thing to warrant a separate identity? The Smithsonian's Hammer Collection includes, along with various Edison lamps, others credited to Maxim, ==Edward Weston=={Q902986}, ==St. George Lane-Fox=={Q2318542}, ==William E. Sawyer=={Q979132}, and Latimer—and many lesser-known inventors as well.[^9]
 
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
+
 When the company moved to Brooklyn in 1880, Latimer moved with it and continued to diversify his achievements. In addition to his desk work and shop work, he went out into the field assisting in arc and incandescent installations of Maxim equipment in New York, Philadelphia, and Montreal. In his logbook, he later recalled:
 
 >*I had qualified myself to take charge of producing the carbons for the lamps, when I was not drawing, and worked through the day helping to make the lamps and at night locateing them in stores and offices. Electrical measurements had not then been invented and all our work was by guess. Office bell wire was the only kind on the market, and our method of figureing was that it was a good guess that that size wire would carry a certain number of lamps without dangerous heating. A number of misterious fires about this time were probably the fruit of our ignorance. The Equitable, Building, Fish and Hatch, the Union Club, and a number of other places were supplied with lamps and the men to run them. These were strenuous times, and we made long hours each day. At the factory by seven in the morning, and after the days work somewhere running lamps until twelve o'clock or later at night.*[^10]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
 
 He also recalled that his Montreal nights were occupied with learning French, and his days "were spent climbing telegraph poles and locating arc lamps on them with the assistance of my laborers who seemed much impressed with my effort to speak their native language."[^11] His last assignment for U.S. Electric Lighting was in London, to advise the English on setting up a lamp factory. He arrived New Year's Day of January 1882.[^12] By this time, his mentor Maxim was only minimally associated with the electric business. Although Maxim did meet at least once with Latimer in London, his time and interest were increasingly absorbed in developing the machine gun which brought him his greatest fame. [^13] Latimer returned to New York later in 1882, but Maxim stayed in London for many years.
 
-Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant), Lew and I went to Crystal Palace, staid until I was thoroughly tired out." [^14]They probably went to see the electrical exhibition on display there, featuring Edison's incandescent light system. Latimer may even have met William Hammer, the engineer in charge of many of Edison's electric light exhibits. Hammer later included a "Latimer lamp" in his incandescent bulb collection "History of an Art." He also included Latimer in his portrait collection "Eminent Men of Electrical Science." (Hiram Maxim's portrait is conspicuously absent from this collection.)[^15]
+.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/mary.jpg left width=50% caption="Mary Latimer"
 
-.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/mary.jpg left width=60% caption="Mary Latimer"
+Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant), Lew and I went to Crystal Palace, staid until I was thoroughly tired out." [^14]They probably went to see the electrical exhibition on display there, featuring Edison's incandescent light system. Latimer may even have met William Hammer, the engineer in charge of many of Edison's electric light exhibits. Hammer later included a "Latimer lamp" in his incandescent bulb collection "History of an Art." He also included Latimer in his portrait collection "Eminent Men of Electrical Science." (Hiram Maxim's portrait is conspicuously absent from this collection.)[^15]
 
 The London diary also notes that "Lew is making a fine drawing of an invention of his, of some improvement in elevators and will see if he can get a patent on it. I hope it will be a success, he deserves to be successful for he works and studies all the time. . . ."[^16] Although the elevator improvement was never patented, Latimer continued to work on it. As late as 1898, Latimer was actively bringing his elevator work to the attention of the Westinghouse, General Electric, and Otis Elevator companies. None of these companies were inclined to pursue the matter. The elevator stands, however, as symbol and evidence of Latimer's continuing pursuit of the American dream of upward mobility via invention.
 
 ### Latimer's Prolific Period of Invention
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=50% caption="Multiple Carbon Incandescent Lamp, 1881"
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=65% caption="Multiple Carbon Incandescent Lamp, 1881"
+
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=75% caption="Elevator Suspension System, 1881"
 
 When Latimer returned to the United States late in 1882, the U.S. Electric Light Company had undergone several corporate changes. Maxim was no longer associated with the company, and Latimer found he had no place in the new organization.[^17] There is considerable conflicting evidence regarding the dates and firms of Latimer's employment for the next few years. The names of the Weston Company, Olmstead Electric Co., Imperial Electric Light Co., Mather Electric Co., and Acme Electric Light Co. all appear in various biographical and autobiographical accounts prepared more than a decade later. As mentioned above, drawings prepared by Latimer for C. G. Perkins at the Imperial Electric Light Co. during 1884 and 1885 are in the Smithsonian's collection. [^18]
 
 Surviving evidence indicates that the period 1880-1885 was Latimer's most prolific in terms of invention, although he continued this creative activity for the remainder of his professional life. About 1885, Latimer found stable employment with the Edison Electric Light Company of New York (parent company of all the Edison electric utility companies) and related or successor firms. He achieved a respected professional position on the basis of his patent expertise, his encyclopedic knowledge of lamp design and manufacturing, his drafting skills, and his creative intelligence.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=50% caption="Elevator Suspension System, 1881"
-
+.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_Legal_Team.jpg left width=60% caption="Latimer and General Electric Company Legal Team"
 From 1885 to about 1924, Latimer worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
 
-.ve-media gh:edisonpapers/media/Latimer/Latimer_Legal_Team.jpg left width=60%
+.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/eel.jpg right width=50% caption="Edison Electric Light Company, 1886"
 
 On several occasions Latimer testified regarding his observations while working for Edison's competitors. Since Latimer had worked with or been employed by most of the men who challenged Edison's patents, his testimony as to what was going on in their shops was valuable to 
 the Edison cause. One of the biographical sketches, apparently prepared as a letter of reference, states that while in the Legal Department of 
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/eel.jpg left width=50% caption="Edison Electric Light Company, 1886"
-
 >*the Edison Company . . . he made drawings for Court exhibits, had charge of the library, inspected infringing plants in various parts of the country, and testified as to facts in a number of cases, without materially encouraging the opposing counsel. He also did considerable searching for which his previous experience, and a moderate knowledge of French and German qualified him, rendering efficient service along these lines in the historical filament case and others of this period, involving basic patents.*[^20]
 
+## Latimer's Edition of *Incandescent Electric Lighting*
 In 1890, he was selected to revise and thoroughly update a book on incandescent lighting previously published in 1881.[^21] During these nine years there had been radical advances. The previous author had been William Edward Sawyer, another of the many inventors who challenged Edison's priority in the field of incandescent lighting. Sawyer had done preliminary experimentation with Maxim for several years before the incorporation of the U.S. Electric Lighting Company in 1878, and he remained with the company for a short time before leaving to pursue his own incandescent light designs.[^22]
-.ve-media https://iiif.archivelab.org/iiif/sim_scientific-american_1880-05-22_42_21/manifest.json  right width=80% seq=8 region=pct:20,40,70,70 caption="Steamship Columbia"
 
 On one copy of his own work Latimer inscribed, 
 >*This was the first book on Electric Lighting published in the United States." Latimer probably felt free to make this claim because of the great changes that had occurred in the field since Sawyer's edition. In 1881, incandescent lighting was limited to a few isolated plants serving no more than a single building. The most ambitious of these had been Edison's installation on the steamship Columbia, which sailed from New York on May 8, 1880, bound for San Francisco.*[23]
 
 By 1890, central-station electric utilities serving whole towns or large areas of cities had become common. Although the court battles over the basic patents were not yet over, in the public mind the Edison system had come to seem utterly synonymous with "electric light." The field of incandescent lighting had been completely remade, and Edison's system was now the only one worth discussing.
 
-Latimer's book combined lucid technical description with a touch of poetry. In describing the mechanics of the light, he wrote, 
+Latimer's book combined lucid technical description with a touch of poetry. In describing the mechanics of the light, he wrote,
 
->*If the electric current can be forced through a substance that is a poor conductor, it will create a degree of heat in that substance, which will be greater or less according to the quantity of electricity forced through it. Upon this principle of the heating effect of the electrical current, is based the operation of the incandescent lamp . . . Where copper and platinum wires readily conduct the current, the carbon filament offers a great deal of resistance to its passage, and for this reason becomes very hot, in fact is raised to white heat or incandescence, which gives its name to the lamp.* [^24]
+.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json right width=80% seq=45 caption="Incandescent Electric Lighting"
 
-.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json left width=80% seq=45 caption="Incandescent Electric Lighting"
+>*==If the electric current can be forced through a substance that is a poor conductor, it will create a degree of heat in that substance, which will be greater or less according to the quantity of electricity forced through it. Upon this principle of the heating effect of the electrical current, is based the operation of the incandescent lamp . . . Where copper and platinum wires readily conduct the current, the carbon filament offers a great deal of resistance to its passage, and for this reason becomes very hot, in fact is raised to white heat or incandescence, which gives its name to the lamp.=={500,700,1700,200}* [^24]
 
 And in describing the quality of the lamp, 
 >*Like the light of the sun, it beautifies all things on which it shines, and is no less welcome in the palace than in the humblest home.*[^25]
@@ -148,21 +148,22 @@ In addition to the Edison Pioneers, Latimer treasured his membership in the ==Gr
 
 Latimer was involved in several local philanthropies, contributing both time and money. He maintained close relationships with well-known African Americans, such as inventor and businessman Samuel Scottron. In 1902 after Scottron was removed from the Brooklyn School Board because of his race, Latimer was an active participant in the ensuing protest. He wrote and circulated a petition, which was then sent to Mayor Seth Low. After the fact, a disappointed Latimer noted the following on a copy: "Notwithstanding the three hundred signatures, no notice was taken of the above, other than a clerical acknowledgement of its receipt." [^30]
 
-Latimer also was concerned with those less famous than Scottron. He generously supported the White Rose Mission, founded by Victoria Earle Mathews to help young black women who had been lured to the city by spurious offers of employment. The Mission offered a safe haven, and training in marketable skills.[^31] In 1906, Latimer taught mechanical drawing at the Henry Street Settlement House. Although the Settlement House had always been open to blacks, in that year it established a branch primarily to serve the African American community.[^32]
-
 Latimer was well informed about national issues concerning African Americans and was respected by men who had far more formal education. William Ferris, author, public speaker, and Yale graduate, wrote to Latimer in 1913: 
->*My book fell like a bolt from the blue. I have the Booker Washington crowd hors de combat. & in spite of their opposition & the indifference of Dr. DuBois & his friends, I have come across the footlights with the most comprehensive survey & study of the colored race, ever given to the world. And that fact is being testified to by the book reviews. And I thank you for your prompt recognition of my book. The Providence Journal had a splendid review of the book last week. I shall come down to New York City the latter part of that week & I hope that you will have a brief sketch of your career ready.* [^33]
 
-.ve-media wc:Richard_Theodore_Greener.jpg left width=50%
+>*My book fell like a bolt from the blue. I have the Booker Washington crowd hors de combat. & in spite of their opposition & the indifference of Dr. DuBois & his friends, I have come across the footlights with the most comprehensive survey & study of the colored race, ever given to the world. And that fact is being testified to by the book reviews. And I thank you for your prompt recognition of my book. The Providence Journal had a splendid review of the book last week. I shall come down to New York City the latter part of that week & I hope that you will have a brief sketch of your career ready.* [^31]
 
-
+Latimer also was concerned with those less famous than Scottron. He generously supported the White Rose Mission, founded by Victoria Earle Mathews to help young black women who had been lured to the city by spurious offers of employment. The Mission offered a safe haven, and training in marketable skills.[^32] In 1906, Latimer taught mechanical drawing at the Henry Street Settlement House. Although the Settlement House had always been open to blacks, in that year it established a branch primarily to serve the African American community.[^33]
 
 Latimer also maintained a close personal relationship with Richard Greener, the first African American to graduate from Harvard. Greener, a lawyer and political activist, wrote long letters filled with expressions of respect and affection as well as details of African American political affairs. In one informal letter, he reminisced about the exciting days in Boston before the Civil War, adding: 
 
 >*How I should like to see you all! . . . truly you might love a good man. . . . and a noble man, as you are; not exactly ready to be translated, not too good for earthly food, but for all in all, one of the most humanly human fellows I know.*
 [^34]
 
-### Conclusion
+.ve-media wc:Victoria_Earle_Matthews.jpg left width=50%
+
+.ve-media wc:Richard_Theodore_Greener.jpg left width=50%
+
+### Latimer's Personal and Professional Legacy
 
 Latimer's humanity and philosophy, which governed his professional as well as personal life, were expressed in his letter supporting the aims of the National Conference of Colored Men in 1895:
 
@@ -192,7 +193,7 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-002.png  right width=50% caption="Latimer Obituary p.2"
 .ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
 
-### <a name="my-header"</a> Explore Latimer's Patents
+### Explore Latimer's Patents
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 left width=70% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 right width=70% caption="Latimer's Electric Lamp"
@@ -231,9 +232,9 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 [^28]: The archives of the Edison National Historical Site have extensive files pertaining to the Edison Pioneers, including photographs; correspondence, biographical sketches of members; and printed yearbooks, which contain the constitution, bylaws, and membership lists.
 [^29]: Edwin T. Layton, Jr., The Revolt of the Engineers: Social Responsibility and the American Engineering Profession (Baltimore, MD: Johns Hopkins Press, 1986).
 [^30]: Petition to Mayor Seth Low, Norman Collection.
-[^31]: Victoria Earle Mathews to L. H. Latimer, 4 October 1901, New York, Queens Borough Public Library Collection, # QPL-066. A brochure about the mission is also in the Queens Borough Library Collection, (xxx no number), as is a manuscript in Latimer’s hand re the Honorable Bradford Prince, author of the brochure # QPL-048.
-[^32]: The Settlement Journal Vol II, No. 6, November 1906, Norman Collection. See also Ralph E. Luker "Missions, Institutional Churches, and Settlement Houses: The Black Experience 1885-1910," J Negro History, Vol LXIX (Summer-Fall 1984), 101-113
-[^33]: William Ferris to L. H. Latimer, 29 September 1913, Queens Borough Public Library Collection, QPL-070. See also William Ferris, The African Abroad, or His Evolution in Western Civilization. "A manifesto of colored people’s dignity and worth, and rebuttal of critics and nay sayers" 2 vols. Tuttle, Morehouse & Taylor Press, 1913, New Haven. A copy of this work is in the Queens Borough Public Library.
+[^31]: William Ferris to L. H. Latimer, 29 September 1913, Queens Borough Public Library Collection, QPL-070. See also William Ferris, The African Abroad, or His Evolution in Western Civilization. "A manifesto of colored people’s dignity and worth, and rebuttal of critics and nay sayers" 2 vols. Tuttle, Morehouse & Taylor Press, 1913, New Haven. A copy of this work is in the Queens Borough Public Library.
+[^32]: Victoria Earle Mathews to L. H. Latimer, 4 October 1901, New York, Queens Borough Public Library Collection, # QPL-066. A brochure about the mission is also in the Queens Borough Library Collection, (xxx no number), as is a manuscript in Latimer’s hand re the Honorable Bradford Prince, author of the brochure # QPL-048.
+[^33]: The Settlement Journal Vol II, No. 6, November 1906, Norman Collection. See also Ralph E. Luker "Missions, Institutional Churches, and Settlement Houses: The Black Experience 1885-1910," J Negro History, Vol LXIX (Summer-Fall 1984), 101-113
 [^34]: Richard Greener to Latimer, 5 January 1915, Norman Collection.
 [^35]: L. H. Latimer to John W. Jones, General L. Knox, and E. E. Morris [organizing committee], no date, Norman Collection.
 [^36]: A. C. Fisher to L. Latimer, 9 March 1900, Norman Collection.
