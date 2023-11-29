@@ -8,16 +8,16 @@ As White women were kept out of workspaces or apprenticeships that could have fo
 ## Mary Walton
 .ve-media wc:The_Bowery%2C_New_York_Times%2C_1896.JPG left
 Not much is known about the life of Mary Walton beyond her inventions to limit polllution casued by elevated trains in New York City. She was the owner of a boarding house located near the [Gilbert Elevated Railway] (https://www.gothamcenter.org/blog/rufus-gilberts-elevated-pneumatic-tubes) in New York. With her experience as a boarding house owner and her abilities to determine the cause of these mechanical problems, Walton filed, and was granted, patent number 221,880 in 1879,  an anti-pollution device that held the pollutants in the water before disposing of them safely in the city sewage system. In 1891, in an effort to solve the noise problem, Walton boarded a train , and though ridiculed for making observations, she created, and was granted, patent number 237,422, a noise-proofing device that muffled the vibrations of the train as it went over the tracks. Though the city did request Edison's help, Walton found the solution first.  Walton eventually sold the rights of these inventions to the city,  which were later used by other railroad companies. Her hard work and ingenuity is credited with creating the functionalibility of the New York City Metropolitan Railroad that we know today. 
-.ve-media default:https://patentimages.storage.googleapis.com/8a/9d/23/3c54c7abcd91c3/US221880-drawings-page-1.png 30% left caption="Patent No. 221,880"
+.ve-media default:https://patentimages.storage.googleapis.com/8a/9d/23/3c54c7abcd91c3/US221880-drawings-page-1.png 20% left caption="Patent No. 221,880"
 
-.ve-media wc:Patent_Drawing_for_M._E._Walton%27s_Locomotive_and_Other_Chimneys_-_NARA_-_12007670.jpg 30% right caption="Patent No. 237,422"
+.ve-media wc:Patent_Drawing_for_M._E._Walton%27s_Locomotive_and_Other_Chimneys_-_NARA_-_12007670.jpg 20% right caption="Patent No. 237,422"
 
 ## Margaret Knight (1838-1914)
 ==Margaret Knight=={Q431518} was given the nickname of “Lady Edison”, and created her first invention at twelve. She worked at a mill and watched her family members operate the machines, she devised a way to stop the steel-tipped shuttles of textile looms from falling off and hurting the operator. By the time of her death, Knight had been awarded a groundbreaking 87 patents, the most notable of which was patent number 220,925 which remarkably improved the creation of the paper bags that we use today. She also successfully patented other inventions in the rubber, cotton, and shoe industry. Knight was working and inventing in the same time period of Edison, and both were comparable in the frequency and longevity of their inventions. She faced a number of legal challenges in order to discredit her work, but was able to prove to the courts that her work was her own. A demonstration of the capabilities that women possessed outside of formal training or funding, Margaret Knight reminds us how resilient women were in the inventive process regardless of endorsements and even in the face of trials and tribulations. 
 
-.ve-media wc:US109224-Improvement_in_paper-feeding_machines_%282%29.jpg 30% left caption="U.S. Patent No. 109,224"
+.ve-media wc:US109224-Improvement_in_paper-feeding_machines_%282%29.jpg 20% left caption="U.S. Patent No. 109,224"
 
-.ve-media wc:US220925-Paper_bag_machine_%284%29.jpg 30% right caption="U.S. Patent No. 220,925"
+.ve-media wc:US220925-Paper_bag_machine_%284%29.jpg 20% right caption="U.S. Patent No. 220,925"
 
 
 
