@@ -8,7 +8,10 @@ As White women were kept out of workspaces or apprenticeships that could have fo
 ## Mary Walton
 .ve-media wc:The_Bowery%2C_New_York_Times%2C_1896.JPG left
 Not much is known about the life of Mary Walton beyond her inventions to limit polllution casued by elevated trains in New York City. She was the owner of a boarding house located near the [Gilbert Elevated Railway] (https://www.gothamcenter.org/blog/rufus-gilberts-elevated-pneumatic-tubes) in New York. With her experience as a boarding house owner and her abilities to determine the cause of these mechanical problems, Walton filed, and was granted, patent number 221,880 in 1879,  an anti-pollution device that held the pollutants in the water before disposing of them safely in the city sewage system. In 1891, in an effort to solve the noise problem, Walton boarded a train , and though ridiculed for making observations, she created, and was granted, patent number 237,422, a noise-proofing device that muffled the vibrations of the train as it went over the tracks. Though the city did request Edison's help, Walton found the solution first.  Walton eventually sold the rights of these inventions to the city,  which were later used by other railroad companies. Her hard work and ingenuity is credited with creating the functionalibility of the New York City Metropolitan Railroad that we know today. 
-.ve-media default:https://patentimages.storage.googleapis.com/8a/9d/23/3c54c7abcd91c3/US221880-drawings-page-1.png 60% right caption="Patent No. 221,880"
+.ve-media default:https://patentimages.storage.googleapis.com/8a/9d/23/3c54c7abcd91c3/US221880-drawings-page-1.png 30% left caption="Patent No. 221,880"
+
+.ve-media wc:Patent_Drawing_for_M._E._Walton%27s_Locomotive_and_Other_Chimneys_-_NARA_-_12007670.jpg 30% right caption="Patent No. 237,422"
+
 
 
 
