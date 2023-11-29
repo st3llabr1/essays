@@ -10,3 +10,15 @@ Born in 1865 to free African Americans, ==Granville T. Woods=={Q3115447} contrib
 .ve-media default:https://patentimages.storage.googleapis.com/0e/08/64/8abd6d8fa62fed/US373915-drawings-page-1.png left 30% caption="U.S. Patent No. 373,915"
 
 .ve-media default:https://patentimages.storage.googleapis.com/5a/b3/7e/d42235775819b8/US762792-drawings-page-1.png right 30% caption="U.S. Patent No.762,792"
+
+## Garrett Morgan (1877-1963)
+
+
+
+
+
+
+
+
+### References
+[^3]: [Granville T. Woods, the Brooklyn Historic Railway Association](https://www.brooklynrail.net/Granville_Woods.html)
