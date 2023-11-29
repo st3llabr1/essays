@@ -1,5 +1,5 @@
 ## Introduction
-.ve-iframe default:https://archive.org/details/Womaninventor1Smit/page/n1/mode/2up?view=theater
+
 
 ## Martha Jones
 .ve-media default:https://patentimages.storage.googleapis.com/d2/94/9d/22feb4266c802a/US77494-drawings-page-1.png left 20% caption="U.S. Patent No. 77,494"
