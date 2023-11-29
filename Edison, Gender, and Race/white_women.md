@@ -17,6 +17,8 @@ Not much is known about the life of Mary Walton beyond her inventions to limit p
 
 .ve-media wc:US109224-Improvement_in_paper-feeding_machines_%282%29.jpg 30% left caption="U.S. Patent No. 109,224"
 
+.ve-media wc:US220925-Paper_bag_machine_%284%29.jpg 30% right caption="U.S. Patent No. 220,925"
+
 
 
 
