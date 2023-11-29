@@ -1,9 +1,9 @@
 ## Introduction
-.ve-iframe https://archive.org/details/Womaninventor1Smit/mode/2up left 80%
+.ve-iframe https://archive.org/embed/Womaninventor1Smit left 80%
 Lorem ipsum
 
 ## Martha Jones
-.ve-media default:https://patentimages.storage.googleapis.com/d2/94/9d/22feb4266c802a/US77494-drawings-page-1.png left 20% caption="U.S. Patent No. 77,494"
+.ve-media default:https://patentimages.storage.googleapis.com/d2/94/9d/22feb4266c802a/US77494-drawings-page-1.png right 20% caption="U.S. Patent No. 77,494"
 In the same year that Shelby Davidson was born, the first Black woman to receive a U.S. patent was Martha Jones. Her patent for an improvement in corn huskers that enabled the “husking, shelling, cutting up the husks, and separating them from grain in one operation.” [^1]  While Jones would certainly not be the last Black woman to invent, only a few Black women inventors received patents between the end of the Civil War and 1900. As Black women were barred from all opportunities or spaces neither because of formal segregation or other political and social circumstances, their obstacles in the inventive world were also coupled with the legal and cultural climate at the time. r. Facing the intersectionality of race, gender, and often class, as their other statutes most likely relegated them to low-paying positions and roles, Black women inventors faced defiance at every step of the inventive process.
 
 ## Ellen Eglin (1836-1916)
