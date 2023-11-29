@@ -23,10 +23,6 @@ Born in 1868, three years after the end of the Civil War, ==Shelby J. Davidson==
 .ve-media default:https://patentimages.storage.googleapis.com/ec/16/17/23499431a03dd1/US884721-drawings-page-1.png right 40% caption="U.S. Patent No. 884,721"
 Davidson was not immune to the racist historical events of the early 20th century. As workplaces including Davidon’s became segregated, and as a new and unimpressed auditor was appointed, Davidson was stripped of his managerial and supervisory position. Having to watch the new auditor strike down his accomplishments in public, even though he built a new adding and auditing system from the ground up, while also being forced to a segregated area of the office, Davidson eventually resigned from his position in 1912, though he would move on to practice law, own a number of real estate properties, and even be named the president of the General Alumni Association of Howard University.
 
-
-
-
-### References
 [^1]:[Lisa Cook, "Violence and Economic Activity: Evidence from African American Patents, 1870 to 1940](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf)
 [^2]:[Lisa Cook, "Violence and Economic Activity: Evidence from African American Patents, 1870 to 1940](https://lisadcook.net/wp-content/uploads/2014/02/pats_paper17_1013_final_web.pdf)
 [^3]: [Granville T. Woods, the Brooklyn Historic Railway Association](https://www.brooklynrail.net/Granville_Woods.html)
