@@ -21,5 +21,7 @@ Not much is known about the life of Mary Walton beyond her inventions to limit p
 
 ## Beulah Henry (1887-1973)
 
-.ve-media  left 60% 
 ==Beulah Henry=={Q41582}, another “Lady Edison”, and an "inventor genius" was another example of how women carved a space for themselves even within an industry mostly reserved for men. Supported by her well-to-do parents, she was able to patent her first invention, an ice cream maker, in YEAR. After that invention, she moved with her family to New York City, and connected with model makers, patent attorneys, and retailers. Through these connections, she established herself as a professional inventor, accepting regular speaking arrangents, and was regularly featured in interviews in glossy magazines. [^2] She followed the success of her first patent with manyother important patents in the handbag, umbrella, and sewing industries. But it was in the typewriter industry that she made the most impact. She  invented a protograph, a device that enabled a typewriter to make four copies of a paper without carbon copies, along with 12 other patents that later facilitated the use of the typewriter. She retired having patented 49 inventions, but had invented around 110.
+
+.ve-media default:https://patentimages.storage.googleapis.com/10/ef/df/4b4b95229946da/US1037762-drawings-page-1.png 20% left
+.ve-media default:https://patentimages.storage.googleapis.com/e9/2f/ad/b4c84ea14dba9a/US1889657-drawings-page-1.png 20% right
