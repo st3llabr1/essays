@@ -13,7 +13,7 @@ Not much is known about the life of Mary Walton beyond her inventions to limit p
 .ve-media wc:Patent_Drawing_for_M._E._Walton%27s_Locomotive_and_Other_Chimneys_-_NARA_-_12007670.jpg 20% right caption="Patent No. 237,422"
 
 ## Margaret Knight (1838-1914)
-.ve-media wc: Margaret_knight_boston_sunday_post_march_31_1912_p.45.jpg 60% left
+.ve-media wc:Margaret_knight_boston_sunday_post_march_31_1912_p.45.jpg 60% right
 ==Margaret Knight=={Q431518} was given the nickname of “Lady Edison”, and created her first invention at twelve. She worked at a mill and watched her family members operate the machines, she devised a way to stop the steel-tipped shuttles of textile looms from falling off and hurting the operator. By the time of her death, Knight had been awarded a groundbreaking 87 patents, the most notable of which was patent number 220,925 which remarkably improved the creation of the paper bags that we use today. She also successfully patented other inventions in the rubber, cotton, and shoe industry. Knight was working and inventing in the same time period of Edison, and both were comparable in the frequency and longevity of their inventions. She faced a number of legal challenges in order to discredit her work, but was able to prove to the courts that her work was her own. A demonstration of the capabilities that women possessed outside of formal training or funding, Margaret Knight reminds us how resilient women were in the inventive process regardless of endorsements and even in the face of trials and tribulations. 
 
 .ve-media wc:US109224-Improvement_in_paper-feeding_machines_%282%29.jpg 20% left caption="U.S. Patent No. 109,224"
