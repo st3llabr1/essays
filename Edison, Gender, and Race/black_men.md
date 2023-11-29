@@ -1,6 +1,6 @@
 ## Introduction
 
-.ve-iframe default:https://archive.org/details/blackinventorsin00rayv left 40%
+.ve-iframe default:https://archive.org/details/blackpioneersofs0000habe left 40%
 
 For Black inventors, the racism and structural oppression of their everyday lives extended into the  inventive field, requiring them to carefully navigate the field's political and social aspects; slavery, segregation, and racialized violence affected every aspect of their lives, including the inventive process. As court rulings like ==Plessy V. Ferguson=={Q656660} demonstrated that the government would not recognize the rights of Black Americans, it made it nearly impossible for Black Americans to get around and access much needed segregated patent attorneys, patent libraries, workplaces, and access important information or valuable work experience relating to the process of invention. In the years following the ==Tulsa Race Massacre=={Q1824714}, and in the direct aftermath of the racist laws and leadership that fueled events like it, invention within the Black community became unusually low. 
 
