@@ -23,6 +23,3 @@ Not much is known about the life of Mary Walton beyond her inventions to limit p
 
 .ve-media default:https://patentimages.storage.googleapis.com/10/ef/df/4b4b95229946da/US1037762-drawings-page-1.png 20% left caption="U.S. Patent No. 103,7762"
 .ve-media default:https://patentimages.storage.googleapis.com/e9/2f/ad/b4c84ea14dba9a/US1889657-drawings-page-1.png 20% right caption="U.S. Patent No. 188,9657"
-
-## Conclusion
-
