@@ -26,4 +26,3 @@ Not much is known about the life of Mary Walton beyond her inventions to limit p
 
 ## Conclusion
 
-The experiences and recognition of these white women inventors are as varied as their inventions. They represent a small portion of the white women inventors that were contemporaries of Edison: women who worked with the advantages they did have so that they could make people's lives easier. In seeking out, and defending, their patents, they believed in the importance of protecting, and profiting from, their innovations. Though many of them were denied formal education and training, these women were able to make a lasting mark on the history of invention.
