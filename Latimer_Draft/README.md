@@ -1,4 +1,4 @@
-.ve-header "Inventing a Better Life: Latimer's Technical Career" default:https://edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Digital Exhibit" center sticky
+.ve-header "Inventing a Better Life: Latimer's Technical Career" default:https://edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Digital Exhibit" 
 
 
 ## Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
