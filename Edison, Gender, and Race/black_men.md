@@ -17,7 +17,7 @@ Born in 1848 to enslaved people who escaped to Massachusetts, Lewis Howard Latim
 
 .ve-media default:https://patentimages.storage.googleapis.com/32/ae/c2/3924bda2b9d2fe/US147363-drawings-page-1.png left 80% caption="U.S.  Patent 147,363"
 
-.ve-media default: https://patentimages.storage.googleapis.com/c9/47/14/f70493554cb503/US247097-drawings-page-1.png right 80% caption="U.S. Patent 247,097"
+.ve-media default:https://patentimages.storage.googleapis.com/c9/47/14/f70493554cb503/US247097-drawings-page-1.png right 80% caption="U.S. Patent 247,097"
 
 
 ## Shelby Davidson (1868-1931)
