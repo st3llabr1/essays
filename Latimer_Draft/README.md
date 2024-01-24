@@ -185,10 +185,18 @@ In his personal life, Latimer again worked within nineteenth-century American id
 .ve-media https://edisondigital.rutgers.edu/iiif/D8818ANA right width=70% caption="Letter form Alfred Tate to Lewis Latimer"
 
 >*Dear Sir:-
->Mr. Edison asks me to thank you for the verses on the Phonograph enclosed with your letter date 16th. Mr. Edison is going to put these verses on a cylinder and send them to England*
+>Mr. Edison asks me to thank you for the verses on the Phonograph enclosed with your letter date 16th. Mr. Edison is going to put these verses on a cylinder and send them to England.*
 
 
 One of Edison's assistants later wrote:
+
+.ve-media https://edisondigital.rutgers.edu/iiif/D8847AAY right width=70%
+
+>*Dear Latimer:
+>Your welcome letter came to hand a few days ago, and enclosing some Poetry.
+>I was very glad to hear from you and it keeps up old times to hear from you [and Joe] and I am very glad to hear that with all the change that has been made that [both] you [and Joe] are still kept and the next time I am in 44 I am going to call in and see you. . . .
+The Poetry which you sent me is very good and everyone around the place says you are a good writer. . . .
+Yours truly, John E Randolph*[^39]
 
 Poetry was not an unusual activity for "technical" men: On the occasion of Lewis and Mary Latimer's fiftieth anniversary, Latimer's employers sent the couple a three-stanza commemorative poem written by Elmer Schwarz, one of the firm's senior partners. The poem was accompanied by a letter signed by all the partners:
 
