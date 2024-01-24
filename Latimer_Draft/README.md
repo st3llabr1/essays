@@ -173,7 +173,7 @@ In his personal life, Latimer again worked within nineteenth-century American id
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D8847AAY left width=70% caption"Letter from Lewis Latimer to Thomas A. Edison"
 
->Dear Sir,
+>*Dear Sir,
 >As the fourth of July is near at hand, I venture to hope that you may deem the enclosed lines a fit and proper speech for the Phonograph to make on the celebration of that day.
 >Trusting that you will not be wasiting valuable time in reading them.
 >I am very respectfully
@@ -184,7 +184,7 @@ In his personal life, Latimer again worked within nineteenth-century American id
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D8818ANA right width=70% caption="Letter form Alfred Tate to Lewis Latimer"
 
->Dear Sir:-
+>*Dear Sir:-
 >Mr. Edison asks me to thank you for the verses on the Phonograph enclosed with your letter date 16th. Mr. Edison is going to put these versenes on a cylinder and send them to England*
 
 
