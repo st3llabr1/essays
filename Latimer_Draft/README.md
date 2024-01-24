@@ -167,9 +167,14 @@ Latimer's humanity and philosophy, which governed his professional as well as pe
 
 >*If our cause be made the common cause, and all our claims and demands be founded on justice and humanity, recognizing that we must wrong no man in winning ourrights, I have faith to believe that the Nation will respond to our plea for equality before the law, security under the law, and an opportunity, by and through maintenance of the law, to enjoy with our fellow citizens of all races and complexions the blessings guaranteed us under the Constitution. . . .* [^35]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/family.jpg left width=70% caption="Lewis Latimer, left, seated, with family" 
+.ve-media default:https://edison.rutgers.edu/images/latimer/tech/family.jpg left width=70% caption="Lewis Latimer, left, seated, with family" 
 
 In his personal life, Latimer again worked within nineteenth-century American ideals. He maintained an advanced amateur's gentlemanly pursuit of music, art, and literature, and he promoted these cultural interests in his family. Latimer's literary efforts included poetry, prose, and plays. In 1900, The Willing Workers Circle presented his "Comedy," which raised over seventy-five dollars[^36]. Several [poems](https://invention.si.edu/innovative-lives-lewis-latimer-1848-1928-renaissance-man) and short prose pieces were published during his lifetime. He received some small fees for these, and the editor of one magazine went so far as to proclaim "Let me tell you, poetry is your 'forte.' Every one of your poetic effusions . . . Not only did they please me individually, but they have taken by storm every one that has read them." [^37]Latimer sent a poem to Edison, for possible inclusion in a planned Fourth of July commemorative phonograph recording. Edison accepted the poem, and Latimer continued to submit poetry to Edison's West Orange office.[^38] One of Edison's assistants later wrote:
+
+.ve-media https://edisondigital.rutgers.edu/iiif/D8818ANA left width=70% caption="Letter form Alfred Tate to Lewis Latimer"
+>Dear Sir:-
+>Mr. Edison asks me to thank you for the verses on the Phonograph enclosed with your letter date 16th. Mr. Edison is going to put these versenes on a cylinder and send them to England
+
 
 .ve-media https://edisondigital.rutgers.edu/iiif/D8847AAY right width=70%
 
