@@ -1,4 +1,4 @@
-# Edison, Gender & Race, an Introduction
+# Race, Gender and the American Patent System in the Age of Edison
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern NAME from the Rutgers Public History Certificate program, and Erin Mustard, who helped the project develop its digital and public humanities outreach.
 
