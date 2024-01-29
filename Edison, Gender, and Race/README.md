@@ -10,7 +10,9 @@ The patent process required time, money, knowledge, and often being in the right
 
 Although the American patent system was more democratic and less expensive than those in Europe, inventors with limited resources still found it difficult to afford the necessary expenses and would sometimes be put off applying for a patent because of a lack of funds. Although the filing fees were quite modest in the American patent system, especially in comparison to those in Europe, successful applications sually required the services of a patent attorney to write the proper specification and a draftsman to produce required standardized drawings. One the application was allowed, the inventor had to pay additional fees before the patent would be issued. Further costs would be incurred if the patent was put in interference with a competing application or an issued patent. Even relatively successful inventors might sometimes lack ready cash to pay fees and sometimes allowed several months to elapse before applying for or having a patent issued, including Edison. 
 
-Barred by social, political, or economic obstacles, White and Black women, and Black men inventors often did not have the same resources or rights to be able to participate in the inventive process to the extent that Edison did. This exhibit explores the experiences, struggles and accomplishments of these marginalized groups within the world of inventing by focusing on a few individual cases.
+Barred by social, political, or economic obstacles, White and Black women, and Black men inventors often did not have the same resources or rights to be able to participate in the inventive process to the extent that Edison did. This exhibit explores the experiences, struggles and accomplishments of these marginalized groups within the world of inventing by focusing on a few individual cases. 
+
+## Creating the U.S. Patent system (create a new page)
  
 At the turn of the 18th century, not long after America had gained its independence, the first patent act was passed in Congress. Titled “An Act to promote the Progrefs of useful Arts”, the ==Patent Act of 1790=={Q7144460} established legally-protected intellectual property rights in an effort to fuel the economy, and to improve the overall quality of life through innovation. 
 
@@ -21,4 +23,3 @@ To receive a patent in the 19th century, inventors had to take an oath, describe
 
 Due to the fact that women and enslaved people around this time were not allowed to own property, and because they were often discouraged from going to school or gaining valuable working experience in order to invent. These groups lacked the financial resources, education, and scientific community that White men had utilized for decades.
 
-This exhibit will focus on the inventions of Black men, Black women, and White women as they worked within, and against, the structural oppression of the late 19th and early 20th centuries.
