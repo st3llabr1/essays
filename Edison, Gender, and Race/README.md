@@ -1,6 +1,6 @@
-# Race, Gender and the American Patent System in the Age of Edison
+# Race, Gender, and the American Patent System in the Age of Edison
 
-This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern NAME from the Rutgers Public History Certificate program, and Erin Mustard, who helped the project develop its digital and public humanities outreach.
+This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helped the project develop its digital and public humanities outreach.
 
 By the end of his career, Thomas A. Edison had amassed a total of [1,093 formal patents.](https://archive.org/details/edison-patent).Of these, his most notable inventions were the phonograph, the incandescent light bulb, and the alkaline storage battery. As these gave Edison prominence and support and allowed him to continue his line of work, many other inventors—like White women, Black women, and Black men—were slow to rise to this level of success, if ever. Barred by social, political, or economic obstacles, underrepresented inventors often did not have the same resources or rights to be able to participate in the inventive process to the extent that Edison did. As this exhibit aims to demonstrate, there were a number of exclusive experiences, struggles, and accomplishments by these marginalized groups within the world of inventing that largely set them apart from Edison. 
 
