@@ -14,7 +14,6 @@ As these gave Edison prominence and support and allowed him to continue his line
 
 .ve-media https://edisondigital.rutgers.edu/iiif/CC002005 left width=90% caption="Circular of Edison Electric Light Company of York, Penn. It provides information to public to address misconceptions about Edison's incandescent lamps."
  
-
 At the turn of the 18th century, not long after America had gained its independence, the first patent act was passed in Congress. Titled “An Act to promote the Progrefs of useful Arts”, the ==Patent Act of 1790=={Q7144460} established legally-protected intellectual property rights in an effort to fuel the economy, and to improve the overall quality of life through innovation. 
 
 Read the original text of the law [here.](https://en.wikisource.org/wiki/United_States_Statutes_at_Large/Volume_1/1st_Congress/2nd_Session/Chapter_7)
@@ -22,8 +21,6 @@ Read the original text of the law [here.](https://en.wikisource.org/wiki/United_
 To receive a patent in the 19th century, inventors had to take an oath, describe the invention, pay a fee, and submit a drawing or model. Once the patent application was approved, the inventor received “the full and exclusive right and liberty of making, using, and vending to others to be used, the said invention or discovery” (==Patents Act of 1836=={Q7144462}, ch. 357, 5, Stat. 117, 119). If unauthorized use was made by others, inventors had the right to sue them for infringement, which happened frequently with underrepresented inventors. 
 .ve-media wc:United_States_Patent_X1.png right width=80% caption:"The first patent awarded to Samuel Hopkins"
 
-
-
 Due to the fact that women and enslaved people around this time were not allowed to own property, and because they were often discouraged from going to school or gaining valuable working experience in order to invent. These groups lacked the financial resources, education, and scientific community that White men had utilized for decades.
 
-This exhibit will focus on the inventions of Black men, Black women, and white women as they worked within, and against, the structural oppression of the late 19th and early 20th centuries.
+This exhibit will focus on the inventions of Black men, Black women, and White women as they worked within, and against, the structural oppression of the late 19th and early 20th centuries.
