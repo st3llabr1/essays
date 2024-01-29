@@ -2,6 +2,9 @@
 .ve-iframe https://archive.org/embed/Womaninventor1Smit left 80%
 According the the 1793 Patent Act, patent applicants were required to be U.S. citizens, and African Americans gained that long overdue right in 1868, with the passage of the 14th Amendment. Only a few Black women inventors received patents between the end of the Civil War and 1900. As Black women were barred from all opportunities or spaces neither because of formal segregation or other political and social circumstances, their obstacles in the inventive world were also coupled with the legal and cultural climate at the time.  Facing the intersectionality of race, gender, and often class, as their other statutes most likely relegated them to low-paying positions and roles, Black women inventors faced defiance at every step of the inventive process.
 
+Separate page for Black men and Black women inventors and what they faced, and then separate pages for Black men and women
+include "Invention of a slave" article (EM Google Drive)
+
 ## Martha Jones
 .ve-media default:https://patentimages.storage.googleapis.com/d2/94/9d/22feb4266c802a/US77494-drawings-page-1.png right 20% caption="U.S. Patent No. 77,494"
 Martha Jones was the first Black woman to receive a U.S. patent in 1868, the same year that the 14th Amendment was passed. Her patent for an improvement in corn huskers that enabled the “husking, shelling, cutting up the husks, and separating them from grain in one operation.” [^1]  She understood that corn husks could be reused to feed farm animals, recognizing the economic benefit. Not much else is known about the life of Martha Jones, beyond her recognition as the first Black woman inventor in the U.S.. But that recognition represents the genius and ingenuity of countless Black women who were never acknowledged.
