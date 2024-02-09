@@ -2,6 +2,19 @@
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
+- [Home](/)
+    - [Introduction](/introduction)
+    - [Diary Entry 1](/1)
+    - [Diary Entry 2](/2)
+    - [Diary Entry 3](/3)
+    - [Diary Entry 4](/4)
+    - [Diary Entry 5](/5)
+    - [Diary Entry 6](/6)
+    - [Diary Entry 7](/7)
+    - [Diary Entry 8](/8)
+    - [Diary Entry 9](/9)
+    - [Diary Entry 10](/10)
+
 By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. patents](https://archive.org/details/edison-patent). Most of his patents related to the following industries: 1) electric light and power, 2) sound recordings, 3) telegraphs and telephones, 4) batteries, 5) oil mining and milling, and 6) Portland cement. They also included improvements for motion picture technology, office macinery, chemical production, and miscellaneous other subjects. 
 
 Edison was one of a small group who earned a living as a professional inventor, though many inventors succeeded to some extent by patenting useful inventions in existing industries. This is how Edison's career began. He focused on improving the telegraph apparatus he used as a telegraph operator and forged connections with key figures in the industry, first in Boston, then in New York, who provided him with the funding he needed to develop and patent his ideas. 
