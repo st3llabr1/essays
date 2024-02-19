@@ -10,6 +10,8 @@
 
 In his early career in Boston, Latimer was surrounded by technological communities that subscribed to the American myth that any poor boy could make his fame and fortune through invention and innovation. Contemporary American experience reinforced the dream with the success of Samuel Morse's telegraph, Oliver Evans's automated flour mills, and the triumphs of various American manufacturers at the first "world's fair," the exhibition at London's Crystal Palace in 1851. The Union victory in the Civil War seemed to open the way for African Americans to participate fully in the American dream, and Latimer set his course accordingly.
 
+.ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 right width=60% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
+
 Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His [first patent](#my-header) was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
 
 
@@ -214,7 +216,7 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 
 ### Explore Latimer's Patents
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 left width=70% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
+
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 right width=70% caption="Latimer's Electric Lamp"
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT255212 left width=70% caption="Tregoning and Latimer's Globe Supporter for Electric Lamps"
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT247097 right width=70% caption="Nichols and Latimer's Electric Lamp"
