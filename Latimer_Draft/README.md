@@ -70,7 +70,15 @@ He also recalled that his Montreal nights were occupied with learning French, an
 
 Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant), Lew and I went to Crystal Palace, staid until I was thoroughly tired out." [^14]They probably went to see the electrical exhibition on display there, featuring Edison's incandescent light system. Latimer may even have met William Hammer, the engineer in charge of many of Edison's electric light exhibits. Hammer later included a "Latimer lamp" in his incandescent bulb collection "History of an Art." He also included Latimer in his portrait collection "Eminent Men of Electrical Science."[^15]
 
-The London diary also notes that "Lew is making a fine drawing of an invention of his, of some improvement in elevators and will see if he can get a patent on it. I hope it will be a success, he deserves to be successful for he works and studies all the time. . . ."[^16] Although the elevator improvement was never patented, Latimer continued to work on it. As late as 1898, Latimer was actively bringing his elevator work to the attention of the Westinghouse, General Electric, and Otis Elevator companies, though none of the companies were interested. The elevator stands, however, as symbol and evidence of Latimer's continuing pursuit of the American dream of upward mobility via invention.
+Latimer's attraction to the beauty and usefulness of these inventions is perhaps a clue to one of the crucial career decisions Latimer may have made. We know that Hiram Maxim had initially hired Latimer on the basis of his drafting skill, and that Latimer and Maxim were both in London at the time when Maxim turned his attention to the machine gun. Maxim recalled, in his autobiography, interviewing candidates in London for the post of draftsman and being exceedingly disappointed in their quality.[^26] Why, then, do we see Latimer returning to the United States while Maxim remains in London in need of a draftsman?
+
+One factor may have been Mary Latimer's unhappiness; they were a very loving couple, and while her diary shows her wistful musing that, "Lew" was all she really needed in the world, it also records her unsuccessful attempts to fight her homesickness and put forward a cheerful face. For his part, Latimer continuously tried to bring home little surprises and treats for his wife, and in April the couple took a trip to Paris. The diary ends shortly thereafter, so we do not know the eventual outcome.
+
+Latimer may also have felt that he had a better chance at a successful career in the States; he had risen substantially from his first position as office boy and had high hopes of continuing to do so. Latimer also found the English work environment strange: as he later wrote, 
+
+>*To a man who had . . . chumy relations with Hiram Maxim and other great inventors the relations of English bosses and employees were to say the least peculiar. The prevailing motif seemed to be humility of the workman and the attitude that nothing that I can do can repay you for permitting me to earn an honest living. My assistant and myself were in hot water from the first moment to the end of my engagement, and as we were incapable of assuming a humility we could not feel, there was a continual effort to discount us . . . .*
+
+
 
 ### Latimer's Prolific Period of Invention
 
@@ -92,6 +100,8 @@ the Edison cause. One of the biographical sketches, apparently prepared as a let
 
 >*the Edison Company . . . he made drawings for Court exhibits, had charge of the library, inspected infringing plants in various parts of the country, and testified as to facts in a number of cases, without materially encouraging the opposing counsel. He also did considerable searching for which his previous experience, and a moderate knowledge of French and German qualified him, rendering efficient service along these lines in the historical filament case and others of this period, involving basic patents.*[^20]
 
+Mary Latimer's London diary also notes that "Lew is making a fine drawing of an invention of his, of some improvement in elevators and will see if he can get a patent on it. I hope it will be a success, he deserves to be successful for he works and studies all the time. . . ."[^16] Although the elevator improvement was never patented, Latimer continued to work on it. As late as 1898, Latimer was actively bringing his elevator work to the attention of the Westinghouse, General Electric, and Otis Elevator companies, though none of the companies were interested. The elevator stands, however, as symbol and evidence of Latimer's continuing pursuit of the American dream of upward mobility via invention.
+
 ## Latimer's Edition of *Incandescent Electric Lighting*
 In 1890, he was selected to revise and thoroughly update a book on incandescent lighting previously published in 1881.[^21] During these nine years there had been radical advances. The previous author had been William Edward Sawyer, another of the many inventors who challenged Edison's priority in the field of incandescent lighting. Sawyer had done preliminary experimentation with Maxim for several years before the incorporation of the U.S. Electric Lighting Company in 1878, and he remained with the company for a short time before leaving to pursue his own incandescent light designs.[^22]
 
@@ -108,14 +118,6 @@ Latimer's book combined lucid technical description with a touch of poetry. In d
 
 And in describing the quality of the lamp, 
 >*Like the light of the sun, it beautifies all things on which it shines, and is no less welcome in the palace than in the humblest home.*[^25]
-
-Latimer's attraction to the beauty and usefulness of the lamp is perhaps a clue to one of the crucial career decisions Latimer may have made. We know that Hiram Maxim had initially hired Latimer on the basis of his drafting skill, and that Latimer and Maxim were both in London at the time when Maxim turned his attention to the machine gun. Maxim recalled, in his autobiography, interviewing candidates in London for the post of draftsman and being exceedingly disappointed in their quality.[^26] Why, then, do we see Latimer returning to the United States while Maxim remains in London in need of a draftsman?
-
-One factor may have been Mary Latimer's unhappiness; they were a very loving couple, and while her diary shows her wistful musing that, "Lew" was all she really needed in the world, it also records her unsuccessful attempts to fight her homesickness and put forward a cheerful face. For his part, Latimer continuously tried to bring home little surprises and treats for his wife, and in April the couple took a trip to Paris. The diary ends shortly thereafter, so we do not know the eventual outcome.
-
-Latimer may also have felt that he had a better chance at a successful career in the States; he had risen substantially from his first position as office boy and had high hopes of continuing to do so. Latimer also found the English work environment strange: as he later wrote, 
-
->*To a man who had . . . chumy relations with Hiram Maxim and other great inventors the relations of English bosses and employees were to say the least peculiar. The prevailing motif seemed to be humility of the workman and the attitude that nothing that I can do can repay you for permitting me to earn an honest living. My assistant and myself were in hot water from the first moment to the end of my engagement, and as we were incapable of assuming a humility we could not feel, there was a continual effort to discount us . . . .*[27]
 
 ### Latimer's Black Heritage
 
