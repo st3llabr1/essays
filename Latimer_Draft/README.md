@@ -25,7 +25,7 @@ Latimer's personal association with Bell just before Bell's spectacular success 
 
 .ve-map Q6536637 16 marker left width=80% 
     
-.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_House.jpg width=65% right caption="Latimer House" {.clear}
+.ve-media default:http://raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_House.jpg width=65% right caption="Latimer House" {.clear}
 
 By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
 
@@ -44,7 +44,7 @@ While in Boston, Lewis Latimer had prepared himself for a technical career, and 
 
 >*In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation.*[^5]
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/bulb2.jpg left width=50% caption="Incandescent Electric Lamp, 1880"
+.ve-media default:http://edison.rutgers.edu/images/latimer/tech/bulb2.jpg left width=50% caption="Incandescent Electric Lamp, 1880"
 
 At about the time Latimer began work at U.S. Electric Lighting, in March of 1880, he was elected to membership in Bridgeport's Scientific Society, an organization to which Maxim and other local notables also belonged. In a paper presented to the Society in May, Latimer argued that art and science were closely related; he continued to personify the relationship throughout his life, as his restless creativity found outlet in music, literature, and fine art, as well as in technical inventions.[^6]
 
@@ -60,7 +60,7 @@ In addition, Latimer's unpatented inventions improved designs for virtually all 
 
 It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and were paid for them. [^9] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
+.ve-media default:http://edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
 
 When the company moved to Brooklyn in 1880, Latimer moved with it and continued to diversify his achievements. In addition to his desk work and shop work, he went out into the field assisting in arc and incandescent installations of Maxim equipment in New York, Philadelphia, and Montreal. In his logbook, he later recalled:
 
@@ -69,7 +69,7 @@ When the company moved to Brooklyn in 1880, Latimer moved with it and continued 
 
 He also recalled that his Montreal nights were occupied with learning French, and his days "were spent climbing telegraph poles and locating arc lamps on them with the assistance of my laborers who seemed much impressed with my effort to speak their native language."[^11] His last assignment for U.S. Electric Lighting was in London, to advise the English on setting up a lamp factory. He arrived New Year's Day of January 1882.[^12] By this time, his mentor Maxim was only minimally associated with the electric business. Although Maxim did meet at least once with Latimer in London, his time and interest were increasingly absorbed in developing the machine gun which brought him his greatest fame. [^13] Latimer returned to New York later in 1882.
 
-.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/mary.jpg left width=50% caption="Mary Latimer"
+.ve-media default:http://raw.githubusercontent.com/edisonpapers/media/main/Latimer/mary.jpg left width=50% caption="Mary Latimer"
 
 Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant), Lew and I went to Crystal Palace, staid until I was thoroughly tired out." [^14]They probably went to see the electrical exhibition on display there, featuring Edison's incandescent light system. Latimer may even have met William Hammer, the engineer in charge of many of Edison's electric light exhibits. Hammer later included a "Latimer lamp" in his incandescent bulb collection "History of an Art." He also included Latimer in his portrait collection "Eminent Men of Electrical Science."[^15]
 
@@ -85,18 +85,18 @@ Latimer may also have felt that he had a better chance at a successful career in
 
 ### Latimer's Prolific Period of Invention
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=65% caption="Multiple Carbon Incandescent Lamp, 1881"
+.ve-media default:http://edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=65% caption="Multiple Carbon Incandescent Lamp, 1881"
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=75% caption="Elevator Suspension System, 1881"
+.ve-media default:http://edison.rutgers.edu/images/latimer/tech/elevatr.jpg right width=75% caption="Elevator Suspension System, 1881"
 
 When Latimer returned to the United States late in 1882, the U.S. Electric Light Company had undergone several corporate changes. Maxim was no longer associated with the company, and Latimer found he had no place in the new organization.[^17] Over the next few years, he may have worked for the Weston Company, Olmstead Electric Co., Imperial Electric Light Co., Mather Electric Co., and Acme Electric Light Co. all of which appear in various biographical and autobiographical accounts prepared more than a decade later. As mentioned above, drawings prepared by Latimer for C. G. Perkins at the Imperial Electric Light Co. during 1884 and 1885 are in the Smithsonian's collection. [^18]
 
 Surviving evidence indicates that the period 1880-1885 was Latimer's most prolific in terms of invention, although he continued this creative activity for the remainder of his professional life. About 1885, Latimer found stable employment with the Edison Electric Light Company of New York (parent company of all the Edison electric utility companies) and related or successor firms. He achieved a respected professional position on the basis of his patent expertise, his encyclopedic knowledge of lamp design and manufacturing, his drafting skills, and his creative intelligence.
 
-.ve-media default:https%3A//raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_Legal_Team.jpg left width=60% caption="Latimer and General Electric Company Legal Team"
+.ve-media default:http://raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_Legal_Team.jpg left width=60% caption="Latimer and General Electric Company Legal Team"
 From 1885 to about 1924, Latimer worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/eel.jpg right width=50% caption="Edison Electric Light Company, 1886"
+.ve-media default:http://edison.rutgers.edu/images/latimer/tech/eel.jpg right width=50% caption="Edison Electric Light Company, 1886"
 
 On several occasions Latimer testified regarding his observations while working for Edison's competitors. Since Latimer had worked with or been employed by most of the men who challenged Edison's patents, his testimony as to what was going on in their shops was valuable to 
 the Edison cause. One of the biographical sketches, apparently prepared as a letter of reference, states that while in the Legal Department of 
@@ -138,7 +138,7 @@ While working for the Edison and General Electric companies, and thereafter, Lat
 
 In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
 
-.ve-media default:https%3A//npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg left width=70% caption="The Edison Pioneers, 1918" 
+.ve-media default:http://npgallery.nps.gov/EDIS/GetAsset/66cd9caa27a9409cbdaa93e9534a4699/original.jpg left width=70% caption="The Edison Pioneers, 1918" 
 
 At a time when engineers and technical men saw themselves as the rightful inheritors of political power in the United States, because of their ability to solve practical problems in a "scientific" way [^29]  it is noteworthy that ==Latimer=={1846,1529,426,537}, an African American, was admitted to the initial group of Pioneers. From Latimer's perspective, membership in the Pioneers probably seemed consonant with his personal efforts to lead by example in constructing a social identity for African Americans.
 
@@ -146,7 +146,7 @@ Situations in which Latimer proved that a Black man was capable of highly techni
 
 In addition to the Edison Pioneers, Latimer treasured his membership in the ==Grand Army of the Republic=={Q4118606}, a symbol of his service in the Civil War. He became Adjutant of the George Huntsman post of the GAR in Flushing and a founding member of the Flushing Unitarian Church. While these were integrated, predominantly European American organizations, Latimer was also active on behalf of African Americans both locally and nationally.
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/gar.jpg right width=70% caption="Latimer and the Grand Army of the Republic"
+.ve-media default:http://edison.rutgers.edu/images/latimer/tech/gar.jpg right width=70% caption="Latimer and the Grand Army of the Republic"
 
 Latimer was involved in several local philanthropies, contributing both time and money. He maintained close relationships with well-known African Americans, such as inventor and businessman Samuel Scottron. In 1902 after Scottron was removed from the Brooklyn School Board because of his race, Latimer was an active participant in the ensuing protest. He wrote and circulated a petition, which was then sent to Mayor Seth Low. After the fact, a disappointed Latimer noted the following on a copy: "Notwithstanding the three hundred signatures, no notice was taken of the above, other than a clerical acknowledgement of its receipt." [^30]
 
@@ -210,9 +210,9 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 
 ### Read Latimer's Obituary
 
-.ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-001.png left width=50% caption="Latimer Obituary p.1"
-.ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-002.png  right width=50% caption="Latimer Obituary p.2"
-.ve-media default:https%3A//credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
+.ve-media default:http://credo.library.umass.edu/images/resize/display/mums312-b178-i618-001.png left width=50% caption="Latimer Obituary p.1"
+.ve-media default:http://credo.library.umass.edu/images/resize/display/mums312-b178-i618-002.png  right width=50% caption="Latimer Obituary p.2"
+.ve-media default:http://credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
 
 ### Explore Latimer's Patents
 
