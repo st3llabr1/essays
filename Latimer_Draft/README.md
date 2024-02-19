@@ -35,7 +35,7 @@ As one might expect, Latimer's home contained loving mementos of his family life
 
 After leaving Boston, Latimer arrived in Bridgeport, Connecticut shortly after his thirty-first birthday. He immediately set about making himself useful in the technical community of this busy seaport. Although his stay in Bridgeport was brief, it proved to be a turning point in his career.
 
-.ve-map Q49174 8 marker right width=60% caption="Bridgeport, Connecticut"
+.ve-map Q49174 8 marker left width=60% caption="Bridgeport, Connecticut"
 
 While in Boston, Lewis Latimer had prepared himself for a technical career, and in Bridgeport, he began to work in the young electrical utility industry as an employee of Hiram Stevens Maxim, then chief engineer at the U.S. Electric Lighting Company. In later years, he recalled his first meeting with Maxim, who later went on to international fame for inventing the fully automatic machine gun:
 
