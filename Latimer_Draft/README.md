@@ -92,6 +92,7 @@ When Latimer returned to the United States late in 1882, the U.S. Electric Light
 Surviving evidence indicates that the period 1880-1885 was Latimer's most prolific in terms of invention, although he continued this creative activity for the remainder of his professional life. About 1885, Latimer found stable employment with the Edison Electric Light Company of New York (parent company of all the Edison electric utility companies) and related or successor firms. He achieved a respected professional position on the basis of his patent expertise, his encyclopedic knowledge of lamp design and manufacturing, his drafting skills, and his creative intelligence.
 
 .ve-media default:http://raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_Legal_Team.jpg left width=60% caption="Latimer and General Electric Company Legal Team"
+
 From 1885 to about 1924, Latimer worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
 
 .ve-media default:http://edison.rutgers.edu/images/latimer/tech/eel.jpg right width=50% caption="Edison Electric Light Company, 1886"
@@ -113,7 +114,7 @@ By 1890, central-station electric utilities serving whole towns or large areas o
 
 Latimer's book combined lucid technical description with a touch of poetry. In describing the mechanics of the light, he wrote,
 
-.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json right width=60% seq=45 caption="Incandescent Electric Lighting"
+.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json right width=50% seq=45 caption="Incandescent Electric Lighting"
 
 >*==If the electric current can be forced through a substance that is a poor conductor, it will create a degree of heat in that substance, which will be greater or less according to the quantity of electricity forced through it. Upon this principle of the heating effect of the electrical current, is based the operation of the incandescent lamp . . . Where copper and platinum wires readily conduct the current, the carbon filament offers a great deal of resistance to its passage, and for this reason becomes very hot, in fact is raised to white heat or incandescence, which gives its name to the lamp.=={500,700,1700,200}* [^25]
 
@@ -122,7 +123,7 @@ And in describing the quality of the lamp,
 
 ### Latimer's Black Heritage
 
-.ve-media default:https/edison.rutgers.edu/images/latimer/George/runaway.jpg left width=70% caption="Newspaper Advertisements, October 15, 1842"
+.ve-media default:http://edison.rutgers.edu/images/latimer/George/runaway.jpg left width=70% caption="Newspaper Advertisements, October 15, 1842"
 
 We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, who were formerly enslaved, had been assisted by abolitionist White people as well as Black people. Their case had galvanized the [Boston abolitionist community to its first major political activity](https://edison.rutgers.edu/resources/latimer/the-george-latimer-case). 
 
