@@ -49,13 +49,13 @@ The U.S. Electric Lighting Company was only one of Edison's competitors in the r
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT237198 right width=50% caption="Maxim's Electric Lamp"
 
-The [Smithsonian's Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. Along with various Edison lamps, others credited to Maxim, ==Edward Weston=={Q902986}, ==St. George Lane-Fox=={Q2318542}, ==William E. Sawyer=={Q979132}, and Latimer—and many lesser-known inventors as well.[^9] All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today. 
+The [Smithsonian's Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. Along with various Edison lamps, others credited to Maxim, ==Edward Weston=={Q902986}, ==St. George Lane-Fox=={Q2318542}, ==William E. Sawyer=={Q979132}, and Latimer—and many lesser-known inventors as well.[^8] All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today. 
 
 Several officers of the U.S. Electric Lighting Company encouraged the employees to suggest improvements and Latimer took the opportunity wholeheartedly. He learned every aspect of electric light design and manufacturing and gave full play to his creative talent. Of the numerous inventions Latimer made during his employment with U.S. Electric, three were patented: a new support for arc lights,  an improvement to Maxim's method of manufacturing filaments for incandescent bulbs, and a new way to attach the carbonized filament to the platinum wires that brought electricity into the bulb from the base.
 
 In addition, Latimer's unpatented inventions improved designs for virtually all the other equipment and steps involved in the lampmaking process: the oven that baked the filaments; the preparation of phosphoric anhydride (a chemical used for drying the inert gas that filled the bulb and prolonged the filament life); glassblowing equipment to produce bulbs; and a new socket and switch.
 
-It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and were paid for them. [^8] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
+It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and were paid for them. [^9] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
 
 .ve-media default:https%3A//edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
 
@@ -70,7 +70,7 @@ He also recalled that his Montreal nights were occupied with learning French, an
 
 Latimer's wife noted in her London diary that "Gus (probably Latimer's assistant), Lew and I went to Crystal Palace, staid until I was thoroughly tired out." [^14]They probably went to see the electrical exhibition on display there, featuring Edison's incandescent light system. Latimer may even have met William Hammer, the engineer in charge of many of Edison's electric light exhibits. Hammer later included a "Latimer lamp" in his incandescent bulb collection "History of an Art." He also included Latimer in his portrait collection "Eminent Men of Electrical Science."[^15]
 
-Latimer's attraction to the beauty and usefulness of these inventions is perhaps a clue to one of the crucial career decisions Latimer may have made. We know that Hiram Maxim had initially hired Latimer on the basis of his drafting skill, and that Latimer and Maxim were both in London at the time when Maxim turned his attention to the machine gun. Maxim recalled, in his autobiography, interviewing candidates in London for the post of draftsman and being exceedingly disappointed in their quality.[^26] Why, then, do we see Latimer returning to the United States while Maxim remains in London in need of a draftsman?
+Latimer's attraction to the beauty and usefulness of these inventions is perhaps a clue to one of the crucial career decisions Latimer may have made. We know that Hiram Maxim had initially hired Latimer on the basis of his drafting skill, and that Latimer and Maxim were both in London at the time when Maxim turned his attention to the machine gun. Maxim recalled, in his autobiography, interviewing candidates in London for the post of draftsman and being exceedingly disappointed in their quality.[^16] Why, then, do we see Latimer returning to the United States while Maxim remains in London in need of a draftsman?
 
 One factor may have been Mary Latimer's unhappiness; they were a very loving couple, and while her diary shows her wistful musing that, "Lew" was all she really needed in the world, it also records her unsuccessful attempts to fight her homesickness and put forward a cheerful face. For his part, Latimer continuously tried to bring home little surprises and treats for his wife, and in April the couple took a trip to Paris. The diary ends shortly thereafter, so we do not know the eventual outcome.
 
@@ -226,25 +226,26 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 [^5]: L. Latimer, 1911 logbook, pages "November 17," "November 16," Norman Collection. [Again text proceeds from pages with later dates to those with earlier ones.]
 [^6]: The Record Book and Logbook of the Bridgeport Scientific Society, and its scrapbook of clippings from the Bridgeport Daily Standard, are in the collection of the Bridgeport Public Library. Maxim had been elected to membership 3 November 1879; Latimer on 13 March 1880. Latimer’s paper was delivered 18 May 1880.
 [^7]: Robert Friedel and Paul Israel, Edison’s Electric Light: Biography of an Invention, (New Brunswick, NJ: Rutgers University Press, 1987), 115-117, 243.
-[^8]: Greenfield Village Archives, box 38, folder 3.
-[^9]: William J. Hammer Collection, Archives Center of the Smithsonian Institution, National Museum of American History, Washington D.C. Register compiled by Robert S. Harding, 1986.
+[^8]: William J. Hammer Collection, Archives Center of the Smithsonian Institution, National Museum of American History, Washington D.C. Register compiled by Robert S. Harding, 1986.
+[^9]: Greenfield Village Archives, box 38, folder 3.
 [^10]: L. Latimer, 1911 logbook, "November 16," "November 15," "November 14," "November 13," Norman Collection.
 [^11]: Ibid.
 [^12]: Mary Latimer, diary, Friday, 8 January 1882, Norman Collection.
 [^13]: Hiram Maxim, My Life (New York: McBride, Nast & Co, 1915), 157 et. seq.
 [^14]:  M. Latimer, diary, 4 March 1882, Norman Collection.
 [^15]: William J. Hammer Collection, Smithsonian Institution.
-[^16]: M. Latimer, diary, 8 March 1882, Norman Collection.
+[^16]: L. Latimer, Incandescent Electric Lighting (New York: D. Van Nostrand, 1890), 74.
 [^17]: or the U.S. Electric Lighting Co., see Harold C. Passer, The Electrical Manufacturers, 1875-1900 (New York: Arno Press, 1972). In an affidavit dated April 4, 1893, Latimer stated "I commenced to work at 120 Broadway [the address after the company moved from Bridgeport] as draughtsman but later on alternated with Joseph E. Lockwood in making carbons, and finally took this part of the work entirely and continued to make carbons until November 1881 when I left the employ of this company," [emphasis added], Norman Collection. It would seem that Latimer’s work in London was under the official auspices of a company other than U.S. Electric Lighting: He may have expected to return to U.S. Electric Lighting afterwards.
 [^18]: Dated drawings, bearing signature or initials of Lewis Latimer, establish the range 5 November 1884 through 20 February 1885, National Museum of American History, Department of Electricity and Modern Physics, group number 1983.0458; item numbers .49 and .27.
 [^19]: Matthew Josephson, Edison: A Biography (New York: McGraw-Hill, 1959).
 [^20]: This biographical sketch is in the Norman Collection. Affidavit copies in the Norman and Greenfield Village and Edison National Site collections show that Latimer testified about Charles Perkins in 1889, with respect to Perkin’s employment at U.S. Electric Lighting [Greenfield Village Archives, box 38, folder 3] and again in 1893 about Perkins, Muller and Goebel [Greenfield Village Archives: box 38, folder 5; Edison National Site # B-6835].
+[^21]:M. Latimer, diary, 8 March 1882, Norman Collection.
 [^21]: This biographical sketch is in the Norman Collection. Affidavit copies in the Norman and Greenfield Village and Edison National Site collections show that Latimer testified about Charles Perkins in 1889, with respect to Perkin’s employment at U.S. Electric Lighting [Greenfield Village Archives, box 38, folder 3] and again in 1893 about Perkins, Muller and Goebel [Greenfield Village Archives: box 38, folder 5; Edison National Site # B-6835].
 [^22]: William Edward Sawyer, Electric lighting by incandescence, and its application to interior illumination: A practical treatise (New York: D. Van Nostrand, 1881).
 [^23]: Passer, Electrical Manufacturers, 147.
 [^24]: The Columbia," Scientific American, 42 (22 May 1880), 326.
-[^25]: L. Latimer, Incandescent Electric Lighting (New York: D. Van Nostrand, 1890), 33.
-[^26]: Ibid., 74
+[^25]:
+[^26]: L. Latimer, Incandescent Electric Lighting (New York: D. Van Nostrand, 1890), 33.
 [^27]:  L. Latimer, 1911 logbook, "November 13," "November 12," Norman Collection.
 [^28]: The archives of the Edison National Historical Site have extensive files pertaining to the Edison Pioneers, including photographs; correspondence, biographical sketches of members; and printed yearbooks, which contain the constitution, bylaws, and membership lists.
 [^29]: Edwin T. Layton, Jr., The Revolt of the Engineers: Social Responsibility and the American Engineering Profession (Baltimore, MD: Johns Hopkins Press, 1986).
