@@ -115,7 +115,7 @@ By 1890, central-station electric utilities serving whole towns or large areas o
 
 Latimer's book combined lucid technical description with a touch of poetry. In describing the mechanics of the light, he wrote,
 
-.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json right width=80% seq=45 caption="Incandescent Electric Lighting"
+.ve-media https://iiif.archivelab.org/iiif/bub_gb_RlY4AAAAMAAJ/manifest.json right width=60% seq=45 caption="Incandescent Electric Lighting"
 
 >*==If the electric current can be forced through a substance that is a poor conductor, it will create a degree of heat in that substance, which will be greater or less according to the quantity of electricity forced through it. Upon this principle of the heating effect of the electrical current, is based the operation of the incandescent lamp . . . Where copper and platinum wires readily conduct the current, the carbon filament offers a great deal of resistance to its passage, and for this reason becomes very hot, in fact is raised to white heat or incandescence, which gives its name to the lamp.=={500,700,1700,200}* [^25]
 
@@ -124,7 +124,7 @@ And in describing the quality of the lamp,
 
 ### Latimer's Black Heritage
 
-.ve-media default:https%3A//edison.rutgers.edu/images/latimer/George/runaway.jpg left width=70% caption="Newspaper Advertisements, October 15, 1842"
+.ve-media default:https/edison.rutgers.edu/images/latimer/George/runaway.jpg left width=70% caption="Newspaper Advertisements, October 15, 1842"
 
 We know Latimer also felt a keen sense of obligation to his heritage, which he may have considered to be better served by returning to America. Latimer's parents, who were formerly enslaved, had been assisted by abolitionist White people as well as Black people. Their case had galvanized the [Boston abolitionist community to its first major political activity](https://edison.rutgers.edu/resources/latimer/the-george-latimer-case). 
 
