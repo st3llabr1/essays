@@ -163,7 +163,7 @@ Latimer also maintained a close personal relationship with Richard Greener, the 
 
 .ve-media wc:Victoria_Earle_Matthews.jpg left width=50%
 
-.ve-media wc:Richard_Theodore_Greener.jpg left width=50%
+.ve-media wc:Richard_Theodore_Greener.jpg right width=50%
 
 ### Latimer's Personal and Professional Legacy
 
