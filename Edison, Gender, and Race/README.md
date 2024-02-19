@@ -25,15 +25,3 @@ Although the American patent system was more democratic and less expensive than 
 
 Barred by social, political, or economic obstacles, White and Black women, and Black men inventors often did not have the same resources or rights to be able to participate in the inventive process to the extent that Edison did. This exhibit explores the experiences, struggles and accomplishments of these marginalized groups within the world of inventing by focusing on a few individual cases. 
 
-## Creating the U.S. Patent system (create a new page)
- 
-Patent Clause in the Constitution, protecting inventors for their ideas, 
-
-At the turn of the 18th century, not long after America had gained its independence, the first patent act was passed in Congress. Titled “An Act to promote the Progrefs of useful Arts”, the ==Patent Act of 1790=={Q7144460} established legally-protected intellectual property rights in an effort to fuel the economy, and to improve the overall quality of life through innovation. 
-
-Read the original text of the law [here.](https://en.wikisource.org/wiki/United_States_Statutes_at_Large/Volume_1/1st_Congress/2nd_Session/Chapter_7)
-
-To receive a patent in the 19th century, inventors had to take an oath, describe the invention, pay a fee, and submit a drawing or model. Once the patent application was approved, the inventor received “the full and exclusive right and liberty of making, using, and vending to others to be used, the said invention or discovery” (==Patents Act of 1836=={Q7144462}, ch. 357, 5, Stat. 117, 119). If unauthorized use was made by others, inventors had the right to sue them for infringement, which happened frequently with underrepresented inventors. 
-.ve-media wc:United_States_Patent_X1.png right width=80% caption:"The first patent awarded to Samuel Hopkins"
-
-Due to the fact that women and enslaved people around this time were not allowed to own property, and because they were often discouraged from going to school or gaining valuable working experience in order to invent. These groups lacked the financial resources, education, and scientific community that White men had utilized for decades.
