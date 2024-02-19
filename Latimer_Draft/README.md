@@ -4,7 +4,7 @@
 ## Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
 
 ### Introduction and Early Career
-.ve-media wc:Lewis_latimer.jpg left width=80% caption="Lewis Latimer"
+.ve-media wc:Lewis_latimer.jpg left width=60% caption="Lewis Latimer"
 
 ==Lewis Latimer=={Q732229} constructed both his personal life and his technical career as concrete examples of his philosophical approach to the place of black people in American life after the Civil War. Although some African Americans proposed resegregating themselves, and others thought that freedmen's occupational advance should proceed by small steps (and take several generations), Latimer preferred to insist that blacks were full American citizens, and he conducted himself accordingly. Applying his own considerable talent to the opportunities that presented themselves, Latimer chose to position himself as an example to both races of what could be accomplished in a context of racial integration and unhesitating professional aspiration.
 
