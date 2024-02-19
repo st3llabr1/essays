@@ -27,6 +27,8 @@ Latimer's personal association with Bell just before Bell's spectacular success 
 
 It is appropriate to digress at this point, in order to describe the surviving primary evidence of Latimer's personal and technological activities. By far the greatest quantity of these materials were present in Latimer's last home at 64 Holly Street in Queens, New York. The house was threatened with demolition and was moved from Holly Street to it's present location in Flushing in 1988. These are now held in the collections of the Queens Borough Public Library and of ==Dr. Winifred Latimer Norman=={Q99237626}, Lewis Latimer's granddaughter. Read more about the Lewis Latimer House on their [website](https://www.lewislatimerhouse.org/about). 
     
+    
+    
 .ve-media https://edisondigital.rutgers.edu/iiif/LB095607 right width=60% caption="Letter from W.R. Meadowcroft to Lewis Latimer, Nov. 5, 1915"
 
 As one might expect, Latimer's home contained loving mementos of his family life and ample evidence of his lifelong activities in the arts, music, and literature. Also among Latimer's effects were letters from African American notables ==Richard Greener=={Q7329434}, ==Victoria Earle Mathews=={Q7926692}, ==Booker T. Washington=={Q319871}, ==Samuel Scottron=={Q7412436}, ==William Ferris=={Q8010398}, ==Frederick Douglass=={Q215562}, and Haiti's Bishop ==James Theodore Holly=={Q6144121}. There were also warm letters from Latimer's European American professional associates, including his former employer ==Hiram Maxim=={Q315601}, his last employers Edwin Hammer & Elmer Schwarz, and fellow members of the ==Edison Pioneers=={Q4363182} E A. Wardlaw and W. R Meadowcroft.
