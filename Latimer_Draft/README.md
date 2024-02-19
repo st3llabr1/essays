@@ -81,8 +81,6 @@ Latimer may also have felt that he had a better chance at a successful career in
 
 >*To a man who had . . . chumy relations with Hiram Maxim and other great inventors the relations of English bosses and employees were to say the least peculiar. The prevailing motif seemed to be humility of the workman and the attitude that nothing that I can do can repay you for permitting me to earn an honest living. My assistant and myself were in hot water from the first moment to the end of my engagement, and as we were incapable of assuming a humility we could not feel, there was a continual effort to discount us . . . .*
 
-
-
 ### Latimer's Prolific Period of Invention
 
 .ve-media default:http://edison.rutgers.edu/images/latimer/tech/multicr.jpg left width=65% caption="Multiple Carbon Incandescent Lamp, 1881"
