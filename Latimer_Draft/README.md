@@ -215,8 +215,6 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 .ve-media default:http://credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
 
 ### Explore Latimer's Patents
-
-
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 right width=70% caption="Latimer's Electric Lamp"
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT255212 left width=70% caption="Tregoning and Latimer's Globe Supporter for Electric Lamps"
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT247097 right width=70% caption="Nichols and Latimer's Electric Lamp"
