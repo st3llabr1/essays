@@ -25,3 +25,4 @@ Although the American patent system was more democratic and less expensive than 
 
 Barred by social, political, or economic obstacles, White and Black women, and Black men inventors often did not have the same resources or rights to be able to participate in the inventive process to the extent that Edison did. This exhibit explores the experiences, struggles and accomplishments of these marginalized groups within the world of inventing by focusing on a few individual cases. 
 
+.ve-media: https://hdl.handle.net/2027/chi.11913143?urlappend=%3Bseq=346%3Bownerid=13510798903217784-364
