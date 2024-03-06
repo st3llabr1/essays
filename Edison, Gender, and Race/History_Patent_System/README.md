@@ -1,5 +1,5 @@
 
-# Creating the U.S. Patent system (create a new page)
+# Creating the U.S. Patent system 
  
 America's patent laws and practices were a crucial feature of the world of inventors. The U.S. Patent Office administered these laws and collected fees from inventors in order to meet its operating expenses. These fees, quite modest in comparison with their British counterparts, made U.S. patents accessible to many inventors.  American patents provided inventors with exclusive ownership of their creations for seventeen years. In return, inventors had to disclose to the public the details of their invention. The patent system, established under the U.S. Constitution, was intended to provide economic incentive for the inventor, who could assign all or partial rights in a patent to other individuals or companies. Inventors frequently sold their patent rights for a flat sum or in exchange for royalty payments. Some also obtained financial support for past or ongoing inventive activity or for help in establishing businesses to exploit their inventions.
 
