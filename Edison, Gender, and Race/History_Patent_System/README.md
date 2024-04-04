@@ -1,9 +1,11 @@
 
 # Creating the U.S. Patent system 
- 
-America's patent laws and practices were a crucial feature of the world of inventors. The U.S. Patent Office administered these laws and collected fees from inventors in order to meet its operating expenses. These fees, quite modest in comparison with their British counterparts, made U.S. patents accessible to many inventors.  American patents provided inventors with exclusive ownership of their creations for seventeen years. In return, inventors had to disclose to the public the details of their invention. The patent system, established under the U.S. Constitution, was intended to provide economic incentive for the inventor, who could assign all or partial rights in a patent to other individuals or companies. Inventors frequently sold their patent rights for a flat sum or in exchange for royalty payments. Some also obtained financial support for past or ongoing inventive activity or for help in establishing businesses to exploit their inventions.
+.ve-media wc:Constitution_of_the_United_States,_page_1.jpg left width=80%
+America's patent laws and practices were a crucial feature of the world of inventors. [The U.S. Patent Office](https://www.uspto.gov/) administered these laws and collected fees from inventors in order to meet its operating expenses. These fees, quite modest in comparison with their British counterparts, made U.S. patents accessible to many inventors.  American patents provided inventors with exclusive ownership of their creations for seventeen years. In return, inventors had to disclose to the public the details of their invention. The patent system, established under the [U.S. Constitution](https://constitution.congress.gov/browse/essay/artI-S8-C8-4-1/ALDE_00013066/z), was intended to provide economic incentive for the inventor, who could assign all or partial rights in a patent to other individuals or companies. Inventors frequently sold their patent rights for a flat sum or in exchange for royalty payments. Some also obtained financial support for past or ongoing inventive activity or for help in establishing businesses to exploit their inventions.
+
 
 To obtain a patent, the inventor submitted to the U.S. Patent Office an application, which consisted of a proper specification, carefully measured drawings, and, in most cases, a physical model of the invention. The application required careful preparation so that it clearly stated its claims and described the invention and how it worked. After the inventor submitted the application, an official examiner scrutinized it and determined whether the description and claims were satisfactory. If the examiner concluded that the application was acceptable and that the invention was new, useful, and unknown prior to the time of submission, a patent could be issued. If an application was rejected, the inventor could amend the written description or the claims but not the drawings or model. Such amendments were allowed in order to make the application clearer or to make the claims more precise or narrow. The cycle of rejection and amendment could involve many rounds and take many years before the patent was issued or the application was abandoned.
+.ve-media wc:United_States_Patent_X1.png right width=80% caption:"The first patent awarded to Samuel Hopkins"
 
 If two or more persons submitted applications for substantially the same invention, the Patent Office issued the patent to the inventor with the best claim to priority. This often made inventive activity much like a race, particularly when others were known to be working on the same problem. It also placed a premium on careful record-keeping and secrecy. To establish priority, inventors at this time often submitted caveats to the Patent Office. Caveats were preliminary applications in which the inventor made claims to one or more potential inventions without presenting the detail required in a formal application. The Patent Office noted the subject matter of the caveat and placed it in a confidential archive. If within one year another inventor filed an application on a similar process or device, the Patent Office notified the holder of the caveat, who then had three months to submit a formal application.
 
@@ -22,18 +24,3 @@ Back 2. When a model could illustrate an invention, the Patent Office required t
 Back 3. A caveat could be renewed annually. The caveat procedure fell into disuse during the late nineteenth century, and Congress abolished it in 1910.
 
 Back 4. For example, Henry Howson, a Philadelphia solicitor, served on the U.S. Patent Association's Committee on Publication and published several pamphlets on the patent system.
-
-
-
---------above taken from https://edison.rutgers.edu/life-of-edison/edison-s-patents/american-patent-system ------
-
-Patent Clause in the Constitution, protecting inventors for their ideas, 
-
-At the turn of the 18th century, not long after America had gained its independence, the first patent act was passed in Congress. Titled “An Act to promote the Progrefs of useful Arts”, the ==Patent Act of 1790=={Q7144460} established legally-protected intellectual property rights in an effort to fuel the economy, and to improve the overall quality of life through innovation. 
-
-Read the original text of the law [here.](https://en.wikisource.org/wiki/United_States_Statutes_at_Large/Volume_1/1st_Congress/2nd_Session/Chapter_7)
-
-To receive a patent in the 19th century, inventors had to take an oath, describe the invention, pay a fee, and submit a drawing or model. Once the patent application was approved, the inventor received “the full and exclusive right and liberty of making, using, and vending to others to be used, the said invention or discovery” (==Patents Act of 1836=={Q7144462}, ch. 357, 5, Stat. 117, 119). If unauthorized use was made by others, inventors had the right to sue them for infringement, which happened frequently with underrepresented inventors. 
-.ve-media wc:United_States_Patent_X1.png right width=80% caption:"The first patent awarded to Samuel Hopkins"
-
-Due to the fact that women and enslaved people around this time were not allowed to own property, and because they were often discouraged from going to school or gaining valuable working experience in order to invent. These groups lacked the financial resources, education, and scientific community that White men had utilized for decades.
