@@ -11,7 +11,18 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
     - [White Women in the Patent System](/5)
     - [Invention Exhibitions](/6)
 
-By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. patents](https://archive.org/details/edison-patent). Most of his patents related to the following industries: 1) electric light and power, 2) sound recordings, 3) telegraphs and telephones, 4) batteries, 5) oil mining and milling, and 6) Portland cement. They also included improvements for motion picture technology, office macinery, chemical production, and miscellaneous other subjects. 
+## A Short Introduction on Edison
+##### By Paul B. Israel
+
+By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. patents](https://archive.org/details/edison-patent). Most of his patents related to the following industries: 
+1) electric light and power, 
+2) sound recordings, 
+3) telegraphs and telephones, 
+4) batteries, 
+5) oil mining and milling, and 
+6) Portland cement. 
+
+They also included improvements for motion picture technology, office macinery, chemical production, and miscellaneous other subjects. 
 
 Edison was one of a small group who earned a living as a professional inventor, though many inventors succeeded to some extent by patenting useful inventions in existing industries. This is how Edison's career began. He focused on improving the telegraph apparatus he used as a telegraph operator and forged connections with key figures in the industry, first in Boston, then in New York, who provided him with the funding he needed to develop and patent his ideas. 
 
