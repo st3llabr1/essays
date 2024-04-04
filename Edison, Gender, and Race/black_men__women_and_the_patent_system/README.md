@@ -28,7 +28,7 @@ This myth “produces disembodied icons celebrated merely for their patented mat
 
 Both Granville Woods and Lewis Latimer worked in the same fields of invention as Thomas Edison, telegraphy and lighting, respectively. But their experiences, from Edison, and from each other, were radically different. Latimer's career developed as he worked for and with some of the well-known White inventors at the time, inventing more often than he was patenting. Woods, on the other hand, known as the "Black Edison," quickly patented and sold many of his inventions, to stay financially solvent. Similar to Edison, he faced major legal challenges, but without the finanical and community support.  
 
-Davidson, however, had a completely different experience than both Woods and Latimer. Working within the 
+Davidson, however, had a completely different experience than both Woods and Latimer. Working at the Department of the Treasury, he 
 
 Granville Woods-railroad telgraphy, Edison was involved with at same time
 Latimer-electic lighting, related to Edison, worked for Edison company and general electric (what came after)
