@@ -20,7 +20,7 @@ By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. pa
 3) telegraphs and telephones, 
 4) batteries, 
 5) oil mining and milling, and 
-6) Portland cement. 
+6) Portland cement
 
 They also included improvements for motion picture technology, office macinery, chemical production, and miscellaneous other subjects. 
 
