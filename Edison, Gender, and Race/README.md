@@ -5,7 +5,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 - [Home](/)
     - [Race, Gender, and the American Patent System in the Age of Edison](/READme.md)
     - [Creating the U.S. Patent System](/History_Patent_System)
-    - [Black Men and Women in the Patent System](/2)
+    - [Black Men and Women in the Patent System](/black_men_women_and_the_patent_system)
     - [Black Men in the Patent System](/3)
     - [Black Women in the Patent System](/4)
     - [White Women in the Patent System](/5)
