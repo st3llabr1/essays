@@ -4,7 +4,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 - [Home](/)
     - [Introduction](/introduction)
-    - [Diary Entry 1](/1)
+    - [Creating the U.S. Patent System](/1)
     - [Diary Entry 2](/2)
     - [Diary Entry 3](/3)
     - [Diary Entry 4](/4)
