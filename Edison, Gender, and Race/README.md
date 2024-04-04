@@ -3,9 +3,9 @@
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
 - [Home](/)
-    - [Race, Gender, and the American Patent System in the Age of Edison](/READme.md)
-    - [Creating the U.S. Patent System](/History_Patent_System)
-    - [Black Men and Women in the Patent System](/black_men_women_and_the_patent_system)
+    - [Race, Gender, and the American Patent System in the Age of Edison](/introduction)
+    - [Creating the U.S. Patent System](/1)
+    - [Black Men and Women in the Patent System](/2)
     - [Black Men in the Patent System](/3)
     - [Black Women in the Patent System](/4)
     - [White Women in the Patent System](/5)
