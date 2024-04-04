@@ -3,17 +3,13 @@
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
 - [Home](/)
-    - [Introduction](/introduction)
+    - [Race, Gender, and the American Patent System in the Age of Edison](/introduction)
     - [Creating the U.S. Patent System](/1)
     - [Black Men and Women in the Patent System](/2)
     - [Black Men in the Patent System](/3)
     - [Black Women in the Patent System](/4)
     - [White Women in the Patent System](/5)
-    - [Diary Entry 6](/6)
-    - [Diary Entry 7](/7)
-    - [Diary Entry 8](/8)
-    - [Diary Entry 9](/9)
-    - [Diary Entry 10](/10)
+    - [Invention Exhibitions](/6)
 
 By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. patents](https://archive.org/details/edison-patent). Most of his patents related to the following industries: 1) electric light and power, 2) sound recordings, 3) telegraphs and telephones, 4) batteries, 5) oil mining and milling, and 6) Portland cement. They also included improvements for motion picture technology, office macinery, chemical production, and miscellaneous other subjects. 
 
