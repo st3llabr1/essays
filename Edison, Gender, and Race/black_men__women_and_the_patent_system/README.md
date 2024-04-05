@@ -1,7 +1,7 @@
 # Black Men and Women in the Patent System
 
-.ve-media: wc:Smithsonian_Building_NR.jpg left width=70%
-In 2016, the Smithsonian’s [Lemelson Center for the study of Invention and Innovation](https://invention.si.edu/) held a [webinar series](https://invention.si.edu/black-inventors-and-innovators-new-perspectives) that examined and discussed the inventions and creations of Black inventors in the history of the United States. From these discussions, it became clear cultural heritage institutions have played a significant role in downplaying the inventions and creativity of Black inventors, due to a too narrow definition of American innovation. Rayvon Fouché, an African-American historian of technology, argued that invention narratives “prioritize efficiency, improvement, dominion, and power, often overlooking those forms of invention that do not receive patents and that prioritize art, expression, morality and spirituality.” (https://invention.si.edu/node/29159/p/741-underrepresentation). 
+.ve-media wc:Smithsonian_Building_NR.jpg left width=70%
+In 2016, the Smithsonian’s [Lemelson Center for the study of Invention and Innovation](https://invention.si.edu/) held a [webinar series](https://invention.si.edu/black-inventors-and-innovators-new-perspectives) that examined and discussed the inventions and creations of Black inventors in the history of the United States. From these discussions, it became clear cultural heritage institutions have played a significant role in downplaying the inventions and creativity of Black inventors, due to a too narrow definition of American innovation. Rayvon Fouché, an African-American historian of technology, argued that invention narratives “prioritize efficiency, improvement, dominion, and power, often overlooking those forms of invention that do not receive patents and that prioritize art, expression, morality and spirituality.”[^1] ). 
 
 Read more about Rayvon Fouche's work here: https://www.rayvonfouche.com/
 
@@ -37,6 +37,7 @@ Both Granville Woods and Lewis Latimer worked in the same fields of invention as
 Both Granville Woods and Lewis Latimer worked in the same fields of invention as Thomas Edison, telegraphy and lighting, respectively. But their experiences, from Edison, and from each other, were radically different. Latimer's career developed as he worked for and with some of the well-known White inventors at the time, inventing more often than he was patenting. Woods, on the other hand, known as the "Black Edison," quickly patented and sold many of his inventions, to stay financially solvent. Similar to Edison, he faced major legal challenges, but without the finanical and community support.  Davidson, however, had a completely different experience than both Woods and Latimer. Working as the Chief-Clerk of Adding Machines at the office of Auditor for the Post Office, he established himself as an expert in adding machines, and patented his invention that improved this process. 
 
 
-[^1]:https://www.brookings.edu/articles/the-black-innovators-who-elevated-the-united-states-reassessing-the-golden-age-of-invention/
-[^2]:Black Inventors in the Age of Segregation in the (pp. 64-65)
-[^3]:Black Inventors in the Age of Segregation in the (p. 65)
+[^1]:https://invention.si.edu/node/29159/p/741-underrepresentation
+[^2]:https://www.brookings.edu/articles/the-black-innovators-who-elevated-the-united-states-reassessing-the-golden-age-of-invention/
+[^3]:Black Inventors in the Age of Segregation in the (pp. 64-65)
+[^4]:Black Inventors in the Age of Segregation in the (p. 65)
