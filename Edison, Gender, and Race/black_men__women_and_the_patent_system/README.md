@@ -17,6 +17,8 @@ In a new database on inventors of the Golden Age of Invention, from 1870 to 1940
 - “In the North, Black people’s share of patents equaled their share of population”
 - “With more than 50,000 total patents, Black people accounted for more inventions during this period than immigrants from every country except England and Germany” [^1]
 
+.ve-media default:https://invention.si.edu/sites/default/files/new-perspectives-black-inventors-innovators-2020-report-cook-lisa-black-v-white-patents-1870-1940-JEG2014-750-inline-edit.jpg right width=80% caption="Patents by Black and White Inventors after 1900"
+
 This data reframes the role of Black Americans in the Industrial Revolution as robust participants in both invention and patenting. However, there is a sharp decline in patents by Black inventors after 1900, which coincided with the prevalance of Jim Crow laws and lynchings.  Fouche argues that the “black inventor myth” is made up of four main themes: 
 1. Patent equals financial success;
 2. Black inventors were race champions and invented to uplift the race; 
