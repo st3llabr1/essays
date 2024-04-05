@@ -5,9 +5,8 @@ In 2016, the Smithsonian’s [Lemelson Center for the study of Invention and Inn
 
 Read more about Rayvon Fouche's work here: https://www.rayvonfouche.com/
 
-You can watch the webinar from the Smithsonian’s Lemelson Center on this topic here: 
-.ve-media: https://youtu.be/NC7RcXNCsLI?si=-UgJqgPUYqjS84CS
-Commercialization and Institutions.
+.ve-media https://www.youtube.com/watch?v=NC7RcXNCsLI right width=60%
+You can watch the webinar on Commercialization and Institutions from the Smithsonian’s Lemelson Center on this topic here: 
 
 Scholars have argued that Black inventions have been overlooked by history because those inventions were not efficient machines that would replace human or animal labor. These conclusions are based on research that enslaved [African Americans built planting and irrigation systems on the plantations; developed medicines and methods for preserving food, and created practical objects for obtaining and storing food](https://invention.si.edu/node/29159/p/740-brief-history). Although the Patent Act of 1790 allowed for Black inventors to patent their ideas, this only applied to free Black people, as enslaved Black people had no legal rights. It has been documented that, prior to the Civil War, White people claimed or appropriated the inventions of enslaved Black people. After the Civil War, and the abolition of slavery, all Black Americans were legally able to patent their inventions. However, they continued to face ingrained structural racism and violence.
 
