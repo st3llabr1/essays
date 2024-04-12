@@ -199,9 +199,7 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 
 ### Read Latimer's Obituary
 
-.ve-media default:http://credo.library.umass.edu/images/resize/display/mums312-b178-i618-001.png left width=50% caption="Latimer Obituary p.1"
-.ve-media default:http://credo.library.umass.edu/images/resize/display/mums312-b178-i618-002.png  right width=50% caption="Latimer Obituary p.2"
-.ve-media default:http://credo.library.umass.edu/images/resize/display/mums312-b178-i618-003.png left width=50% caption="Latimer Obituary p.3"
+Pioneers obituary from Box, link to new digital object
 
 ### Explore Latimer's Patents
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 right width=70% caption="Latimer's Electric Lamp"
