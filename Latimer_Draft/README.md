@@ -184,9 +184,7 @@ In his personal life, Latimer again worked within nineteenth-century American id
 >Marginalia: Tate-Write and thank you and say I will put it on and send cylinder to England. GIve to Miller. E Ans June 19/88*
 
 ##
-.ve-media https://edisondigital.rutgers.edu/iiif/D8818ANA right width=70% caption="Letter form Alfred Tate to Lewis Latimer"
-
-
+His assistant later wrote:
 >*Dear Latimer:
 >Your welcome letter came to hand a few days ago, and enclosing some Poetry.
 >I was very glad to hear from you and it keeps up old times to hear from you [and Joe] and I am very glad to hear that with all the change that has been made that [both] you [and Joe] are still kept and the next time I am in 44 I am going to call in and see you. . . .
