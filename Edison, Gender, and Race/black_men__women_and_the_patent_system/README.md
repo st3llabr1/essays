@@ -1,14 +1,16 @@
 # Black Men and Women in the Patent System
 
-.ve-media wc:Smithsonian_Building_NR.jpg left width=80%
+.ve-media wc:Smithsonian_Building_NR.jpg left width=80% caption="Smithsonian Institute"
 In 2016, the Smithsonian’s [Lemelson Center for the study of Invention and Innovation](https://invention.si.edu/) held a [webinar series](https://invention.si.edu/black-inventors-and-innovators-new-perspectives) that examined and discussed the inventions and creations of Black inventors in the history of the United States. From these discussions, it became clear cultural heritage institutions have played a significant role in downplaying the inventions and creativity of Black inventors, due to a too narrow definition of American innovation. Rayvon Fouché, an African-American historian of technology, argued that invention narratives “prioritize efficiency, improvement, dominion, and power, often overlooking those forms of invention that do not receive patents and that prioritize art, expression, morality and spirituality.”[^1] ). 
 
 Read more about Rayvon Fouche's work [here:](https://www.rayvonfouche.com/)
 
-.ve-media https://www.youtube.com/watch?v=NC7RcXNCsLI right width=60%
+.ve-media https://www.youtube.com/watch?v=NC7RcXNCsLI right width=60% caption="Webinar on Commercialization and Institutions from the Smithsonian's Lemelson Center"
 You can watch the webinar on Commercialization and Institutions from the Smithsonian’s Lemelson Center on this topic to the right. 
 
-Scholars have argued that Black inventions have been overlooked by history because those inventions were not efficient machines that would replace human or animal labor. These conclusions are based on research that enslaved [African Americans built planting and irrigation systems on the plantations; developed medicines and methods for preserving food, and created practical objects for obtaining and storing food](https://invention.si.edu/node/29159/p/740-brief-history). Although the Patent Act of 1790 allowed for Black inventors to patent their ideas, this only applied to free Black people, as enslaved Black people had no legal rights. It has been documented that, prior to the Civil War, White people claimed or appropriated the inventions of enslaved Black people. After the Civil War, and the abolition of slavery, all Black Americans were legally able to patent their inventions. However, they continued to face ingrained structural racism and violence.
+Scholars have argued that Black inventions have been overlooked by history because those inventions were not efficient machines that would replace human or animal labor. These conclusions are based on research that enslaved [African Americans built planting and irrigation systems on the plantations; developed medicines and methods for preserving food, and created practical objects for obtaining and storing food](https://invention.si.edu/node/29159/p/740-brief-history). 
+
+Although the Patent Act of 1790 allowed for Black inventors to patent their ideas, this only applied to free Black people, as enslaved Black people had no legal rights. It has been documented that, prior to the Civil War, White people claimed or appropriated the inventions of enslaved Black people. After the Civil War, and the abolition of slavery, all Black Americans were legally able to patent their inventions. However, they continued to face ingrained structural racism and violence.
 
 In a new database on inventors of the Golden Age of Invention, from 1870 to 1940, published in 2019 by the ==Brookings Institution=={Q929154}, the data revealed:
 
