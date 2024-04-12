@@ -34,4 +34,4 @@ Barred by social, political, or economic obstacles, White and Black women, and B
 
 This digital exhibit engages with some of the best scholarly literature that exists on the period of post-Reconstruction, Jim Crow laws and impact of Black inventors.
 
-.ve-iframe: https://hdl.handle.net/2027/chi.11913143?urlappend=%3Bseq=346%3Bownerid=13510798903217784-364 left width=80%
+.ve-iframe https://hdl.handle.net/2027/chi.11913143?urlappend=%3Bseq=346%3Bownerid=13510798903217784-364 left width=80%
