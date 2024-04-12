@@ -3,10 +3,6 @@ For Black inventors, the racism and structural oppression of their everyday live
 
 Fighting uncertainties like personal security, political disenfranchisement, and work discrimination, it becomes clear that this was not an environment that could foster innovation.  The implications of racialized violence in the South stalled Black inventive activity for years. White patents and Black patents followed a [similar patenting trend (though at a much lesser rate) for the majority of the late 1800s](https://spectrum.ieee.org/how-violence-and-segregation-destroyed-african-american-innovation). It has  become apparent that as lynchings and other racialized violence increased, Black invention greatly decreased, which widened the gap between White and Black-patented inventions as well as [increased the economic inequality and oppression already present within the patenting system.](https://spectrum.ieee.org/how-violence-and-segregation-destroyed-african-american-innovation).
 
-Include graphs from Lisa D. Cook (in EM Google Drive)
-
-https://www.brookings.edu/articles/the-black-innovators-who-elevated-the-united-states-reassessing-the-golden-age-of-invention/
-
 ## Granville T. Woods (1856-1910)
 .ve-media wc:Granville_T._Woods_c._1895.jpg left width=80% caption="Granville T. Woods, c. 1895"
 
