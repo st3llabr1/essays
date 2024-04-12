@@ -1,7 +1,7 @@
 .ve-header "Inventing a Better Life: Latimer's Technical Career" default:https://edison.rutgers.edu/images/latimer/tech/elevatr.jpg  "A Digital Exhibit" 
 
 
-## Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
+Adapted from an essay Bayla Singer, by The Thomas A. Edison Papers Team
 
 ### Introduction and Early Career
 .ve-media wc:Lewis_latimer.jpg left width=60% caption="Lewis Latimer"
