@@ -44,7 +44,7 @@ While in Boston, Lewis Latimer had prepared himself for a technical career, and 
 
 >*In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation.*[^5]
 
-.ve-media default:http://edison.rutgers.edu/images/latimer/tech/bulb2.jpg left width=50% caption="Incandescent Electric Lamp, 1880"
+.ve-media default:http://edison.rutgers.edu/images/latimer/tech/bulb2.jpg left width=50% caption="Incandescent Electric Lamp, 1880" https://ids.si.edu/ids/deliveryService?id=NMAH-AC0069-0000011
 
 At about the time Latimer began work at U.S. Electric Lighting, in March of 1880, he was elected to membership in Bridgeport's Scientific Society, an organization to which Maxim and other local notables also belonged. In a paper presented to the Society in May, Latimer argued that art and science were closely related; he continued to personify the relationship throughout his life, as his restless creativity found outlet in music, literature, and fine art, as well as in technical inventions.[^6]
 
@@ -120,7 +120,7 @@ Latimer's book combined lucid technical description with a touch of poetry. In d
 And in describing the quality of the lamp, 
 >*Like the light of the sun, it beautifies all things on which it shines, and is no less welcome in the palace than in the humblest home.*[^26]
 
-### Latimer's Black Heritage
+## Latimer's Black Heritage
 
 .ve-media default:http://edison.rutgers.edu/images/latimer/George/runaway.jpg left width=70% caption="Newspaper Advertisements, October 15, 1842"
 
