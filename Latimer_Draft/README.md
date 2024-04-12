@@ -163,7 +163,7 @@ Latimer also maintained a close personal relationship with Richard Greener, the 
 
 .ve-media wc:Richard_Theodore_Greener.jpg right width=50%
 
-### Latimer's Personal and Professional Legacy
+## Latimer's Personal and Professional Legacy
 
 Latimer's humanity and philosophy, which governed his professional as well as personal life, were expressed in his letter supporting the aims of the National Conference of Colored Men in 1895:
 
