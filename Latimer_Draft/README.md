@@ -11,7 +11,7 @@ In his early career in Boston, Latimer was surrounded by technological communiti
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PAT147363 right width=60% caption="Latimer's Water-Closets for Railroad Cars, U.S. Patent 147,363"  right
 
-Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His [first patent](#my-header) was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
+Latimer began, as he recalled, with "a taste for drawing"[^1]  and became proficient as a draftsman. He also tried his hand at inventing. His first patent was granted in 1874, describing an improved water closet for railway cars[^2].  Reading the application, a modern observer would probably agree that Latimer's "closed-bottom hopper" would have been preferable to the "open-bottom hopper" in use at the time. As the application notes, the existing apparatus was 
 
 
 >*neither agreeable to use nor wholly safe, the draft through the hopper being always excessive, while the annoyance from dust, cinders, and other matters thrown up from the track is so great as to forbid or discourage the use of the apparatus except under extreme circumstances.*
@@ -43,7 +43,7 @@ While in Boston, Lewis Latimer had prepared himself for a technical career, and 
 
 >*In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation.*[^5]
 
-.ve-media default:http://edison.rutgers.edu/images/latimer/tech/bulb2.jpg left width=50% caption="Incandescent Electric Lamp, 1880" https://ids.si.edu/ids/deliveryService?id=NMAH-AC0069-0000011
+.ve-media default:https://ids.si.edu/ids/deliveryService?id=NMAH-AC0069-0000011 left width=50% caption="Incandescent Electric Lamp, 1880" 
 
 At about the time Latimer began work at U.S. Electric Lighting, in March of 1880, he was elected to membership in Bridgeport's Scientific Society, an organization to which Maxim and other local notables also belonged. In a paper presented to the Society in May, Latimer argued that art and science were closely related; he continued to personify the relationship throughout his life, as his restless creativity found outlet in music, literature, and fine art, as well as in technical inventions.[^6]
 
