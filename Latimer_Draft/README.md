@@ -43,7 +43,7 @@ While in Boston, Lewis Latimer had prepared himself for a technical career, and 
 
 >*In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation.*[^5]
 
-.ve-media default:https://ids.si.edu/ids/deliveryService?id=NMAH-AC0069-0000011 left width=50% caption="Incandescent Electric Lamp, 1880" 
+.ve-media default: left width=50% caption="Process of Manufacturing Carbons patent" 
 
 At about the time Latimer began work at U.S. Electric Lighting, in March of 1880, he was elected to membership in Bridgeport's Scientific Society, an organization to which Maxim and other local notables also belonged. In a paper presented to the Society in May, Latimer argued that art and science were closely related; he continued to personify the relationship throughout his life, as his restless creativity found outlet in music, literature, and fine art, as well as in technical inventions.[^6]
 
@@ -59,7 +59,7 @@ In addition, Latimer's unpatented inventions improved designs for virtually all 
 
 It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and were paid for them. [^9] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
 
-.ve-media default:http://edison.rutgers.edu/images/latimer/tech/phosphr.jpg right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
+.ve-media default: right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
 
 When the company moved to Brooklyn in 1880, Latimer moved with it and continued to diversify his achievements. In addition to his desk work and shop work, he went out into the field assisting in arc and incandescent installations of Maxim equipment in New York, Philadelphia, and Montreal. In his logbook, he later recalled:
 
@@ -91,7 +91,7 @@ Surviving evidence indicates that the period 1880-1885 was Latimer's most prolif
 
 .ve-media default:http://raw.githubusercontent.com/edisonpapers/media/main/Latimer/Latimer_Legal_Team.jpg left width=60% caption="Latimer and General Electric Company Legal Team"
 
-From 1885 to about 1924, Latimer worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
+From 1885 to about 1924,==Latimer=={1846,1529,426,537} worked with essentially the same people, though the names of the departments and their corporate affiliations changed. He entered the Engineering Department of the Edison Electric Light Company and about 1889 was transferred to the Legal Department. When the Edison General Electric Company merged with Thomson-Houston in 1892, Latimer continued to serve in the Legal Department of the newly formed General Electric Company. (After a bitter struggle, Edison's name was dropped, and Edison himself had no more involvement with the company beyond defending his patents.)[^19] About 1896, Latimer joined the Board of Patent Control, a joint arrangement between General Electric and the Westinghouse Company; and finally, about 1911, began work in the private consulting firm headed by Edwin Hammer (brother of William) and Elmer Schwarz.
 
 .ve-media default:http://edison.rutgers.edu/images/latimer/tech/eel.jpg right width=50% caption="Edison Electric Light Company, 1886"
 
