@@ -134,7 +134,6 @@ Reinforcing these motives, the incandescent electric light held a powerful messa
 .ve-media https://iiif.archivelab.org/iiif/jointspecialcomm00mass/manifest.json right width=50% seq=4 caption="The joint special committee of the Senate and House of Representatives of the State of Massachusetts,: to whom was referred the petition of George Latimer (fugitive slave) and more than sixty-five thousand citizens of Massachusetts..."
 
 
-
 While working for the Edison and General Electric companies, and thereafter, Latimer continued to invent at a much reduced rate (his last patent was granted in 1905). Of the drawings found in his Queens home, by far the greater number of those on which he claimed credit as "inventor" are dated prior to 1885, although the home was purchased much later. This is consistent with the speculation that Latimer prized his early work and his vision of himself as an inventor.
 
 In 1918, Latimer became a founding member of a rather exclusive social group: the Edison Pioneers. These men were business or technical affiliates, either of Edison's many companies, or of Edison himself. They had all played some part in the development of the electric utility industry; the organizational documents speak vaguely of carrying on the ideals and goals of Thomas Edison, but the primary purpose of the group was probably a mixture of social and professional networking.[^28]
