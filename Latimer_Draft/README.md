@@ -175,7 +175,7 @@ Latimer's humanity and philosophy, which governed his professional as well as pe
 
 In his personal life, Latimer again worked within nineteenth-century American ideals. He maintained an advanced amateur's gentlemanly pursuit of music, art, and literature, and he promoted these cultural interests in his family. Latimer's literary efforts included poetry, prose, and plays. In 1900, The Willing Workers Circle presented his "Comedy," which raised over seventy-five dollars[^36]. Several [poems](https://invention.si.edu/innovative-lives-lewis-latimer-1848-1928-renaissance-man) and short prose pieces were published during his lifetime. He received some small fees for these, and the editor of one magazine went so far as to proclaim "Let me tell you, poetry is your 'forte.' Every one of your poetic effusions . . . Not only did they please me individually, but they have taken by storm every one that has read them." [^37]Latimer sent a poem to Edison, for possible inclusion in a planned Fourth of July commemorative phonograph recording. Edison accepted the poem, and Latimer continued to submit poetry to Edison's West Orange office.[^38] 
 
-.ve-media https://edisondigital.rutgers.edu/iiif/D8847AAY left width=70% caption"Letter from Lewis Latimer to Thomas A. Edison"
+.ve-media https://edisondigital.rutgers.edu/iiif/D8847AAY right width=70% caption"Letter from Lewis Latimer to Thomas A. Edison"
 >*Dear Sir,
 >As the fourth of July is near at hand, I venture to hope that you may deem the enclosed lines a fit and proper speech for the Phonograph to make on the celebration of that day.
 >Trusting that you will not be wasiting valuable time in reading them.
