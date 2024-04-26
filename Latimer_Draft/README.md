@@ -179,15 +179,16 @@ In his personal life, Latimer again worked within nineteenth-century American id
 
 Latimer writes to Edison:
 
+
+
+
 >*Dear Sir:
 >As the fourth of July is near at hand, I venture to hope that you may deem the enclosed lines a fit and proper speech for the Phonograph to make on the celebration of that day.
 Trusting that you will not be wasiting valuable time in reading them.
-I am very respectfully
-Yours
-L.H. Latimer
-Marginalia Tate Write and thank you and say I will put it on and send cylinder to England. Give to Miller. E Ans June 19/88*
-
-
+>I am very respectfully
+>Yours
+>L.H. Latimer
+>Marginalia Tate Write and thank you and say I will put it on and send cylinder to England. Give to Miller. E Ans June 19/88*
 
 Poetry was not an unusual activity for "technical" men: On the occasion of Lewis and Mary Latimer's fiftieth anniversary, Latimer's employers sent the couple a three-stanza commemorative poem written by Elmer Schwarz, one of the firm's senior partners. The poem was accompanied by a letter signed by all the partners:
 
