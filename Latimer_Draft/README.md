@@ -181,7 +181,7 @@ Latimer writes to Edison:
 
 >*Dear Sir:
 >As the fourth of July is near at hand, I venture to hope that you may deem the enclosed lines a fit and proper speech for the Phonograph to make on the celebration of that day.
->Trusting that you will not be wasiting valuable time in reading them.
+Trusting that you will not be wasiting valuable time in reading them.
 >I am very respectfully
 >Yours
 >L.H. Latimer
