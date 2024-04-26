@@ -184,7 +184,7 @@ Latimer writes to Edison:
 >I am very respectfully
 >Yours
 >L.H. Latimer
->Marginalia: Tate-Write and thank you and say I will put it on and send cylinder to England. Give to Miller. E Ans June 19/88*
+>Marginalia Tate-Write and thank you and say I will put it on and send cylinder to England. Give to Miller. E Ans June 19/88*
 
 
 >*Dear Latimer:
