@@ -178,6 +178,7 @@ In his personal life, Latimer again worked within nineteenth-century American id
 .ve-media https://edisondigital.rutgers.edu/iiif/D8847AAY right width=70% caption"Letter from Lewis Latimer to Thomas A. Edison"
 
 Latimer writes to Edison:
+
 >*Dear Sir
 >As the fourth of July is near at hand, I venture to hope that you may deem the enclosed lines a fit and proper speech for the Phonograph to make on the celebration of that day.
 >Trusting that you will not be wasiting valuable time in reading them.
