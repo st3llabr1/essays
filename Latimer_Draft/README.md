@@ -187,13 +187,6 @@ Trusting that you will not be wasiting valuable time in reading them.
 >L.H. Latimer
 >Marginalia Tate Write and thank you and say I will put it on and send cylinder to England. Give to Miller. E Ans June 19/88*[^38]
 
-
->*Dear Latimer:
->Your welcome letter came to hand a few days ago, and enclosing some Poetry.
->I was very glad to hear from you and it keeps up old times to hear from you [and Joe] and I am very glad to hear that with all the change that has been made that [both] you [and Joe] are still kept and the next time I am in 44 I am going to call in and see you. . . .
-The Poetry which you sent me is very good and everyone around the place says you are a good writer. . . .
-Yours truly, John E Randolph*[^39]
-
 Poetry was not an unusual activity for "technical" men: On the occasion of Lewis and Mary Latimer's fiftieth anniversary, Latimer's employers sent the couple a three-stanza commemorative poem written by Elmer Schwarz, one of the firm's senior partners. The poem was accompanied by a letter signed by all the partners:
 
 >*It speaks well for both of you that each has put up with the other for so long a time; this statement is directed especially to Mr. Latimer, whose idiosyncrasies we know so well. But we find that during the forty years of his connection with electrical matters he does not appear to have made any but friends of those with whom he has been associated. . . .*[^40]
