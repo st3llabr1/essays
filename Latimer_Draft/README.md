@@ -184,7 +184,12 @@ Latimer writes to Edison:
 >I am very respectfully
 >Yours
 >L.H. Latimer
->Marginalia: Tate-Write and thank you and say I will put it on and send cylinder to England. GIve to Miller. E Ans June 19/88*
+>Marginalia: Tate-Write and thank you and say I will put it on and send cylinder to England. Give to Miller. E Ans June 19/88*
+>*Dear Latimer:
+>Your welcome letter came to hand a few days ago, and enclosing some Poetry.
+>I was very glad to hear from you and it keeps up old times to hear from you [and Joe] and I am very glad to hear that with all the change that has been made that [both] you [and Joe] are still kept and the next time I am in 44 I am going to call in and see you. . . .
+The Poetry which you sent me is very good and everyone around the place says you are a good writer. . . .
+Yours truly, John E Randolph*[^39]
 
 Poetry was not an unusual activity for "technical" men: On the occasion of Lewis and Mary Latimer's fiftieth anniversary, Latimer's employers sent the couple a three-stanza commemorative poem written by Elmer Schwarz, one of the firm's senior partners. The poem was accompanied by a letter signed by all the partners:
 
