@@ -1,4 +1,4 @@
-.ve-header  "Inventing a Better Life: Latimer's Technical Career"  default:https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" 
+.ve-header  "Inventing a Better Life: Latimer's Technical Career"  default:https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:3,23,80,20 center sticky
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, scholar Bayla Singer, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
