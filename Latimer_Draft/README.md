@@ -49,7 +49,7 @@ At about the time Latimer began work at U.S. Electric Lighting, in March of 1880
 
 The U.S. Electric Lighting Company was only one of Edison's competitors in the race to develop a successful incandescent light, working toward this goal since at least 1838. Edison himself continued to improve his incandescent bulbs; his electric light patents alone fill three bound volumes. Unfortunately, only one person captures the attention of the public and is hailed as "the" inventor, no matter how much previous work he builds on, nor how much additional work must be done to make the "invention" sufficiently useful and economical for it to become widely acceptable.[^7]
 
-.ve-media default:https://edison.rutgers.edu/images/exhibits/race-and-gender/lampfac.jpg right width=50% caption="Lamp Factory"
+.ve-media default:https://edison.rutgers.edu/images/exhibits/race-and-gender/lampfac.jpg left width=70% caption="Lamp Factory"
 
 The [Smithsonian's Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. Along with various Edison lamps, others credited to Maxim, ==Edward Weston=={Q902986}, ==St. George Lane-Fox=={Q2318542}, ==William E. Sawyer=={Q979132}, and Latimer—and many lesser-known inventors as well.[^8] All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today. 
 
