@@ -49,17 +49,15 @@ At about the time Latimer began work at U.S. Electric Lighting, in March of 1880
 
 The U.S. Electric Lighting Company was only one of Edison's competitors in the race to develop a successful incandescent light, working toward this goal since at least 1838. Edison himself continued to improve his incandescent bulbs; his electric light patents alone fill three bound volumes. Unfortunately, only one person captures the attention of the public and is hailed as "the" inventor, no matter how much previous work he builds on, nor how much additional work must be done to make the "invention" sufficiently useful and economical for it to become widely acceptable.[^7]
 
-.ve-media default:https://edison.rutgers.edu/images/exhibits/race-and-gender/lampfac.jpg left width=70% caption="Lamp Factory"
-
 The [Smithsonian's Hammer Collection](https://sova.si.edu/search/within/NMAH.AC.0069/?q=latimer&t=W&o=doc_position) includes a large number of incandescent bulbs, Latimer's among them, bearing testimony to the inventive activity associated with the light's development. Along with various Edison lamps, others credited to Maxim, ==Edward Weston=={Q902986}, ==St. George Lane-Fox=={Q2318542}, ==William E. Sawyer=={Q979132}, and Latimer—and many lesser-known inventors as well.[^8] All are important in the overall development of the artifact, although none of the incandescent bulbs designed in the 1880s bear much resemblance (other than general shape) to the light of today. 
+
+.ve-media default:https://edison.rutgers.edu/images/exhibits/race-and-gender/lampfac.jpg left width=70% caption="Lamp Factory"
 
 Several officers of the U.S. Electric Lighting Company encouraged the employees to suggest improvements and Latimer took the opportunity wholeheartedly. He learned every aspect of electric light design and manufacturing and gave full play to his creative talent. Of the numerous inventions Latimer made during his employment with U.S. Electric, three were patented: a new support for arc lights,  an improvement to Maxim's method of manufacturing filaments for incandescent bulbs, and a new way to attach the carbonized filament to the platinum wires that brought electricity into the bulb from the base.
 
 In addition, Latimer's unpatented inventions improved designs for virtually all the other equipment and steps involved in the lampmaking process: the oven that baked the filaments; the preparation of phosphoric anhydride (a chemical used for drying the inert gas that filled the bulb and prolonged the filament life); glassblowing equipment to produce bulbs; and a new socket and switch.
 
 It is not known, and may never be clear, just how much of Latimer's abundant invention was actually adopted by the U.S. Electric Lighting Company. As Latimer himself later testified, several of the workmen had made suggestions and were paid for them. [^9] Any single improvement may not have made the crucial difference; taken together, however, the sum of the small developments resulted in a commercially acceptable system.
-
-.ve-media default: right width=50% caption="Phosphoric Anyhydride Apparatus, 1881"
 
 When the company moved to Brooklyn in 1880, Latimer moved with it and continued to diversify his achievements. In addition to his desk work and shop work, he went out into the field assisting in arc and incandescent installations of Maxim equipment in New York, Philadelphia, and Montreal. In his logbook, he later recalled:
 
