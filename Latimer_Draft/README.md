@@ -195,8 +195,8 @@ Throughout his life, Latimer pursued his objectives with quiet dignity. The test
 
 ### Read Latimer's Obituary
 
-.ve-media https://edisondigital.rutgers.edu/iiif/PA700 left width=70% 
-Read the Edison Pioneers Obituary for Lewis Latimer from 1928
+.ve-media https://edisondigital.rutgers.edu/iiif/PA700 left width=70% caption="Latimer's Obituary from 1928" 
+
 
 ### Explore Latimer's Patents
 .ve-media  https://edisondigital.rutgers.edu/iiif/PAT252386 right width=70% caption="Latimer's Electric Lamp"
