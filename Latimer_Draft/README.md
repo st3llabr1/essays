@@ -43,7 +43,7 @@ While in Boston, Lewis Latimer had prepared himself for a technical career, and 
 
 >*In 1879 I . . . was at work in a machine shop doing a short job of mechanical drawing, when a stranger came in and expressed himself as delighted to find a draughtsman, as he had for weeks been looking for one to make some Pattent Office drawings for him, this stranger proved to be Sir Hiram Maxim of gun fame, altho he was up to that time plain Hiram Maxim. He was at this time chief engineer and inventor of the U.S. Electric Lighting Co, and he engaged me there and then to become his draughtsman and private secretary. Within a week from the time we first met I was installed in Mr. Maxim's office busily following my vocation of mechanical draughtsman, and aquainting myself with every branch of electric incandescent light construction and operation.*[^5]
 
-.ve-media default:https://edison.rutgers.edu/images/exhibits/race-and-gender/brdgprt.jpg: left width=50% caption="Bridgeport, CT"
+.ve-media default:https://edison.rutgers.edu/images/exhibits/race-and-gender/brdgprt.jpg right width=70% caption="Bridgeport, CT"
 
 At about the time Latimer began work at U.S. Electric Lighting, in March of 1880, he was elected to membership in Bridgeport's Scientific Society, an organization to which Maxim and other local notables also belonged. In a paper presented to the Society in May, Latimer argued that art and science were closely related; he continued to personify the relationship throughout his life, as his restless creativity found outlet in music, literature, and fine art, as well as in technical inventions.[^6]
 
