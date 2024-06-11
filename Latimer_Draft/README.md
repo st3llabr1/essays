@@ -191,7 +191,7 @@ Poetry was not an unusual activity for "technical" men: On the occasion of Lewis
 
 Throughout his life, Latimer pursued his objectives with quiet dignity. The testimony of his career, his colleagues, and his family affirms his high level of success. Perhaps the truest words appeared in the [editorial obituary](https://credo.library.umass.edu/view/pageturn/mums312-b178-i618/#page/1/mode/1u) of the Amsterdam News on December 19, 1928: “His work in science was an achievement and his personal life was a work of art.”
 
-### Read Latimer's Obituary
+### Read Latimer's Obituary from the Edison Pioneers
 
 .ve-media https://edisondigital.rutgers.edu/iiif/PA700 left width=70% caption="Latimer's Obituary from 1928" 
 
