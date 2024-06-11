@@ -1,3 +1,5 @@
+.ve-header "Race Gender, and the American Patent System in the Age of Edison" default:https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct: 10, 25, 80, 60 center sticky
+
 ## Introduction
 As hidden figures within the world of invention, many inventors often fought for recognition of their ideas and contributions in the form of exhibitions such as the Philadelphia Centennial Exhibition or the Chicago’s World Fair. It was important to acknowledge that the space for women and inventors of color was different reflecting their experiences with inventions and patenting. These exhibitions offered an opportunity to recognize and applaud the participation of marginalized inventors in advancing America as a whole. As new inventions correlated strongly with a better quality of life, it becomes important to identify moments in which these contributors were honored as well as when they were deliberately concealed. 
 
