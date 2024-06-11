@@ -14,13 +14,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 ## A Short Introduction on Edison
 ##### By Paul B. Israel
 
-By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. patents](https://archive.org/details/edison-patent). Most of his patents related to the following industries: 
-1) electric light and power, 
-2) sound recordings, 
-3) telegraphs and telephones, 
-4) batteries, 
-5) oil mining and milling, and 
-6) Portland cement.
+By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. patents](https://archive.org/details/edison-patent). Most of his patents related to the following industries: 1) electric light and power, 2) sound recordings, 3) telegraphs and telephones, 4) batteries, 5) oil mining and milling, and 6) Portland cement.
 
 They also included improvements for motion picture technology, office macinery, chemical production, and miscellaneous other subjects. 
 
