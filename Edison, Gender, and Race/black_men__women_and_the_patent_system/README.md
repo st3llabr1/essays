@@ -1,3 +1,5 @@
+.ve-header "Race Gender, and the American Patent System in the Age of Edison" default:https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct: 10, 25, 80, 60 center sticky
+
 # Black Men and Women in the Patent System
 
 .ve-media wc:Smithsonian_Building_NR.jpg left width=80% caption="Smithsonian Institute"
