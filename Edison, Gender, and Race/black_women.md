@@ -18,5 +18,15 @@ Initially working as a housekeeper, before moving on to become a clerk in a cens
 
 ## Further Reading and Resources
 
+#### Martha Jones
+["A Celebration of Black Inventors"](https://www.cll.com/newsroom-news-173003#:~:text=Believed%20to%20be%20the%20first,from%20corn%20in%20one%20operation)
+[This Day in History: Martha Jones becomes first Black woman to recieve a U.S. Patent](https://www.history.com/this-day-in-history/martha-jones-first-black-woman-patent-corn-husker)
+
+[A Better Way to Husk: Martha Jones, First Black Woman to Receive a U.S. Patent](https://ipwatchdog.com/2021/02/01/better-way-husk-martha-jones-first-black-woman-receive-patent/id=129514/)
+
+[Meet the Black woman who challenged California Jim Crow and kep the state's wine industry alive](https://www.arkrepublic.com/2021/02/20/meet-the-black-woman-who-challenged-california-jim-crow-and-kept-the-states-wine-industry-alive-plus-7-other-facts-about-african-americans-in-us-agriculture/)
+
+[The Black American Inventors, Scientists, and Engineers Who Changed the World - Part Two](https://interestingengineering.com/culture/black-inventors-the-complete-list-of-genius-black-american-african-american-inventors-scientists-and-engineers-with-their-revolutionary-inventions-that-changed-the-world-and-impacted-history-part-two)
+
 
 [^1]:"[Uncovering History's Black Women Inventors"](https://2014-2017.commerce.gov/news/blog/2014/02/uncovering-historys-black-women-inventors.html)
