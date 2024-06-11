@@ -1,3 +1,4 @@
+.ve-header "Race, Gender, and Patents in the Age of Edison" default:https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct: 10, 25, 80, 60 center sticky
 
 # Creating the U.S. Patent system 
 .ve-media wc:Constitution_of_the_United_States,_page_1.jpg left width=80%
@@ -20,4 +21,3 @@ General and specialized technical journals of the day publicized and promoted th
 .ve-media wc:Patent_official%2C_patent_record_files._Files_of_patents_of_which_2%2C180%2C00_have_been_issued._These_files_extend_over_50_miles_in_total_length_and_are_kept_in_air_conditioned_portion_of_the_LCCN2016877283.jpg left width=80% caption="Patent record storage in 1940"
 
 When describing the patent system's contribution to American progress, nineteenth-century advocates usually pointed to major inventions such as Samuel Morse's ==telegraph=={Q6987428}, Cyrus McCormick's ==reaper=={Q1367947}, and Elias Howe's ==sewing machine=={Q49013}. Most patents and inventions, however, represented improvements or variations of existing technologies. Some of these later became as essential to an industry as the patent that gave it birth. Improvements often allowed a technology to develop in new ways or made its use more profitable. An important improvement provided competitive advantages to the firm that controlled the patent and, in a few cases, even prevented competition by denying use of an essential invention. While a patented variation might not improve the operation of a technology, the firm already possessing key patents for a technology might use it to prevent someone else from patenting or using an alternative method not embodied in those patents. Such noncompetitive use of patents received little public attention until late in the century, when large firms gained increasing power in American society. As firms competed for larger market shares, control not only of inventions but of the inventors themselves often became an important strategy.
-
