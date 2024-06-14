@@ -1,4 +1,4 @@
-.ve-header "Diary Entry #1" https://edisondigital.rutgers.edu/iiif/PAT252386 "Menlo Park N.J. July 12, 1885" pct:30,30,60,40 center sticky 
+.ve-header "Inventing a Better Life: Latimer's Technical Career" https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:30,30,60,40 center sticky 
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, scholar Bayla Singer, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
