@@ -28,5 +28,9 @@ Initially working as a housekeeper, before moving on to become a clerk in a cens
 
 [The Black American Inventors, Scientists, and Engineers Who Changed the World - Part Two](https://interestingengineering.com/culture/black-inventors-the-complete-list-of-genius-black-american-african-american-inventors-scientists-and-engineers-with-their-revolutionary-inventions-that-changed-the-world-and-impacted-history-part-two)
 
+#### Ellen Eglin
+
+#### Mariam E. Benjamin
+
 
 [^1]:"[Uncovering History's Black Women Inventors"](https://2014-2017.commerce.gov/news/blog/2014/02/uncovering-historys-black-women-inventors.html)
