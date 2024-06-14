@@ -1,4 +1,4 @@
-.ve-header "Diary Entry #1" https://edisondigital.rutgers.edu/iiif/MA001 "Menlo Park N.J. July 12, 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. July 12, 1885}==placeholder=={Menlo Park N.J. July 12, 1885}[]
+.ve-header "Diary Entry #1" https://edisondigital.rutgers.edu/iiif/PAT252386 "Menlo Park N.J. July 12, 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. July 12, 1885}==placeholder=={Menlo Park N.J. July 12, 1885}[]
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, scholar Bayla Singer, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
