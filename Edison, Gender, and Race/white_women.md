@@ -1,3 +1,5 @@
+.ve-header "Race Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:50,70,100,100 sticky 
+
 # White Women Inventors
 
 .ve-iframe https://archive.org/embed/0003WOM left width=70%
