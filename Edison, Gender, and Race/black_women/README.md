@@ -20,6 +20,7 @@ Initially working as a housekeeper, before moving on to become a clerk in a cens
 
 #### Martha Jones
 ["A Celebration of Black Inventors"](https://www.cll.com/newsroom-news-173003#:~:text=Believed%20to%20be%20the%20first,from%20corn%20in%20one%20operation)
+
 [This Day in History: Martha Jones becomes first Black woman to recieve a U.S. Patent](https://www.history.com/this-day-in-history/martha-jones-first-black-woman-patent-corn-husker)
 
 [A Better Way to Husk: Martha Jones, First Black Woman to Receive a U.S. Patent](https://ipwatchdog.com/2021/02/01/better-way-husk-martha-jones-first-black-woman-receive-patent/id=129514/)
@@ -29,6 +30,13 @@ Initially working as a housekeeper, before moving on to become a clerk in a cens
 [The Black American Inventors, Scientists, and Engineers Who Changed the World - Part Two](https://interestingengineering.com/culture/black-inventors-the-complete-list-of-genius-black-american-african-american-inventors-scientists-and-engineers-with-their-revolutionary-inventions-that-changed-the-world-and-impacted-history-part-two)
 
 #### Ellen Eglin
+[Ellen Elgin (1849-?](https://www.blackpast.org/african-american-history/people-african-american-history/ellen-eglin-1849/)
+
+[Ellen Eglin: The Black Woman who sold her incredible invention for $18. Why? 'White ladies would not buy an invention by a Negro woman'](https://medium.com/exploring-history/the-black-woman-who-sold-her-invention-for-18-1d2663b0f65f)
+
+[Who Invents and Who Gets the Credit?](https://invention.si.edu/who-invents-and-who-gets-credit)
+
+[Ellen Eglin-Inventor, Advocate, and Cautionary Tale](https://urbanintellectuals.com/ellen-eglin-inventor-advocate-cautionary-tale/)
 
 #### Mariam E. Benjamin
 
