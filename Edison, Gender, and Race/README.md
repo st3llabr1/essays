@@ -1,4 +1,4 @@
-.ve-header "Race Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:50,70,100,100 sticky 
+.ve-header "Race Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:10,50,150,150 sticky 
 
 # Race, Gender, and the American Patent System in the Age of Edison
 
