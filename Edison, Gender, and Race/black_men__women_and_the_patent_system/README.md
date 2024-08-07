@@ -1,7 +1,6 @@
 .ve-header "Race Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:10,50,150,150 sticky 
 
 # Black Men and Women in the Patent System
-
 .ve-media wc:Smithsonian_Building_NR.jpg left width=80% caption="Smithsonian Institute"
 In 2016, the Smithsonian’s [Lemelson Center for the study of Invention and Innovation](https://invention.si.edu/) held a [webinar series](https://invention.si.edu/black-inventors-and-innovators-new-perspectives) that examined and discussed the inventions and creations of Black inventors in the history of the United States. From these discussions, it became clear cultural heritage institutions have played a significant role in downplaying the inventions and creativity of Black inventors, due to a too narrow definition of American innovation. Rayvon Fouché, an African-American historian of technology, argued that invention narratives “prioritize efficiency, improvement, dominion, and power, often overlooking those forms of invention that do not receive patents and that prioritize art, expression, morality and spirituality.”[^1] . 
 
