@@ -12,9 +12,9 @@ Martha Jones was the first Black woman to receive a U.S. patent in 1868, the sam
 .ve-media wc:Clothes_Wringer_%281903_advertisement%29.jpg left width=50%
 Initially working as a housekeeper, before moving on to become a clerk in a census office, ==Ellen Eglin=={Q16974499} developed the clothes wringer in 1888. While the invention and development of the project was entirely her own, Eglin describes why she had to sell the invention for $18, an incredibly low sum, to someone who would profit extensively from her invention.. She told *The Woman Inventor* that, “...if it was known that a negro woman patented the invention, white ladies would not buy the wringer…”, Eglin was well aware of the animosity between White women and Black women as well as how that affected their perceived relations and interactions with each other. Eglin believed that the only way her invention would succeed would be if somebody else bought it and then passed it as their own. In a strategic move to distance herself from the invention, Eglin exemplifies the ways in which some inventors had to make difficult decisions about their inventions. Her invention was created out of pure desire to solve a problem and not out of economic want or need. Eglin committed a truly selfless act by selling the patent, not in an effort to generate revenue, but rather to provide an invaluable invention to the domestic household sector.
 
-## Mariam E. Benjamin (1861-1947)
+## Miriam E. Benjamin (1861-1947)
 .ve-media default:https://patentimages.storage.googleapis.com/bc/ce/78/ae99e061f606b9/US386289-drawings-page-1.png right width=50% caption="Patent No. 386,289" 
-==Mariam Benjamin=={Q6873283} is best known for her 1888 patent on the gong and signal chair for hotels. A person would sit in the chair and press a button, which would ring a bell and display the red side of the ball on the back of the chair, which would show a staff member that they were needed. She lobbied to have it adopted in the House of Representatives in 1895, and though it was rejected, it is considered the precursor to the signaling system for flight attendants on airplanes. Benjamin was a school teacher, working in Jacksonville, Florida, and Washington D.C. While in Washington D.C., she attended Howard University medical school, passed the civil service examiniation, worked as a government clerk, obtained legal training and became an attorney. Using her training, she became a solicitor of patents, helping her brother, among others, with their patent applications. Benjamin's invention was also featured in the Cotton States and International Exhibition in 1895, which was to "promote the American South to the world and showcase products and new technologies." At this same convention, Booker T. Washington gave one of the most important and influential speches in American History, the [Atlanta Compromise](https://historymatters.gmu.edu/d/39/). Later in life, she patented two more inventions for dressmaking and footwear, while continuing to work as an attorney in Boston. Benjamin is considered one of the first African-American women inventors.
+==Miram Benjamin=={Q6873283} is best known for her 1888 patent on the gong and signal chair for hotels. A person would sit in the chair and press a button, which would ring a bell and display the red side of the ball on the back of the chair, which would show a staff member that they were needed. She lobbied to have it adopted in the House of Representatives in 1895, and though it was rejected, it is considered the precursor to the signaling system for flight attendants on airplanes. Benjamin was a school teacher, working in Jacksonville, Florida, and Washington D.C. While in Washington D.C., she attended Howard University medical school, passed the civil service examiniation, worked as a government clerk, obtained legal training and became an attorney. Using her training, she became a solicitor of patents, helping her brother, among others, with their patent applications. Benjamin's invention was also featured in the Cotton States and International Exhibition in 1895, which was to "promote the American South to the world and showcase products and new technologies." At this same convention, Booker T. Washington gave one of the most important and influential speches in American History, the [Atlanta Compromise](https://historymatters.gmu.edu/d/39/). Later in life, she patented two more inventions for dressmaking and footwear, while continuing to work as an attorney in Boston. Benjamin is considered one of the first African-American women inventors.
 
 ## Further Reading and Resources
 
@@ -38,7 +38,17 @@ Initially working as a housekeeper, before moving on to become a clerk in a cens
 
 [Ellen Eglin-Inventor, Advocate, and Cautionary Tale](https://urbanintellectuals.com/ellen-eglin-inventor-advocate-cautionary-tale/)
 
-#### Mariam E. Benjamin
+#### Miriam E. Benjamin
+[Miriam E. Benjamin (1861-1947](https://www.blackpast.org/african-american-history/benjamin-miriam-e-1861-1947/)
+
+[Miram Benjamin, Inventor, and Teacher born](https://aaregistry.org/story/miriam-benjamin-inventor-born/)
+
+[Pioneering the Future: Miriam E. Benjamin and Her Revolutionary Gong and Signal Chair](https://www.intelligentliving.co/pioneering-the-future-miriam-e-benjamin-and-her-revolutionary-gong-and-signal-chair/)
+
+[Miriam Elizabeth Benjamin - A Woman of Many Talents](https://urbanintellectuals.com/miriam-elizabeth-benjamin-woman-many-talents/)
+
+
+
 
 
 [^1]:"[Uncovering History's Black Women Inventors"](https://2014-2017.commerce.gov/news/blog/2014/02/uncovering-historys-black-women-inventors.html)
