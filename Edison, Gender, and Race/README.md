@@ -1,8 +1,6 @@
 .ve-header "Race Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:10,50,150,150 sticky 
 
-# Race, Gender, and the American Patent System in the Age of Edison
-
-This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
+# Race, Gender, and the American Patent System in the Age of Edison 
 
 - [Home](/)
     - [Race, Gender, and the American Patent System in the Age of Edison](/introduction)
@@ -12,6 +10,12 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
     - [Black Women in the Patent System](/4)
     - [White Women in the Patent System](/5)
     - [Invention Exhibitions](/6)
+
+This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
+
+## Essays {.cards}
+### Race, Gender, and the American Patent System in the Age of Edison {href=1}
+
 
 ## A Short Introduction on Edison
 ##### By Paul B. Israel
