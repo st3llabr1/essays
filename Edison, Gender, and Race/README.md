@@ -11,7 +11,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 #### Black Men and Women in the Patent System {href=2}
 
-#### Black Men in the Patent System {href=3}
+#### Black Men in the Patent System {href=black_men.md}
 
 #### Black Women in the Patent System {href=4}
 
