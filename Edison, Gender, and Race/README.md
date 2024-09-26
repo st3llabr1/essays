@@ -15,7 +15,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 ## Essays {.cards}
 ### Creating the U.S. Patent System {href=History_patent_system}
-### Black Men and Women in the Patent System {href=
+### Black Men and Women in the Patent System {href=black_men_women_and_patent_system}
 
 
 ## A Short Introduction on Edison
