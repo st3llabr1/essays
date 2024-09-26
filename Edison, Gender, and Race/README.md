@@ -6,15 +6,18 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 ### Essays {.cards}
 
-#### Creating the U.S. Patent System {href=1}
+#### Creating the U.S. Patent System  {href=1}
 ![](Collection of United States patents granted to Thomas A. Edison, 1869-1884 (1869) (14733648006).jpg)
+
 #### Black Men and Women in the Patent System {href=2}
+
 #### Black Men in the Patent System {href=3}
+
 #### Black Women in the Patent System {href=4}
+
 #### White Women in the Patent System {href=5}
+
 #### Invention Exhibitions {href=6}
-
-
 
 
 ## A Short Introduction on Edison
