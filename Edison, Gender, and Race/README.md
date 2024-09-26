@@ -13,13 +13,17 @@
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
-## Essays {.cards}
-### Creating the U.S. Patent System {href=History_Patent_System}
-### Black Men and Women in the Patent System {href=black_men_women_and_patent_system}
-### Black Men in the Patent System {href=black_men}
-### Black Women in the Patent System {href=black_women}
-### White Women in the Patent System {href=white_women}
-### Invention Exhibitions {href=invention_exhibitions}
+### Essays {.cards}
+
+#### Creating the U.S. Patent System {href=1}
+![]https://edisondigital.rutgers.edu/iiif/2/D8370ZDS/manifest)
+#### Black Men and Women in the Patent System {href=2}
+#### Black Men in the Patent System {href=3}
+#### Black Women in the Patent System {href=4}
+#### White Women in the Patent System {href=5}
+#### Invention Exhibitions {href=6}
+
+
 
 
 ## A Short Introduction on Edison
