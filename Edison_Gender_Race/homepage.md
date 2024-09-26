@@ -4,7 +4,7 @@
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
-### Essays {.cards}
+### Essays  {.cards}
 
 #### Creating the U.S. Patent System  {href=1.md}
 
