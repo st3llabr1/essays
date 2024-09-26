@@ -2,21 +2,12 @@
 
 # Race, Gender, and the American Patent System in the Age of Edison 
 
-- [Home](/)
-    - [Race, Gender, and the American Patent System in the Age of Edison](/introduction)
-    - [Creating the U.S. Patent System](/1)
-    - [Black Men and Women in the Patent System](/2)
-    - [Black Men in the Patent System](/3)
-    - [Black Women in the Patent System](/4)
-    - [White Women in the Patent System](/5)
-    - [Invention Exhibitions](/6)
-
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
 
 ### Essays {.cards}
 
 #### Creating the U.S. Patent System {href=1}
-![]https://edisondigital.rutgers.edu/iiif/2/D8370ZDS/manifest)
+![](Collection of United States patents granted to Thomas A. Edison, 1869-1884 (1869) (14733648006).jpg)
 #### Black Men and Women in the Patent System {href=2}
 #### Black Men in the Patent System {href=3}
 #### Black Women in the Patent System {href=4}
