@@ -1,4 +1,4 @@
-.ve-header "Norman Studio Speaker Series" wc:Norman_Studios_logo_1926.jpg width=80% full center sticky
+.ve-header "Norman Studio Speaker Series" wc:Norman_Studios_logo_1926.jpg width=80% full sticky
 
 ## Introducing the Speaker
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3957.JPG caption="Jim Kerkhoff" left width=100%
