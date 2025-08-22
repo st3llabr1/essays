@@ -33,7 +33,10 @@ The [Norman Studios](Q7052829) was founded by [Richard E. Norman] in 1924, which
 Click on the markers to see what some of the most prevelant film studio locations are today.
 
 Click on the text below to trigger a fly-to action.
+- [Vim Comedy Company](flyto/30.316149,-81.67681)
 - [Norman Studios](flyto/30.333808,-81.593665)
+- [Kalem Company](flyto/30.367687,-81.635154)
+- [The Edison Company](flyto/30.3186181,-81.6562802)
 
 .ve-map center=30.316149,-81.63681,11 basemaps=OpenStreetMap right width=100%
     - 30.316149,-81.67681 "Vim Comedy Company" "Vim Comedy Company is now a parking garage." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-18%20131859.png
