@@ -63,6 +63,7 @@ The second film was produced by [Jaxon Film Corporation] and also stared Pokes a
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3993.JPG right width=80% height=100px
 
 The Jacksonville History Center aimed to highlight Norman Studios' impact with the physical exhibit that was displayed during the event. On prominent display was an early 1900's film projector with accompanying film reels. There were several references to Norman Studio's most famous productions through the form of photographs and newspaper clippings as well as a promotional poster for "Black Gold". Along with those were three business cards all relating to Norman Studios and Norman Laboratories. Two books that featured Norman Studio as well as prolific film figures were also on display. The first being "Richard E. Norman and Race Filmmaking" by Barbara Tepa Lupack and the second "The First Hollywood: Florida and the Golden Age of Silent Filmmaking" by Shawn C. Bean. Each item was carefully curated by the Jacksonville History Center's Research Archivist, Shawn Stermer. A sensativity notice was posted as some of the artifacts held outdated verbage.
+#
 
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left height=500px
 
