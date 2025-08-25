@@ -74,9 +74,7 @@ The Jacksonville History Center aimed to highlight Norman Studios' impact with t
 
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/Nancy%20Serving.JPG left width=80% caption="Nancy Gandy stands behind the refreshments table."
 
-
-         
-      
+Narrative of how it went, Nancy Gandy, Job title, catered to 75-80 people. Feedback survey quotes, including how the exhibit was received. 
       
 
 
