@@ -38,21 +38,6 @@ The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) in
       - 30.3186181,-81.6562802 "The Edison Company" "The Edison Company is now the site of The Strand apartment buildings." gh:JHCDigital/Norman-Studio-Speaker-Series/the-strand-jacksonville-fl-building-photo.jpg
 
 Click on the markers to see what some of the most prevelant film studio locations are today.
-#
-**Vim Comedy Company**
-#
-**Norman Studios**
-#
-**Kalem Company**
-#
-**The Edison Company**
-
-
-
-
-
-
-
 
 # Silent Films
 
