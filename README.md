@@ -65,9 +65,9 @@ The second film, *Jolly Tars* was produced by [Jaxon Film Corporation](Q18466827
 The Jacksonville History Center highlighted Norman Studios' impact with an exhibit of artifacts included items from Norman Studios past and Jacksonville's film history. On prominent display was an early 1900's film projector with accompanying film reels. There were several references to Norman Studio's most famous productions through the form of photographs and newspaper clippings as well as a promotional poster for "Black Gold". Along with those were three business cards all relating to Norman Studios and Norman Laboratories. Two books that featured Norman Studio as well as prolific film figures were also on display: *Richard E. Norman and Race Filmmaking* by Barbara Tepa Lupack and the second *The First Hollywood: Florida and the Golden Age of Silent Filmmaking* by Shawn C. Bean. Each item was carefully curated by the Jacksonville History Center's Research Archivist, Shawn Stermer, and Archies Assistant, Sherrard Ceglia. A sensitivity notice was posted as some of the artifacts used outdated language.
 #
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left height=500px
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left caption="Exhibit with newspaper clippings, books, and a film projector"
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3982.JPG right width=100%
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3982.JPG right width=100% caption="Research Archivist Shawn Stermer stands proudly next to the exhibit"
 
 
 # Event Reception
