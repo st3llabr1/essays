@@ -48,7 +48,7 @@ Click on the text below to trigger a fly-to action.
 
 ## Ups and Downs
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3963.JPG right 
+.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3963.JPG right caption="Audience watches *Ups and Downs* at Old St. Andrews"
 
 The first film the audience got to watch was a film produced by Vim Comedy Company featuring Oliver "Babe" Hardy as "Shifty Mike", [Bobby Burns](Q2907933) as "Pokes", [Walter Stull](Q7966222) as "Jabbs", and [Ethel Marie Burton](Q79860139) as "Ethel". Bobby Burns and Walter Stull were a well known comedy duo that made up Pokes & Jabbs. They had 12 comedy shorts and though not as popular as Laurel & Hardy, they were well acclaimed. In *Ups and Downs*  Ethel is Jabbs' beautiful daughter who is accosted by Shifty Mike as he carresses her and kisses her lips. Hearing Ethel scream Jabbs comes to her rescue and manages to chase Shifty away. Pokes is Ethel's true love, though he isn't very wealthy. Shifty sets up a scheme to hire someone to try and obstruct Jabbs so he can get to his daughter. Pokes is the one to take up the offer, unknowingly working for his love's assailant. Pokes is ordered to throw an explosive through the window of the Jabbs residence. Antics ensue and the whole cast minus Ethel plays a game of hot potato with the live explosive that ends back around to Pokes' feet as it detonates. Shifty runs off to capture Ethel with Pokes hot on his tail. Shifty and Pokes get in a physical altercation that ends with Pokes being victorious and successfully rescuing his sweetheart in the end.
 
