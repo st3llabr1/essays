@@ -25,10 +25,10 @@ Despite the firstly welcoming attitude Jacksonville had for the studios, tension
 ## Norman Studios
 .ve-media wc:RichardENorman.jpg left width=80% caption="Richard E. Norman"
 
-The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) in 1924, which was years after the film industry's heyday in Jacksonville. Norman began producing silent films that starred all-Black casts in positive, empowered roles. This approach directly contrasted the film standard of casting Black actors as side characters or stereotypes of the Jim Crow Era. Because it was such a timultuous time, the impact of his work shaped not only societal expectations but also standards for the future film industry. Norman Studios contributed to the city’s cultural identity and carved out a prolific place in cinematic history. He came out with several shorts and eight films, most notably "[The Flying Ace](Q7734570)" and "Black Gold". Norman Studios not only contributed to the city’s cultural identity but also carved out a prolific place in cinematic history. Today, the original location of Norman Studios has been transformed into the Norman Studios Silent Film Museum and remians the only standing studio from Jacksonville's early filmmaking period. Now, the museum is an all volunteer non-profit organization that continuously strives to preserve, present and promote the history of silent movies and race films in Northeast Florida.
-#
+The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) in 1924, which was years after the film industry's heyday in Jacksonville. Norman began producing silent films that starred all-Black casts in positive, empowered roles. This approach directly contrasted the film standard of casting Black actors as side characters or stereotypes of the Jim Crow Era. Because it was such a timultuous time, the impact of his work shaped not only societal expectations but also standards for the future film industry. Norman Studios contributed to the city’s cultural identity and carved out a prolific place in cinematic history. He came out with several shorts and eight films, most notably "[The Flying Ace](Q7734570)" and "Black Gold".  Norman Studios not only contributed to the city’s cultural identity but also carved out a prolific place in cinematic history. Today, the original location of Norman Studios has been transformed into the Norman Studios Silent Film Museum and remians the only standing studio from Jacksonville's early filmmaking period. Now, the museum is an all volunteer non-profit organization that continuously strives to preserve, present and promote the history of silent movies and race films in Northeast Florida.
 #### [Watch "The Flying Ace" and read the transcript](https://en.wikisource.org/wiki/The_Flying_Ace) 
-#
+
+
 ## Urban Expansion
 Click on the markers to see what some of the most prevelant film studio locations are today.
 Click on the text below to trigger a fly-to action.
@@ -37,7 +37,7 @@ Click on the text below to trigger a fly-to action.
 - [Kalem Company](flyto/30.367687,-81.635154)
 - [The Edison Company](flyto/30.3186181,-81.6562802)
 
-.ve-map center=30.316149,-81.63681,11 basemaps=OpenStreetMap right width=100%
+.ve-map center=Q16568,11 basemaps=OpenStreetMap right width=100%
     - 30.316149,-81.67681 "Vim Comedy Company" "Vim Comedy Company is now a parking garage." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-18%20131859.png
       - 30.333808,-81.593665 "Norman Studios" "Norman Studios is located in Arlington." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-15%20123622.png
       - 30.367687,-81.635154 "Kalem Company" "Kalem Company is now an empty lot." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-15%20123226.jpg
