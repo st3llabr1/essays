@@ -40,8 +40,11 @@ The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) in
 Click on the markers to see what some of the most prevelant film studio locations are today.
 
 **Vim Comedy Company**
+#
 **Norman Studios**
+#
 **Kalem Company**
+#
 **The Edison Company**
 
 # Silent Films
