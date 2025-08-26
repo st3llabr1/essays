@@ -32,6 +32,10 @@ The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) in
 ## Urban Expansion
 
 .ve-map class=left center=30.3321838,-81.655651,11 basemaps=OpenStreetMap
+    - 30.316149,-81.67681 "Vim Comedy Company" "Vim Comedy Company is now a parking garage." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-18%20131859.png
+      - 30.333808,-81.593665 "Norman Studios" "Norman Studios is located in Arlington." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-15%20123622.png
+      - 30.367687,-81.635154 "Kalem Company" "Kalem Company is now an empty lot." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-15%20123226.jpg
+      - 30.3186181,-81.6562802 "The Edison Company" "The Edison Company is now the site of The Strand apartment buildings." gh:JHCDigital/Norman-Studio-Speaker-Series/the-strand-jacksonville-fl-building-photo.jpg
 
 Click on the text below to trigger a fly to action.
 Click on the markers to see what some of the most prevelant film studio locations are today.
@@ -41,12 +45,8 @@ Click on the text below to trigger a fly-to action.
 - [Kalem Company](flyto/30.367687,-81.635154)
 - [The Edison Company](flyto/30.3186181,-81.6562802)
 
-.ve-map center=30.3321838,-81.655651,11 basemaps=OpenStreetMap right width=50%
-    - 30.316149,-81.67681 "Vim Comedy Company" "Vim Comedy Company is now a parking garage." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-18%20131859.png
-      - 30.333808,-81.593665 "Norman Studios" "Norman Studios is located in Arlington." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-15%20123622.png
-      - 30.367687,-81.635154 "Kalem Company" "Kalem Company is now an empty lot." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-15%20123226.jpg
-      - 30.3186181,-81.6562802 "The Edison Company" "The Edison Company is now the site of The Strand apartment buildings." gh:JHCDigital/Norman-Studio-Speaker-Series/the-strand-jacksonville-fl-building-photo.jpg
-      
+
+
 
 # Silent Films
 
