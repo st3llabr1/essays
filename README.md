@@ -58,7 +58,7 @@ The first film the audience got to watch was a film produced by Vim Comedy Compa
 The second film, *Jolly Tars* was produced by [Jaxon Film Corporation](Q18466827)s, starred Pokes and Jabbs as the main duo, and was filmed at Memorial Park, in Riverside. The film focused on two sailors noticing a county fair happening while on their ship. Looking through binoculars they see a few women hornpipe dancing and decide to pursue them. Once off the ship and into the fair they engage in a fair bit of classic gags, laughs, and hijinks. The main physical comedy came from the sailors bursting into the same hornpipe dance every few minutes as they search for the women. They encounter plenty of obstacles that served as props for their light and funny adventure. Eventually, the ending is left ambiguous with a scene of a bear in a cage escaping and the audience can assume they contiue their adventure off screen as the credits roll.
 
 # JHC Exhibit
-### Curated by Shawn Stermer & Sherrard Ceglia
+## Curated by Shawn Stermer & Sherrard Ceglia
 
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3993.JPG right width=80% height=100px
 
