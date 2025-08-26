@@ -37,16 +37,7 @@ The [Norman Studios](Q7052829) was founded by [Richard E. Norman](Q106698166) in
       - 30.367687,-81.635154 "Kalem Company" "Kalem Company is now an empty lot." gh:JHCDigital/Norman-Studio-Speaker-Series/Screenshot%202025-08-15%20123226.jpg
       - 30.3186181,-81.6562802 "The Edison Company" "The Edison Company is now the site of The Strand apartment buildings." gh:JHCDigital/Norman-Studio-Speaker-Series/the-strand-jacksonville-fl-building-photo.jpg
 
-Click on the text below to trigger a fly to action.
 Click on the markers to see what some of the most prevelant film studio locations are today.
-Click on the text below to trigger a fly-to action.
-- [Vim Comedy Company](flyto/30.316149,-81.67681)
-- [Norman Studios](flyto/30.333808,-81.593665)
-- [Kalem Company](flyto/30.367687,-81.635154)
-- [The Edison Company](flyto/30.3186181,-81.6562802)
-
-
-
 
 # Silent Films
 
