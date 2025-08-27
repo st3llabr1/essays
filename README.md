@@ -7,7 +7,7 @@ Jim Kerkhoff is an Emmy-winning writer-producer-director, who moved here to Jack
  
 ## Timeline
 
-.ve-iframe style=height:500px src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=100% allowtransparency= frameborder=0 loading=eager 
+.ve-iframe style=height:500px src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vRCm0hmZIbJV8fLGtKn12dUAuvj83s33d6MGRFLjSARZ0HLBzOZBn8m6yrXnQiaJShgO_iqyDlawr69&font=Default&lang=en&initial_zoom=2&width=100%25&height=650 allowtransparency= frameborder=0 loading=eager 
 
 ## Winter Film Capital of the World
 .ve-media wc:Roseland_Hotel_1908.jpg left width=80% caption="Winter Studios of the Kalem Company on the grounds of the Roseland Hotel"
