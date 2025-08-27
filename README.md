@@ -7,7 +7,7 @@ Jim Kerkhoff is an Emmy-winning writer-producer-director, who moved here to Jack
  
 ## Timeline
 
-.ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/1889.png width=50%
+.ve-iframe style=height:500px src=https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=100% allowtransparency= frameborder=0 loading=eager 
 
 ## Winter Film Capital of the World
 .ve-media wc:Roseland_Hotel_1908.jpg left width=80% caption="Winter Studios of the Kalem Company on the grounds of the Roseland Hotel"
@@ -58,6 +58,7 @@ The second film, *Jolly Tars* was produced by [Jaxon Film Corporation](Q18466827
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3993.JPG right width=80% height=100px caption="Exhibit with film posters and other artifacts of Jacksonville's film history"
 
 The Jacksonville History Center highlighted Norman Studios' impact with an exhibit of artifacts included items from Norman Studios past and Jacksonville's film history. On prominent display was an early 1900's film projector with accompanying film reels. There were several references to Norman Studio's most famous productions through the form of photographs and newspaper clippings as well as a promotional poster for "Black Gold". Along with those were three business cards all relating to Norman Studios and Norman Laboratories. Two books that featured Norman Studio as well as prolific film figures were also on display: *Richard E. Norman and Race Filmmaking* by Barbara Tepa Lupack and the second *The First Hollywood: Florida and the Golden Age of Silent Filmmaking* by Shawn C. Bean. Each item was carefully curated by the Jacksonville History Center's Research Archivist, Shawn Stermer, and Archies Assistant, Sherrard Ceglia. A sensitivity notice was posted as some of the artifacts used outdated language.
+
 #
 
 .ve-media gh:JHCDigital/Norman-Studio-Speaker-Series/IMG_3987%20-%20Copy.JPG left caption="Exhibit with newspaper clippings, books, and a film projector"
